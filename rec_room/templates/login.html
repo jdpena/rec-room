@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+
+{% block avatar %}
+
+    <p class="text-gray text-justify font-weight-bold px-3 py-2 small pb-4 mb-0" style="text-align: justify; text-justify: inter-word;">
+         Welcome to the <code class="text-uppercase gt-gold-text">Recommender Room</code>, or <code class="text-uppercase gt-gold-text">Rec Room</code> for short.
+         <br/><br/>
+         The <code class="text-uppercase gt-gold-text">Rec Room</code> is a platform that provides students with valuable, 
+         on-demand access to academic support services, traditionally offered only in-person, via its suite of recommender systems.
+         <br/><br/>
+         Read the <a class="gt-gold-text" href="{{ url_for('static', filename='artifacts/rec_room_proposal.pdf') }}" target="_blank"><code class="text-uppercase">paper</code></a>.
+    </p> 
+
+{% endblock avatar %}
+
+
+{% block content %} 
+
+    <!-- <div class="d-flex border-bottom p-3 w-100 align-items-center"> -->
+    <div id="login-message">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}    
+                {% for category,message in messages %}
+                    <script>
+                        //$('#message-login').addClass('bg-danger-light');
+                        $('#login-message').addClass('gt-blue-bg');    
+                    </script> 
+                    <!--<p class="{{category}} text-center font-weight-bold px-3 py-2 small"> {{message}}</p> -->
+                    <p class="gt-gold-text text-center font-weight-bold px-3 py-2 small"> {{message}}</p> 
+                {% endfor %}    
+            {% endif %}
+        {% endwith %} 
+    </div>
+
+    <div id="login-form">
+        <nav id='login-options'>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <a class="nav-item nav-link active" id="nav-login-tab" data-toggle="tab" href="#nav-login" role="tab" aria-controls="nav-home" aria-selected="true">Log In</a>
+                <a class="nav-item nav-link" id="nav-singup-tab" data-toggle="tab" href="#nav-singup" role="tab" aria-controls="nav-profile" aria-selected="false">Sign Up</a>    
+            </div>
+        </nav>
+        <div class="w-100"></div>
+        <div class="tab-content  d-flex  align-items-center justify-content-center" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-login" role="tabpanel" aria-labelledby="nav-login-tab">
+                <div class=“container-fluid”>
+                    <div class="row">
+                        <form method="POST">
+                            <div class="form-group">
+                                <label for="username">Username</label> 
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <div class="input-group-text"><i class="fas fa-user-alt"></i></div>
+                                    </div> 
+                                    <input id="username-login" name="username" placeholder="username" type="text" class="form-control"> 
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password</label> 
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <div class="input-group-text"><i class="fa fa-key"></i></div>
+                                    </div> 
+                                    <input id="pswd-login" name="password" placeholder="password" type="password" class="form-control">
+                                </div>
+                            </div>
+                            <button id='btn-login' name='action' value='login' type="submit" class="btn btn-primary gt-blue-bg">Log in</button>                    
+                        </form>                    
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="nav-singup" role="tabpanel" aria-labelledby="nav-singup-tab">
+                <div class=“container-fluid”>
+                    <div class="row">
+                        <form method="POST">
+                            <div class="form-group">
+                                <label for="username">Username</label> 
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <div class="input-group-text"><i class="fas fa-user-alt"></i></div>
+                                    </div> 
+                                    <input id="username-signup" name="username" placeholder="username" type="text" class="form-control" required> 
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password</label> 
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <div class="input-group-text"><i class="fa fa-key"></i></div>
+                                    </div> 
+                                    <input id="password-signup" name="password" placeholder="password" type="password" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="first_name">First Name</label> 
+                                <div class="input-group">
+                                    <input id="first_name-signup" name="first_name" placeholder="first name" type="text" class="form-control" required> 
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="last_name">Last Name</label> 
+                                <div class="input-group">
+                                    <input id="last_name-signup" name="last_name" placeholder="last name" type="text" class="form-control" required> 
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="university">University</label> 
+                                <div>
+                                    <select id="university" name="university" required="required" class="custom-select" required>
+                                        <option disabled selected value> -- select an option -- </option>
+                                        {% for university in universities %}
+                                            <option value="{{university.abbrev}}">{{university.name}}</option> 
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="major">Major</label> 
+                                <div>
+                                    <select id="major" name="major" class="custom-select" required="required" required>
+                                        <option disabled selected value> -- select an option -- </option>
+                                        {% for major in majors %}                                         
+                                            <option value="{{major.abbrev}}">{{major.name}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="designation">Student Designation</label> 
+                                <div>
+                                    <select id="designation" name="designation" required="required" class="custom-select" required>
+                                        <option disabled selected value> -- select an option -- </option>
+                                        {% for designation in designations %}
+                                            <option value="{{designation.abbrev}}">{{designation.name}}</option> 
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="grad">Expected Graduation Date</label> 
+                                <div>
+                                    <select id="grad" name="grad" required="required" class="custom-select" required>
+                                        <option disabled selected value> -- select an option -- </option>
+                                        {% for semester in semesters %}                                        
+                                            <option value="{{semester.abbrev}}">{{semester.name}}</option> 
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="interests">Interests</label> 
+                                <div>
+                                    <select multiple="multiple" id="interests" name="interests" class="custom-select" required>
+                                        {% for interest in interests %}
+                                            <option value="{{interest.abbrev}}">{{interest.name}}</option> 
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>            
+                            <button id='btn-signup' name='action' value='signup' type="submit" class="btn btn-primary gt-blue-bg">Log in</button>
+                        </form>                    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+{%endblock content %}
+

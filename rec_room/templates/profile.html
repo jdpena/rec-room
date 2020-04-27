@@ -1,0 +1,144 @@
+{% extends "layout.html" %}
+
+{% block content %} 
+
+<div id="login-message">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}    
+            {% for category,message in messages %}
+                <script>
+                    //$('#message-login').addClass('bg-danger-light');
+                    $('#login-message').addClass('gt-blue-bg');    
+                </script> 
+                <!--<p class="{{category}} text-center font-weight-bold px-3 py-2 small"> {{message}}</p> -->
+                <p class="gt-gold-text text-center font-weight-bold px-3 py-2 small"> {{message}}</p> 
+            {% endfor %}    
+        {% endif %}
+    {% endwith %} 
+</div>
+
+    <div id="profile-form">   
+        
+        <div id="nav-singup">
+            
+            <div class=“container-fluid”>
+                    <h4 id="form-heading" class="text-justify px-3 py-2 medium pb-2">Edit Profile</h4>
+                    <div class="w-100"></div>
+                    <div class="row">
+                    <form id="profile-form-container" method="POST">
+                        <div class="form-group">
+                            <label for="username">Username</label> 
+                            <div class="input-group ">                                
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"> <i class="fas fa-user-alt"></i></div>
+                                </div> 
+                                <input id="username-signup" name="username" placeholder="{{username}}" value="{{username}}" type="text" class="form-control" readonly="readonly"> 
+                            </div>
+                        </div>
+                        <div class="form-group"> 
+                            <label for="password">Password</label> 
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="fa fa-key"></i></div>
+                                </div> 
+                                <input id="password-signup" name="password" placeholder="password" type="password" class="form-control" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="first_name">First Name</label> 
+                            <div class="input-group">
+                                <input id="first_name-signup" name="first_name" placeholder="{{profile.first_name}}" value="{{profile.first_name}}" type="text" class="form-control"> 
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="last_name">Last Name</label> 
+                            <div class="input-group">
+                                <input id="last_name-signup" name="last_name" placeholder="{{profile.last_name}}" value="{{profile.last_name}}" type="text" class="form-control"> 
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="university">University</label> 
+                            <div>
+                            <!-- NOTE: this should come from API -->
+                                <select id="university" name="university" required="required" class="custom-select">                                    
+                                    {% for university in universities %}
+                                        {% if profile.university == university.abbrev %}
+                                            <option value="{{university.abbrev}}" selected value>{{university.name}}</option> 
+                                        {% else %}
+                                            <option value="{{university.abbrev}}">{{university.name}}</option> 
+                                        {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="major">Major</label> 
+                            <div>
+                                <!-- NOTE: this should come from API -->
+                                <select id="major" name="major" class="custom-select" required="required">
+                                    {% for major in majors %}
+                                        {% if profile['major'] == major.abbrev %}
+                                            <option value="{{major.abbrev}}" selected value>{{major.name}}</option> 
+                                        {% else %}
+                                            <option value="{{major.abbrev}}">{{major.name}}</option> 
+                                        {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="designation">Student Designation</label> 
+                            <div>
+                                <!-- NOTE: this should come from API -->
+                                <select id="designation" name="designation" required="required" class="custom-select">
+                                    {% for designation in designations %}
+                                        {% if profile.designation == designation.abbrev %}
+                                            <option value="{{designation.abbrev}}" selected value>{{designation.name}}</option> 
+                                        {% else %}
+                                            <option value="{{designation.abbrev}}">{{designation.name}}</option> 
+                                        {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="grad">Expected Graduation Date</label> 
+                            <div>
+                                <!-- NOTE: this should come from API -->
+                                <select id="grad" name="grad" required="required" class="custom-select">
+                                    {% for semester in semesters %}
+                                        {% if profile.grad == semester.abbrev %}
+                                            <option value="{{semester.abbrev}}" selected value>{{semester.name}}</option> 
+                                        {% else %}
+                                            <option value="{{semester.abbrev}}">{{semester.name}}</option> 
+                                        {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="interests">Interests</label> 
+                            <div>
+                                <!-- NOTE: this should come from API -->
+                                <select multiple="multiple" id="interests" name="interests" class="custom-select">
+                                    {% for interest in interests %}
+                                        {% if interest.abbrev in profile.interests %}                                            
+                                                <option value="{{interest.abbrev}}" selected value>{{interest.name}}</option> 
+                                            {% else %}
+                                                <option value="{{interest.abbrev}}">{{interest.name}}</option> 
+                                            {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>            
+                        <button id='btn-update' value='update' type="submit" class="btn btn-primary gt-blue-bg">Update</button>
+                    </form>                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+{%endblock content %}
+

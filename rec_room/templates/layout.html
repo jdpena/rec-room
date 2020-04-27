@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+
+{%block avatar %}
+    <div class="media d-flex align-items-center justify-content-center">
+        <img src="{{ url_for('static', filename='img/male_user.png') }}" alt="Avatar" class="mr-2 rounded-circle img-thumbnail shadow-sm"  width="150" >                                       
+    </div>
+    <div class="mr-2 py-4 px-3 d-flex justify-content-center">
+        <h4>
+            {{profile.first_name}} {{profile.last_name}}
+        </h4>
+    </div>                
+{% endblock avatar%}
+
+{% block description %}
+    <div>
+        <ul class="nav flex-column mb-0">
+            <li class="nav-item"> <a href="dashboard" class="nav-link text-dark bg-light d-flex align-items-center justify-content-center"><i class="fas fa-home"></i><span style="padding-left: 0.5rem;">Dashboard</span></a></li>
+            <li class="nav-item"> <a href="{{url_for('profile', user=username)}}" class="nav-link text-dark bg-light d-flex align-items-center justify-content-center"><i class="fas fa-user-alt"></i><span style="padding-left: 0.5rem;">Profile</span></a></li>
+            <li class="nav-item"> <a href="login" class="nav-link text-dark bg-light d-flex align-items-center justify-content-center"><i class="fas fa-sign-out-alt"></i><span style="padding-left: 0.5rem;">Logout</span></a></li>                            
+        </ul>
+    </div>
+{% endblock description %}
+
+
+        
+

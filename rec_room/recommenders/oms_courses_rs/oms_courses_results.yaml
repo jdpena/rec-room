@@ -1,0 +1,24 @@
+type: 'radar'
+data:
+    labels: None
+    datasets: None
+options: 
+    legend: 
+        display: true
+    title:
+        display: true
+        text: "Course Recommendations"
+    scales: 
+        yAxes: 
+            scaleLabel: 
+                display: false
+                labelString: "Top Recommendations"    
+            gridLines: 
+                display: false                
+            ticks:
+                display: false
+    tooltips:
+        enabled: true
+        callbacks: None                
+        titleFontSize: 10
+        bodyFontSize: 10

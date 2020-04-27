@@ -1,0 +1,3746 @@
+course_id,course_name,rating,workload,difficulty
+CS-6210,Advanced Operating Systems,5.0,20.0,5.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,4.0,25.0,5.0
+CS-6210,Advanced Operating Systems,5.0,25.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,16.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,3.0
+CS-6210,Advanced Operating Systems,2.0,25.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,12.0,5.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,18.0,5.0
+CS-6210,Advanced Operating Systems,5.0,30.0,5.0
+CS-6210,Advanced Operating Systems,4.0,18.0,5.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,19.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,4.0,7.0,4.0
+CS-6210,Advanced Operating Systems,5.0,18.0,3.0
+CS-6210,Advanced Operating Systems,5.0,25.0,5.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,3.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,5.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,30.0,4.0
+CS-6210,Advanced Operating Systems,5.0,18.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,5.0
+CS-6210,Advanced Operating Systems,3.0,20.0,4.0
+CS-6210,Advanced Operating Systems,4.0,20.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,14.0,4.0
+CS-6210,Advanced Operating Systems,4.0,15.0,5.0
+CS-6210,Advanced Operating Systems,5.0,18.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,3.0
+CS-6210,Advanced Operating Systems,4.0,20.0,5.0
+CS-6210,Advanced Operating Systems,5.0,18.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,3.0,20.0,4.0
+CS-6210,Advanced Operating Systems,5.0,20.0,4.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,2.0,25.0,5.0
+CS-6210,Advanced Operating Systems,4.0,10.0,5.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,20.0,5.0
+CS-6210,Advanced Operating Systems,4.0,12.0,4.0
+CS-6210,Advanced Operating Systems,4.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6210,Advanced Operating Systems,4.0,18.0,4.0
+CS-6210,Advanced Operating Systems,3.0,15.0,4.0
+CS-6210,Advanced Operating Systems,5.0,15.0,4.0
+CS-6601,Artificial Intelligence,4.0,15.0,3.0
+CS-6601,Artificial Intelligence,2.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,18.0,4.0
+CS-6601,Artificial Intelligence,4.0,15.0,4.0
+CS-6601,Artificial Intelligence,4.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,8.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,3.0
+CS-6601,Artificial Intelligence,4.0,15.0,3.0
+CS-6601,Artificial Intelligence,1.0,40.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,4.0
+CS-6601,Artificial Intelligence,5.0,30.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,3.0
+CS-6601,Artificial Intelligence,3.0,26.0,5.0
+CS-6601,Artificial Intelligence,4.0,25.0,5.0
+CS-6601,Artificial Intelligence,4.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,30.0,5.0
+CS-6601,Artificial Intelligence,2.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,4.0
+CS-6601,Artificial Intelligence,3.0,30.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,40.0,5.0
+CS-6601,Artificial Intelligence,4.0,25.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,24.0,4.0
+CS-6601,Artificial Intelligence,3.0,25.0,4.0
+CS-6601,Artificial Intelligence,2.0,40.0,4.0
+CS-6601,Artificial Intelligence,3.0,23.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,30.0,5.0
+CS-6601,Artificial Intelligence,5.0,15.0,3.0
+CS-6601,Artificial Intelligence,5.0,12.0,4.0
+CS-6601,Artificial Intelligence,5.0,15.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,4.0
+CS-6601,Artificial Intelligence,5.0,10.0,4.0
+CS-6601,Artificial Intelligence,1.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,25.0,5.0
+CS-6601,Artificial Intelligence,2.0,8.0,3.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,25.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,22.0,5.0
+CS-6601,Artificial Intelligence,4.0,10.0,4.0
+CS-6601,Artificial Intelligence,5.0,24.0,5.0
+CS-6601,Artificial Intelligence,4.0,15.0,3.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,12.0,4.0
+CS-6601,Artificial Intelligence,5.0,30.0,5.0
+CS-6601,Artificial Intelligence,5.0,15.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,15.0,4.0
+CS-6601,Artificial Intelligence,2.0,35.0,5.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,40.0,5.0
+CS-6601,Artificial Intelligence,4.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,16.0,3.0
+CS-6601,Artificial Intelligence,5.0,25.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,10.0,3.0
+CS-6601,Artificial Intelligence,1.0,30.0,3.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,40.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,10.0,2.0
+CS-6601,Artificial Intelligence,4.0,25.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,30.0,4.0
+CS-6601,Artificial Intelligence,5.0,12.0,3.0
+CS-6601,Artificial Intelligence,4.0,30.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,8.0,4.0
+CS-6601,Artificial Intelligence,3.0,22.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,5.0
+CS-6601,Artificial Intelligence,2.0,15.0,5.0
+CS-6601,Artificial Intelligence,4.0,8.0,3.0
+CS-6601,Artificial Intelligence,5.0,5.0,2.0
+CS-6601,Artificial Intelligence,2.0,30.0,5.0
+CS-6601,Artificial Intelligence,3.0,16.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,4.0
+CS-6601,Artificial Intelligence,4.0,40.0,5.0
+CS-6601,Artificial Intelligence,5.0,15.0,4.0
+CS-6601,Artificial Intelligence,5.0,18.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,21.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,4.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,12.0,3.0
+CS-6601,Artificial Intelligence,5.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,5.0,10.0,4.0
+CS-6601,Artificial Intelligence,2.0,32.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,15.0,4.0
+CS-6601,Artificial Intelligence,4.0,23.0,4.0
+CS-6601,Artificial Intelligence,4.0,50.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,4.0,24.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,15.0,3.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,12.0,5.0
+CS-6601,Artificial Intelligence,5.0,50.0,5.0
+CS-6601,Artificial Intelligence,4.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,16.0,4.0
+CS-6601,Artificial Intelligence,5.0,30.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,2.0,40.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,3.0
+CS-6601,Artificial Intelligence,4.0,30.0,5.0
+CS-6601,Artificial Intelligence,4.0,20.0,5.0
+CS-6601,Artificial Intelligence,4.0,15.0,4.0
+CS-6601,Artificial Intelligence,4.0,20.0,3.0
+CS-6601,Artificial Intelligence,5.0,35.0,5.0
+CS-6601,Artificial Intelligence,5.0,14.0,5.0
+CS-6601,Artificial Intelligence,5.0,15.0,5.0
+CS-6601,Artificial Intelligence,2.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,4.0,40.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,25.0,4.0
+CS-6601,Artificial Intelligence,1.0,22.0,4.0
+CS-6601,Artificial Intelligence,4.0,30.0,4.0
+CS-6601,Artificial Intelligence,5.0,20.0,5.0
+CS-6601,Artificial Intelligence,5.0,20.0,4.0
+CS-6601,Artificial Intelligence,5.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,8.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,25.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,5.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,8.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,27.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,18.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,27.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,13.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,13.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,14.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,30.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,6.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,8.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,15.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,5.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,16.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,9.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,20.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,35.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,8.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,8.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,8.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,35.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,4.0,1.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,13.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,15.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,12.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,14.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,14.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,5.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,6.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,30.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,25.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,4.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,6.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,30.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,5.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,15.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,30.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,7.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,20.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,4.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,18.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,20.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,4.0,1.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,20.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,30.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,5.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,8.0,2.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,8.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,25.0,5.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,18.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,2.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,22.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,12.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,30.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,1.0,10.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,15.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,4.0,10.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,3.0,20.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,30.0,4.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,18.0,3.0
+CS-8803-001,Artificial Intelligence for Robotics,5.0,13.0,4.0
+ISYE-6420,Bayesian Statistics,5.0,5.0,2.0
+ISYE-6420,Bayesian Statistics,4.0,8.0,4.0
+ISYE-6420,Bayesian Statistics,2.0,10.0,3.0
+ISYE-6420,Bayesian Statistics,3.0,10.0,2.0
+ISYE-6420,Bayesian Statistics,1.0,15.0,3.0
+ISYE-6420,Bayesian Statistics,3.0,4.0,2.0
+ISYE-6420,Bayesian Statistics,3.0,8.0,3.0
+ISYE-6420,Bayesian Statistics,4.0,18.0,2.0
+ISYE-6420,Bayesian Statistics,4.0,11.0,2.0
+ISYE-6420,Bayesian Statistics,4.0,10.0,2.0
+ISYE-6420,Bayesian Statistics,5.0,5.0,2.0
+ISYE-6420,Bayesian Statistics,4.0,6.0,1.0
+ISYE-6420,Bayesian Statistics,4.0,8.0,3.0
+ISYE-6420,Bayesian Statistics,4.0,10.0,3.0
+ISYE-6420,Bayesian Statistics,1.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,25.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,30.0,4.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,1.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,3.0,30.0,4.0
+CSE-6250,Big Data for Health Informatics,1.0,35.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,15.0,4.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,5.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,2.0,35.0,5.0
+CSE-6250,Big Data for Health Informatics,1.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,35.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,5.0,35.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,1.0,35.0,3.0
+CSE-6250,Big Data for Health Informatics,4.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,4.0,45.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,25.0,3.0
+CSE-6250,Big Data for Health Informatics,4.0,30.0,4.0
+CSE-6250,Big Data for Health Informatics,1.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,30.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,4.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,5.0,20.0,4.0
+CSE-6250,Big Data for Health Informatics,5.0,35.0,5.0
+CSE-6250,Big Data for Health Informatics,4.0,40.0,5.0
+CSE-6250,Big Data for Health Informatics,3.0,20.0,3.0
+MGT-6754,Business Fundamentals for Analytics,4.0,6.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,8.0,3.0
+MGT-6754,Business Fundamentals for Analytics,3.0,8.0,2.0
+MGT-6754,Business Fundamentals for Analytics,3.0,8.0,2.0
+MGT-6754,Business Fundamentals for Analytics,2.0,5.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,12.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,6.0,2.0
+MGT-6754,Business Fundamentals for Analytics,1.0,6.0,4.0
+MGT-6754,Business Fundamentals for Analytics,2.0,7.0,4.0
+MGT-6754,Business Fundamentals for Analytics,2.0,4.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,6.0,2.0
+MGT-6754,Business Fundamentals for Analytics,3.0,7.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,3.0,2.0
+MGT-6754,Business Fundamentals for Analytics,1.0,10.0,4.0
+MGT-6754,Business Fundamentals for Analytics,1.0,6.0,3.0
+MGT-6754,Business Fundamentals for Analytics,4.0,10.0,2.0
+MGT-6754,Business Fundamentals for Analytics,1.0,5.0,5.0
+MGT-6754,Business Fundamentals for Analytics,4.0,3.0,2.0
+MGT-6754,Business Fundamentals for Analytics,3.0,4.0,2.0
+MGT-6754,Business Fundamentals for Analytics,1.0,3.0,5.0
+MGT-6754,Business Fundamentals for Analytics,4.0,5.0,2.0
+MGT-6754,Business Fundamentals for Analytics,2.0,2.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,8.0,4.0
+MGT-6754,Business Fundamentals for Analytics,4.0,12.0,2.0
+MGT-6754,Business Fundamentals for Analytics,3.0,5.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,8.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,10.0,4.0
+MGT-6754,Business Fundamentals for Analytics,2.0,6.0,3.0
+MGT-6754,Business Fundamentals for Analytics,4.0,7.0,3.0
+MGT-6754,Business Fundamentals for Analytics,2.0,10.0,4.0
+MGT-6754,Business Fundamentals for Analytics,1.0,10.0,4.0
+MGT-6754,Business Fundamentals for Analytics,3.0,3.5,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,5.0,4.0
+MGT-6754,Business Fundamentals for Analytics,3.0,5.0,2.0
+MGT-6754,Business Fundamentals for Analytics,4.0,12.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,4.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,10.0,5.0
+MGT-6754,Business Fundamentals for Analytics,3.0,2.0,2.0
+MGT-6754,Business Fundamentals for Analytics,2.0,6.0,3.0
+MGT-6754,Business Fundamentals for Analytics,2.0,6.0,3.0
+MGT-6754,Business Fundamentals for Analytics,1.0,3.0,3.0
+CS-8803-008,Compilers - Theory & Practice,5.0,25.0,4.0
+CS-8803-008,Compilers - Theory & Practice,5.0,30.0,5.0
+CS-8803-008,Compilers - Theory & Practice,4.0,25.0,3.0
+CS-8803-008,Compilers - Theory & Practice,4.0,16.0,4.0
+CS-8803-008,Compilers - Theory & Practice,4.0,25.0,4.0
+CS-8803-008,Compilers - Theory & Practice,3.0,20.0,5.0
+CS-8803-008,Compilers - Theory & Practice,4.0,20.0,5.0
+CS-8803-008,Compilers - Theory & Practice,4.0,35.0,5.0
+CS-8803-008,Compilers - Theory & Practice,5.0,20.0,4.0
+CS-8803-008,Compilers - Theory & Practice,1.0,20.0,5.0
+CS-8803-008,Compilers - Theory & Practice,2.0,30.0,4.0
+CS-8803-008,Compilers - Theory & Practice,5.0,20.0,4.0
+CS-8803-008,Compilers - Theory & Practice,4.0,25.0,4.0
+CS-8803-008,Compilers - Theory & Practice,5.0,50.0,5.0
+CS-8803-008,Compilers - Theory & Practice,4.0,30.0,5.0
+CS-8803-008,Compilers - Theory & Practice,5.0,35.0,5.0
+CS-8803-008,Compilers - Theory & Practice,5.0,30.0,5.0
+CS-8803-008,Compilers - Theory & Practice,4.0,35.0,5.0
+IYSE-6740,Computational Data Analysis,5.0,10.0,4.0
+IYSE-6740,Computational Data Analysis,5.0,15.0,3.0
+IYSE-6740,Computational Data Analysis,5.0,8.0,3.0
+IYSE-6740,Computational Data Analysis,5.0,10.0,3.0
+IYSE-6740,Computational Data Analysis,4.0,15.0,3.0
+CS-6465,Computational Journalism,4.0,15.0,3.0
+CS-6475,Computational Photography,4.0,10.0,2.0
+CS-6475,Computational Photography,4.0,25.0,4.0
+CS-6475,Computational Photography,5.0,25.0,3.0
+CS-6475,Computational Photography,4.0,12.0,3.0
+CS-6475,Computational Photography,4.0,15.0,4.0
+CS-6475,Computational Photography,1.0,20.0,4.0
+CS-6475,Computational Photography,4.0,5.0,2.0
+CS-6475,Computational Photography,4.0,13.0,3.0
+CS-6475,Computational Photography,4.0,10.0,4.0
+CS-6475,Computational Photography,5.0,8.0,3.0
+CS-6475,Computational Photography,3.0,8.0,2.0
+CS-6475,Computational Photography,3.0,18.0,3.0
+CS-6475,Computational Photography,5.0,10.0,4.0
+CS-6475,Computational Photography,5.0,20.0,4.0
+CS-6475,Computational Photography,5.0,15.0,4.0
+CS-6475,Computational Photography,4.0,25.0,2.0
+CS-6475,Computational Photography,1.0,20.0,3.0
+CS-6475,Computational Photography,4.0,10.0,3.0
+CS-6475,Computational Photography,5.0,15.0,3.0
+CS-6475,Computational Photography,1.0,15.0,3.0
+CS-6475,Computational Photography,1.0,12.0,3.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,4.0,30.0,4.0
+CS-6475,Computational Photography,4.0,15.0,4.0
+CS-6475,Computational Photography,1.0,8.0,3.0
+CS-6475,Computational Photography,2.0,15.0,3.0
+CS-6475,Computational Photography,5.0,18.0,3.0
+CS-6475,Computational Photography,5.0,15.0,3.0
+CS-6475,Computational Photography,1.0,25.0,5.0
+CS-6475,Computational Photography,5.0,12.0,3.0
+CS-6475,Computational Photography,5.0,20.0,3.0
+CS-6475,Computational Photography,5.0,10.0,4.0
+CS-6475,Computational Photography,4.0,20.0,3.0
+CS-6475,Computational Photography,4.0,15.0,4.0
+CS-6475,Computational Photography,5.0,12.0,2.0
+CS-6475,Computational Photography,3.0,15.0,3.0
+CS-6475,Computational Photography,1.0,11.0,3.0
+CS-6475,Computational Photography,4.0,14.0,3.0
+CS-6475,Computational Photography,3.0,10.0,3.0
+CS-6475,Computational Photography,4.0,12.0,4.0
+CS-6475,Computational Photography,5.0,15.0,2.0
+CS-6475,Computational Photography,4.0,10.0,3.0
+CS-6475,Computational Photography,5.0,10.0,3.0
+CS-6475,Computational Photography,4.0,15.0,4.0
+CS-6475,Computational Photography,4.0,12.0,3.0
+CS-6475,Computational Photography,2.0,15.0,3.0
+CS-6475,Computational Photography,3.0,10.0,3.0
+CS-6475,Computational Photography,4.0,20.0,4.0
+CS-6475,Computational Photography,3.0,20.0,4.0
+CS-6475,Computational Photography,2.0,10.0,3.0
+CS-6475,Computational Photography,3.0,15.0,3.0
+CS-6475,Computational Photography,4.0,15.0,2.0
+CS-6475,Computational Photography,5.0,20.0,3.0
+CS-6475,Computational Photography,5.0,5.0,3.0
+CS-6475,Computational Photography,5.0,20.0,3.0
+CS-6475,Computational Photography,4.0,7.0,3.0
+CS-6475,Computational Photography,5.0,12.0,3.0
+CS-6475,Computational Photography,4.0,12.0,3.0
+CS-6475,Computational Photography,3.0,10.0,3.0
+CS-6475,Computational Photography,3.0,20.0,3.0
+CS-6475,Computational Photography,4.0,20.0,3.0
+CS-6475,Computational Photography,5.0,25.0,3.0
+CS-6475,Computational Photography,4.0,12.0,3.0
+CS-6475,Computational Photography,5.0,8.0,3.0
+CS-6475,Computational Photography,4.0,10.0,3.0
+CS-6475,Computational Photography,3.0,20.0,5.0
+CS-6475,Computational Photography,4.0,3.0,1.0
+CS-6475,Computational Photography,5.0,25.0,3.0
+CS-6475,Computational Photography,3.0,10.0,2.0
+CS-6475,Computational Photography,4.0,5.0,3.0
+CS-6475,Computational Photography,4.0,10.0,2.0
+CS-6475,Computational Photography,3.0,5.0,3.0
+CS-6475,Computational Photography,5.0,15.0,3.0
+CS-6475,Computational Photography,4.0,10.0,4.0
+CS-6475,Computational Photography,4.0,12.0,3.0
+CS-6475,Computational Photography,5.0,10.0,3.0
+CS-6475,Computational Photography,5.0,6.0,2.0
+CS-6475,Computational Photography,4.0,24.0,3.0
+CS-6475,Computational Photography,1.0,20.0,3.0
+CS-6475,Computational Photography,4.0,10.0,2.0
+CS-6475,Computational Photography,4.0,25.0,4.0
+CS-6475,Computational Photography,4.0,5.0,2.0
+CS-6475,Computational Photography,5.0,10.0,3.0
+CS-6475,Computational Photography,4.0,20.0,3.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,5.0,8.0,3.0
+CS-6475,Computational Photography,4.0,16.0,2.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,4.0,12.0,2.0
+CS-6475,Computational Photography,3.0,5.0,3.0
+CS-6475,Computational Photography,4.0,20.0,4.0
+CS-6475,Computational Photography,4.0,10.0,3.0
+CS-6475,Computational Photography,4.0,15.0,4.0
+CS-6475,Computational Photography,5.0,6.0,3.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,4.0,10.0,3.0
+CS-6475,Computational Photography,4.0,15.0,3.0
+CS-6475,Computational Photography,2.0,10.0,4.0
+CS-6475,Computational Photography,2.0,20.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,3.0,8.0,2.0
+CS-6250,Computer Networks,3.0,10.0,3.0
+CS-6250,Computer Networks,4.0,20.0,3.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,2.0,25.0,4.0
+CS-6250,Computer Networks,4.0,18.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,4.0,5.0,1.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,5.0,12.0,3.0
+CS-6250,Computer Networks,1.0,10.0,4.0
+CS-6250,Computer Networks,2.0,15.0,3.0
+CS-6250,Computer Networks,4.0,13.0,3.0
+CS-6250,Computer Networks,1.0,8.0,2.0
+CS-6250,Computer Networks,5.0,16.0,3.0
+CS-6250,Computer Networks,5.0,10.0,2.0
+CS-6250,Computer Networks,4.0,3.0,2.0
+CS-6250,Computer Networks,4.0,6.0,2.0
+CS-6250,Computer Networks,3.0,4.0,1.0
+CS-6250,Computer Networks,5.0,15.0,2.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,2.0,8.0,3.0
+CS-6250,Computer Networks,1.0,8.0,2.0
+CS-6250,Computer Networks,4.0,7.0,2.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,5.0,20.0,3.0
+CS-6250,Computer Networks,5.0,25.0,3.0
+CS-6250,Computer Networks,3.0,2.0,2.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,7.0,2.0
+CS-6250,Computer Networks,4.0,10.0,4.0
+CS-6250,Computer Networks,4.0,3.0,2.0
+CS-6250,Computer Networks,5.0,8.0,2.0
+CS-6250,Computer Networks,5.0,10.0,3.0
+CS-6250,Computer Networks,2.0,5.0,2.0
+CS-6250,Computer Networks,4.0,5.0,3.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,5.0,12.0,3.0
+CS-6250,Computer Networks,2.0,5.0,3.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,5.0,5.0,1.0
+CS-6250,Computer Networks,4.0,3.0,2.0
+CS-6250,Computer Networks,2.0,5.0,2.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,3.0,2.0,3.0
+CS-6250,Computer Networks,1.0,8.0,2.0
+CS-6250,Computer Networks,5.0,10.0,3.0
+CS-6250,Computer Networks,3.0,7.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,3.0,15.0,3.0
+CS-6250,Computer Networks,5.0,18.0,4.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,3.0,10.0,3.0
+CS-6250,Computer Networks,3.0,5.0,2.0
+CS-6250,Computer Networks,1.0,7.0,1.0
+CS-6250,Computer Networks,4.0,3.0,1.0
+CS-6250,Computer Networks,3.0,8.0,2.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,5.0,15.0,3.0
+CS-6250,Computer Networks,3.0,7.0,1.0
+CS-6250,Computer Networks,3.0,5.0,2.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,5.0,15.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,4.0,1.0
+CS-6250,Computer Networks,5.0,12.0,3.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,4.0,9.0,2.0
+CS-6250,Computer Networks,1.0,5.0,4.0
+CS-6250,Computer Networks,5.0,15.0,3.0
+CS-6250,Computer Networks,3.0,5.0,1.0
+CS-6250,Computer Networks,3.0,8.0,2.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,3.0,12.0,3.0
+CS-6250,Computer Networks,5.0,7.0,2.0
+CS-6250,Computer Networks,3.0,3.0,2.0
+CS-6250,Computer Networks,4.0,20.0,4.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,15.0,4.0
+CS-6250,Computer Networks,1.0,1.0,2.0
+CS-6250,Computer Networks,2.0,10.0,3.0
+CS-6250,Computer Networks,1.0,12.0,4.0
+CS-6250,Computer Networks,3.0,3.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,3.0,10.0,4.0
+CS-6250,Computer Networks,4.0,6.0,2.0
+CS-6250,Computer Networks,2.0,15.0,5.0
+CS-6250,Computer Networks,2.0,20.0,5.0
+CS-6250,Computer Networks,5.0,10.0,3.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,4.0,5.0,3.0
+CS-6250,Computer Networks,4.0,7.0,3.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,4.0,6.0,3.0
+CS-6250,Computer Networks,2.0,20.0,4.0
+CS-6250,Computer Networks,2.0,5.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,5.0,15.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,7.0,4.0
+CS-6250,Computer Networks,1.0,5.0,2.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,20.0,4.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,2.0,8.5,3.0
+CS-6250,Computer Networks,2.0,3.0,2.0
+CS-6250,Computer Networks,3.0,5.0,3.0
+CS-6250,Computer Networks,4.0,18.0,4.0
+CS-6250,Computer Networks,4.0,6.0,3.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,5.0,20.0,2.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,5.0,11.0,3.0
+CS-6250,Computer Networks,3.0,10.0,2.0
+CS-6250,Computer Networks,4.0,6.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,16.0,4.0
+CS-6250,Computer Networks,3.0,5.0,2.0
+CS-6250,Computer Networks,2.0,10.0,2.0
+CS-6250,Computer Networks,4.0,13.0,3.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,3.0,4.0,2.0
+CS-6250,Computer Networks,4.0,25.0,3.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,5.0,5.0,2.0
+CS-6250,Computer Networks,5.0,4.0,2.0
+CS-6250,Computer Networks,4.0,10.0,1.0
+CS-6250,Computer Networks,2.0,10.0,3.0
+CS-6250,Computer Networks,1.0,10.0,5.0
+CS-6250,Computer Networks,5.0,10.0,3.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,3.0,10.0,2.0
+CS-6250,Computer Networks,4.0,15.0,2.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,4.0,13.0,3.0
+CS-6250,Computer Networks,4.0,7.0,2.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,5.0,8.0,3.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,4.0,2.0
+CS-6250,Computer Networks,4.0,7.0,2.0
+CS-6250,Computer Networks,4.0,10.0,4.0
+CS-6250,Computer Networks,5.0,10.0,2.0
+CS-6250,Computer Networks,4.0,3.0,1.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,5.0,12.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,1.0,2.0,1.0
+CS-6250,Computer Networks,5.0,12.0,4.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,5.0,12.0,3.0
+CS-6250,Computer Networks,5.0,10.0,2.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,3.0,2.0,1.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,15.0,3.0
+CS-6250,Computer Networks,4.0,4.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,23.0,4.0
+CS-6250,Computer Networks,3.0,6.0,2.0
+CS-6250,Computer Networks,4.0,13.7,3.0
+CS-6250,Computer Networks,4.0,6.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6250,Computer Networks,4.0,8.0,2.0
+CS-6250,Computer Networks,5.0,6.0,2.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,5.0,14.0,3.0
+CS-6250,Computer Networks,3.0,2.0,2.0
+CS-6250,Computer Networks,3.0,12.0,3.0
+CS-6250,Computer Networks,1.0,10.0,3.0
+CS-6250,Computer Networks,1.0,3.0,2.0
+CS-6250,Computer Networks,3.0,10.0,2.0
+CS-6250,Computer Networks,3.0,10.0,3.0
+CS-6250,Computer Networks,2.0,8.0,2.0
+CS-6250,Computer Networks,3.0,6.0,1.0
+CS-6250,Computer Networks,5.0,12.0,4.0
+CS-6250,Computer Networks,3.0,15.0,3.0
+CS-6250,Computer Networks,4.0,10.0,3.0
+CS-6250,Computer Networks,4.0,5.0,2.0
+CS-6250,Computer Networks,5.0,7.0,3.0
+CS-6250,Computer Networks,4.0,8.0,3.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,4.0,12.0,3.0
+CS-6250,Computer Networks,3.0,8.0,3.0
+CS-6250,Computer Networks,2.0,12.0,3.0
+CS-6250,Computer Networks,3.0,4.0,2.0
+CS-6250,Computer Networks,4.0,10.0,2.0
+CS-6476,Computer Vision,4.0,40.0,5.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,40.0,4.0
+CS-6476,Computer Vision,4.0,16.0,4.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,5.0,20.0,5.0
+CS-6476,Computer Vision,4.0,9.0,3.0
+CS-6476,Computer Vision,4.0,24.0,5.0
+CS-6476,Computer Vision,5.0,22.0,4.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,4.0,15.0,4.0
+CS-6476,Computer Vision,5.0,17.0,4.0
+CS-6476,Computer Vision,4.0,40.0,5.0
+CS-6476,Computer Vision,4.0,30.0,4.0
+CS-6476,Computer Vision,5.0,22.0,4.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,5.0,40.0,4.0
+CS-6476,Computer Vision,5.0,15.0,3.0
+CS-6476,Computer Vision,5.0,30.0,4.0
+CS-6476,Computer Vision,4.0,14.0,3.0
+CS-6476,Computer Vision,5.0,18.0,4.0
+CS-6476,Computer Vision,4.0,25.0,5.0
+CS-6476,Computer Vision,4.0,30.0,4.0
+CS-6476,Computer Vision,5.0,10.0,4.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,4.0,30.0,4.0
+CS-6476,Computer Vision,4.0,20.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,10.0,4.0
+CS-6476,Computer Vision,5.0,22.0,4.0
+CS-6476,Computer Vision,4.0,18.0,5.0
+CS-6476,Computer Vision,5.0,8.0,2.0
+CS-6476,Computer Vision,4.0,25.0,5.0
+CS-6476,Computer Vision,4.0,15.0,4.0
+CS-6476,Computer Vision,1.0,20.0,4.0
+CS-6476,Computer Vision,5.0,15.0,3.0
+CS-6476,Computer Vision,5.0,20.0,5.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,25.0,3.0
+CS-6476,Computer Vision,4.0,25.0,4.0
+CS-6476,Computer Vision,5.0,17.0,5.0
+CS-6476,Computer Vision,4.0,14.0,3.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,4.0,12.0,3.0
+CS-6476,Computer Vision,5.0,22.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,4.0,20.0,4.0
+CS-6476,Computer Vision,5.0,14.0,4.0
+CS-6476,Computer Vision,4.0,25.0,5.0
+CS-6476,Computer Vision,5.0,16.0,4.0
+CS-6476,Computer Vision,5.0,30.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,4.0,20.0,4.0
+CS-6476,Computer Vision,2.0,25.0,5.0
+CS-6476,Computer Vision,4.0,25.0,4.0
+CS-6476,Computer Vision,5.0,25.0,5.0
+CS-6476,Computer Vision,5.0,25.0,5.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,5.0,22.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,4.0,10.0,3.0
+CS-6476,Computer Vision,2.0,20.0,3.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,1.0,40.0,4.0
+CS-6476,Computer Vision,5.0,15.0,5.0
+CS-6476,Computer Vision,5.0,30.0,4.0
+CS-6476,Computer Vision,5.0,15.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,4.0,20.0,4.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CS-6476,Computer Vision,4.0,11.0,3.0
+CS-6476,Computer Vision,5.0,15.0,2.0
+CS-6476,Computer Vision,4.0,20.0,4.0
+CS-6476,Computer Vision,5.0,10.0,4.0
+CS-6476,Computer Vision,5.0,9.0,4.0
+CS-6476,Computer Vision,4.0,4.0,3.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,8.0,4.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,40.0,4.0
+CS-6476,Computer Vision,3.0,20.0,4.0
+CS-6476,Computer Vision,5.0,25.0,5.0
+CS-6476,Computer Vision,5.0,40.0,4.0
+CS-6476,Computer Vision,5.0,18.0,4.0
+CS-6476,Computer Vision,4.0,25.0,5.0
+CS-6476,Computer Vision,5.0,20.0,4.0
+CS-6476,Computer Vision,5.0,30.0,4.0
+CS-6476,Computer Vision,4.0,15.0,4.0
+CS-6476,Computer Vision,1.0,35.0,4.0
+CS-6476,Computer Vision,3.0,15.0,3.0
+CS-6476,Computer Vision,4.0,11.0,4.0
+CS-6476,Computer Vision,4.0,22.0,5.0
+CS-6476,Computer Vision,4.0,30.0,5.0
+CS-6476,Computer Vision,5.0,25.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,7.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,9.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,18.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,2.0
+CSE-6040,Computing for Data Analytics,2.0,20.0,5.0
+CSE-6040,Computing for Data Analytics,5.0,6.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,5.0,5.0
+CSE-6040,Computing for Data Analytics,4.0,5.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,8.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,8.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,11.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,4.0
+CSE-6040,Computing for Data Analytics,1.0,12.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,12.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,8.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,5.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,8.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,2.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,5.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,6.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,7.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,18.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,15.0,4.0
+CSE-6040,Computing for Data Analytics,5.0,7.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,12.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,15.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,15.0,5.0
+CSE-6040,Computing for Data Analytics,4.0,8.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,9.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,6.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,6.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,6.0,2.0
+CSE-6040,Computing for Data Analytics,4.0,5.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,7.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,20.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,8.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,16.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,8.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,12.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,6.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,1.0
+CSE-6040,Computing for Data Analytics,5.0,8.0,3.0
+CSE-6040,Computing for Data Analytics,4.0,7.0,4.0
+CSE-6040,Computing for Data Analytics,4.0,10.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,2.0
+CSE-6040,Computing for Data Analytics,5.0,5.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,13.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,10.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,7.0,3.0
+CSE-6040,Computing for Data Analytics,5.0,21.0,5.0
+CSE-6040,Computing for Data Analytics,4.0,20.0,5.0
+CS-7639,Cyber Physical Design & Analytics,1.0,10.0,4.0
+CS-7639,Cyber Physical Design & Analytics,1.0,15.0,5.0
+CS-7639,Cyber Physical Design & Analytics,2.0,20.0,4.0
+CS-7639,Cyber Physical Design & Analytics,1.0,10.0,3.0
+CS-7639,Cyber Physical Design & Analytics,5.0,18.0,3.0
+CS-7639,Cyber Physical Design & Analytics,4.0,3.0,1.0
+CS-7639,Cyber Physical Design & Analytics,5.0,10.0,3.0
+CS-7639,Cyber Physical Design & Analytics,2.0,8.0,4.0
+CS-7639,Cyber Physical Design & Analytics,5.0,20.0,4.0
+CS-7639,Cyber Physical Design & Analytics,3.0,16.0,5.0
+CS-7639,Cyber Physical Design & Analytics,5.0,16.0,4.0
+CS-7639,Cyber Physical Design & Analytics,1.0,15.0,5.0
+CS-7639,Cyber Physical Design & Analytics,4.0,12.0,4.0
+CS-7639,Cyber Physical Design & Analytics,3.0,12.0,2.0
+CS-7639,Cyber Physical Design & Analytics,4.0,10.0,3.0
+MGT-6203,Data Analytics & Business,3.0,3.0,1.0
+MGT-6203,Data Analytics & Business,4.0,5.0,3.0
+MGT-6203,Data Analytics & Business,3.0,2.0,1.0
+MGT-6203,Data Analytics & Business,1.0,5.0,3.0
+MGT-6203,Data Analytics & Business,3.0,8.0,2.0
+MGT-6203,Data Analytics & Business,1.0,6.0,3.0
+MGT-6203,Data Analytics & Business,1.0,2.0,1.0
+MGT-6203,Data Analytics & Business,1.0,1.0,1.0
+MGT-6203,Data Analytics & Business,4.0,3.0,1.0
+MGT-6203,Data Analytics & Business,1.0,4.0,5.0
+MGT-6203,Data Analytics & Business,3.0,2.0,2.0
+MGT-6203,Data Analytics & Business,3.0,2.5,2.0
+MGT-6203,Data Analytics & Business,2.0,3.0,2.0
+MGT-6203,Data Analytics & Business,2.0,10.0,3.0
+MGT-6203,Data Analytics & Business,2.0,3.0,1.0
+MGT-6203,Data Analytics & Business,3.0,3.0,1.0
+MGT-6203,Data Analytics & Business,1.0,5.0,3.0
+MGT-6203,Data Analytics & Business,2.0,2.0,4.0
+MGT-6203,Data Analytics & Business,4.0,3.0,3.0
+MGT-6203,Data Analytics & Business,1.0,2.0,4.0
+MGT-6203,Data Analytics & Business,1.0,3.0,1.0
+MGT-6203,Data Analytics & Business,3.0,3.0,1.0
+MGT-6203,Data Analytics & Business,2.0,2.0,1.0
+MGT-6203,Data Analytics & Business,2.0,8.0,2.0
+MGT-6203,Data Analytics & Business,4.0,12.0,3.0
+MGT-6203,Data Analytics & Business,1.0,2.0,1.0
+MGT-6203,Data Analytics & Business,3.0,9.0,3.0
+MGT-6203,Data Analytics & Business,2.0,10.0,3.0
+MGT-6203,Data Analytics & Business,3.0,5.0,1.0
+MGT-6203,Data Analytics & Business,3.0,7.0,3.0
+MGT-6203,Data Analytics & Business,2.0,8.0,4.0
+MGT-6203,Data Analytics & Business,4.0,5.0,1.0
+MGT-6203,Data Analytics & Business,4.0,1.0,2.0
+MGT-6203,Data Analytics & Business,2.0,6.0,1.0
+MGT-6203,Data Analytics & Business,2.0,7.0,2.0
+MGT-6203,Data Analytics & Business,3.0,3.0,2.0
+MGT-6203,Data Analytics & Business,1.0,5.0,2.0
+MGT-6203,Data Analytics & Business,2.0,3.0,2.0
+MGT-6203,Data Analytics & Business,4.0,6.0,3.0
+MGT-6203,Data Analytics & Business,2.0,5.0,2.0
+MGT-6203,Data Analytics & Business,1.0,3.0,3.0
+MGT-6203,Data Analytics & Business,2.0,2.0,2.0
+MGT-6203,Data Analytics & Business,1.0,2.0,1.0
+MGT-6203,Data Analytics & Business,1.0,6.0,2.0
+MGT-6203,Data Analytics & Business,3.0,3.0,1.0
+MGT-6203,Data Analytics & Business,1.0,2.0,3.0
+MGT-6203,Data Analytics & Business,3.0,2.0,1.0
+MGT-6203,Data Analytics & Business,2.0,10.0,3.0
+MGT-6203,Data Analytics & Business,1.0,1.0,1.0
+MGT-6203,Data Analytics & Business,3.0,5.0,1.0
+MGT-6203,Data Analytics & Business,1.0,5.0,2.0
+MGT-6203,Data Analytics & Business,2.0,2.0,1.0
+MGT-6203,Data Analytics & Business,1.0,5.0,3.0
+MGT-6203,Data Analytics & Business,2.0,5.0,3.0
+MGT-6203,Data Analytics & Business,2.0,2.0,1.0
+MGT-8823,Data Analytics & Continuous Improvement,4.0,5.0,1.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,5.0
+CS-6400,Database Systems Concepts & Design,1.0,6.0,1.0
+CS-6400,Database Systems Concepts & Design,3.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,10.0,5.0
+CS-6400,Database Systems Concepts & Design,4.0,15.0,4.0
+CS-6400,Database Systems Concepts & Design,1.0,9.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,8.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,8.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,1.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,12.0,4.0
+CS-6400,Database Systems Concepts & Design,4.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,4.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,4.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,14.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,40.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,6.0,1.0
+CS-6400,Database Systems Concepts & Design,4.0,4.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,7.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,8.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,12.0,5.0
+CS-6400,Database Systems Concepts & Design,4.0,20.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,6.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,15.0,4.0
+CS-6400,Database Systems Concepts & Design,3.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,12.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,10.0,1.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,8.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,14.0,4.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,20.0,4.0
+CS-6400,Database Systems Concepts & Design,3.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,6.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,14.0,4.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,7.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,20.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,20.0,2.0
+CS-6400,Database Systems Concepts & Design,5.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,26.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,20.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,3.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,1.0,1.0
+CS-6400,Database Systems Concepts & Design,1.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,4.0
+CS-6400,Database Systems Concepts & Design,2.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,30.0,4.0
+CS-6400,Database Systems Concepts & Design,1.0,8.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,4.0
+CS-6400,Database Systems Concepts & Design,1.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,20.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,4.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,1.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,5.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,4.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,20.0,2.0
+CS-6400,Database Systems Concepts & Design,5.0,20.0,4.0
+CS-6400,Database Systems Concepts & Design,5.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,20.0,4.0
+CS-6400,Database Systems Concepts & Design,2.0,20.0,4.0
+CS-6400,Database Systems Concepts & Design,3.0,8.0,4.0
+CS-6400,Database Systems Concepts & Design,4.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,8.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,13.0,4.0
+CS-6400,Database Systems Concepts & Design,2.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,18.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,4.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,18.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,8.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,8.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,9.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,16.0,4.0
+CS-6400,Database Systems Concepts & Design,1.0,12.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,6.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,8.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,5.0,8.0,1.0
+CS-6400,Database Systems Concepts & Design,3.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,18.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,10.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,15.0,3.0
+CS-6400,Database Systems Concepts & Design,4.0,8.0,4.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,2.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,15.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,10.0,2.0
+CS-6400,Database Systems Concepts & Design,3.0,15.0,2.0
+CS-6400,Database Systems Concepts & Design,4.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,2.0,1.0
+CS-6400,Database Systems Concepts & Design,2.0,5.0,3.0
+CS-6400,Database Systems Concepts & Design,2.0,5.0,1.0
+CS-6400,Database Systems Concepts & Design,4.0,14.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,18.0,4.0
+CS-6400,Database Systems Concepts & Design,4.0,12.0,2.0
+CS-6400,Database Systems Concepts & Design,5.0,18.0,3.0
+CS-6400,Database Systems Concepts & Design,1.0,12.0,3.0
+CS-6400,Database Systems Concepts & Design,3.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,18.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,25.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,30.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,30.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,30.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,18.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,12.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,5.0,1.0
+CSE-6242,Data & Visual Analytics,1.0,21.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,14.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,5.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,2.0,30.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,18.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,6.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,35.0,5.0
+CSE-6242,Data & Visual Analytics,2.0,30.0,5.0
+CSE-6242,Data & Visual Analytics,2.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,3.0,5.0,1.0
+CSE-6242,Data & Visual Analytics,5.0,11.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,16.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,30.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,20.0,5.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,17.5,4.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,25.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,3.0,1.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,3.0,2.0
+CSE-6242,Data & Visual Analytics,5.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,18.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,5.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,5.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,5.0,2.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,16.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,6.0,1.0
+CSE-6242,Data & Visual Analytics,1.0,6.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,18.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,2.0,1.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,18.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,7.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,30.0,5.0
+CSE-6242,Data & Visual Analytics,1.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,5.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,12.0,1.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,3.0,5.0,2.0
+CSE-6242,Data & Visual Analytics,2.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,6.0,1.0
+CSE-6242,Data & Visual Analytics,3.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,3.0,15.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,5.0,1.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,25.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,6.0,1.0
+CSE-6242,Data & Visual Analytics,1.0,5.0,1.0
+CSE-6242,Data & Visual Analytics,2.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,3.0
+CSE-6242,Data & Visual Analytics,5.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,40.0,5.0
+CSE-6242,Data & Visual Analytics,4.0,20.0,5.0
+CSE-6242,Data & Visual Analytics,1.0,12.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,5.0,2.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,5.0
+CSE-6242,Data & Visual Analytics,2.0,12.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,40.0,5.0
+CSE-6242,Data & Visual Analytics,3.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,1.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,5.0,20.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,12.0,2.0
+CSE-6242,Data & Visual Analytics,5.0,8.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,3.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,10.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,7.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,1.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,3.0
+CSE-6242,Data & Visual Analytics,3.0,25.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,15.0,4.0
+CSE-6242,Data & Visual Analytics,3.0,6.0,2.0
+CSE-6242,Data & Visual Analytics,1.0,15.0,5.0
+CSE-6242,Data & Visual Analytics,5.0,16.0,4.0
+CSE-6242,Data & Visual Analytics,1.0,10.0,3.0
+CSE-6242,Data & Visual Analytics,4.0,8.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,18.0,4.0
+CSE-6242,Data & Visual Analytics,4.0,22.0,3.0
+CSE-6242,Data & Visual Analytics,2.0,3.0,2.0
+CSE-6242,Data & Visual Analytics,4.0,22.0,3.0
+ISYE-6669,Deterministic Optimization,1.0,10.0,5.0
+ISYE-6669,Deterministic Optimization,1.0,5.0,5.0
+ISYE-6669,Deterministic Optimization,4.0,8.0,3.0
+ISYE-6669,Deterministic Optimization,4.0,8.0,3.0
+ISYE-6669,Deterministic Optimization,4.0,7.0,4.0
+ISYE-6669,Deterministic Optimization,4.0,8.0,3.0
+ISYE-6669,Deterministic Optimization,4.0,15.0,4.0
+ISYE-6669,Deterministic Optimization,4.0,10.0,4.0
+ISYE-6669,Deterministic Optimization,3.0,6.0,3.0
+ISYE-6669,Deterministic Optimization,4.0,6.0,3.0
+ISYE-6669,Deterministic Optimization,4.0,8.0,4.0
+ISYE-6669,Deterministic Optimization,5.0,10.0,4.0
+ISYE-6669,Deterministic Optimization,4.0,12.0,4.0
+ISYE-6669,Deterministic Optimization,3.0,15.0,5.0
+ISYE-6669,Deterministic Optimization,4.0,10.0,4.0
+ISYE-6669,Deterministic Optimization,4.0,12.0,4.0
+ISYE-6669,Deterministic Optimization,3.0,8.0,4.0
+MGT-6311,Digital Marketing,4.0,5.0,1.0
+CS-6460,Educational Technology,1.0,30.0,3.0
+CS-6460,Educational Technology,5.0,5.0,2.0
+CS-6460,Educational Technology,1.0,15.0,3.0
+CS-6460,Educational Technology,4.0,8.0,2.0
+CS-6460,Educational Technology,4.0,10.0,2.0
+CS-6460,Educational Technology,4.0,10.0,3.0
+CS-6460,Educational Technology,5.0,12.0,2.0
+CS-6460,Educational Technology,4.0,8.0,2.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,12.0,2.0
+CS-6460,Educational Technology,4.0,10.0,3.0
+CS-6460,Educational Technology,5.0,35.0,3.0
+CS-6460,Educational Technology,3.0,10.0,3.0
+CS-6460,Educational Technology,5.0,8.0,3.0
+CS-6460,Educational Technology,3.0,10.0,3.0
+CS-6460,Educational Technology,5.0,16.0,3.0
+CS-6460,Educational Technology,4.0,15.0,3.0
+CS-6460,Educational Technology,5.0,15.0,2.0
+CS-6460,Educational Technology,4.0,20.0,3.0
+CS-6460,Educational Technology,4.0,10.0,3.0
+CS-6460,Educational Technology,5.0,20.0,3.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,1.0,10.0,1.0
+CS-6460,Educational Technology,1.0,15.0,3.0
+CS-6460,Educational Technology,5.0,28.0,2.0
+CS-6460,Educational Technology,4.0,18.0,3.0
+CS-6460,Educational Technology,4.0,30.0,4.0
+CS-6460,Educational Technology,3.0,10.0,3.0
+CS-6460,Educational Technology,3.0,22.0,4.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,30.0,3.0
+CS-6460,Educational Technology,5.0,15.0,3.0
+CS-6460,Educational Technology,4.0,18.0,4.0
+CS-6460,Educational Technology,3.0,10.0,3.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,15.0,3.0
+CS-6460,Educational Technology,5.0,15.0,3.0
+CS-6460,Educational Technology,4.0,5.0,1.0
+CS-6460,Educational Technology,5.0,9.0,2.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,15.0,3.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,4.0,30.0,4.0
+CS-6460,Educational Technology,5.0,12.0,3.0
+CS-6460,Educational Technology,3.0,10.0,2.0
+CS-6460,Educational Technology,5.0,25.0,4.0
+CS-6460,Educational Technology,2.0,5.0,2.0
+CS-6460,Educational Technology,4.0,5.0,3.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,4.0,10.0,3.0
+CS-6460,Educational Technology,1.0,18.0,2.0
+CS-6460,Educational Technology,5.0,12.0,4.0
+CS-6460,Educational Technology,5.0,10.0,2.0
+CS-6460,Educational Technology,4.0,10.0,2.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,4.0,15.0,3.0
+CS-6460,Educational Technology,3.0,8.0,1.0
+CS-6460,Educational Technology,5.0,18.0,2.0
+CS-6460,Educational Technology,4.0,20.0,4.0
+CS-6460,Educational Technology,4.0,15.0,3.0
+CS-6460,Educational Technology,5.0,9.0,2.0
+CS-6460,Educational Technology,5.0,15.0,3.0
+CS-6460,Educational Technology,5.0,12.0,2.0
+CS-6460,Educational Technology,5.0,10.0,3.0
+CS-6460,Educational Technology,5.0,8.0,3.0
+CS-6460,Educational Technology,3.0,15.0,3.0
+CS-6460,Educational Technology,5.0,8.0,3.0
+CS-6460,Educational Technology,4.0,10.0,3.0
+CS-6460,Educational Technology,3.0,12.0,3.0
+CS-6460,Educational Technology,5.0,9.0,3.0
+CS-6460,Educational Technology,4.0,14.0,3.0
+CS-8803-004,Embedded Software,4.0,10.0,3.0
+CS-8803-004,Embedded Software,4.0,15.0,4.0
+CS-8803-004,Embedded Software,4.0,12.0,3.0
+CS-8803-004,Embedded Software,5.0,10.0,3.0
+CS-8803-004,Embedded Software,2.0,14.0,3.0
+CS-8803-004,Embedded Software,4.0,24.0,4.0
+CS-8803-004,Embedded Software,4.0,15.0,3.0
+CS-8803-004,Embedded Software,4.0,20.0,3.0
+CS-8803-004,Embedded Software,2.0,28.0,5.0
+CS-8803-004,Embedded Software,4.0,17.0,4.0
+CS-6291,Embedded System Optimization,4.0,12.0,4.0
+CS-6291,Embedded System Optimization,5.0,3.0,3.0
+CS-6291,Embedded System Optimization,3.0,10.0,2.0
+CS-6291,Embedded System Optimization,4.0,12.0,3.0
+CS-6291,Embedded System Optimization,3.0,50.0,5.0
+CS-6291,Embedded System Optimization,1.0,16.0,4.0
+CS-6291,Embedded System Optimization,4.0,10.0,3.0
+CS-6291,Embedded System Optimization,1.0,15.0,4.0
+CS-6291,Embedded System Optimization,2.0,5.0,3.0
+CS-6291,Embedded System Optimization,5.0,21.0,2.0
+CS-6291,Embedded System Optimization,1.0,25.0,5.0
+CS-6291,Embedded System Optimization,4.0,20.0,4.0
+CS-6291,Embedded System Optimization,4.0,12.0,4.0
+CS-6291,Embedded System Optimization,5.0,20.0,4.0
+CS-6291,Embedded System Optimization,4.0,15.0,4.0
+CS-6291,Embedded System Optimization,2.0,30.0,5.0
+CS-6291,Embedded System Optimization,4.0,15.0,3.0
+CS-6291,Embedded System Optimization,4.0,10.0,3.0
+CS-6291,Embedded System Optimization,4.0,16.0,4.0
+CS-6291,Embedded System Optimization,2.0,15.0,3.0
+CS-6291,Embedded System Optimization,3.0,10.0,4.0
+CS-6291,Embedded System Optimization,4.0,10.0,3.0
+CS-6291,Embedded System Optimization,4.0,20.0,4.0
+CS-6291,Embedded System Optimization,4.0,15.0,4.0
+CS-6291,Embedded System Optimization,4.0,16.0,4.0
+CS-6291,Embedded System Optimization,4.0,15.0,2.0
+MGT-8813,Financial Modeling,4.0,6.0,2.0
+IYSE-8803,High-Dimensional Data Analytics,5.0,15.0,4.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,16.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,1.0,20.0,3.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,15.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,20.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,15.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,16.0,4.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,25.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,5.0,15.0,4.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,15.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,30.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,5.0,20.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,4.0,15.0,5.0
+IYSE-8803,High-Dimensional Data Analytics,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,5.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,12.0,3.0
+CS-6290,High Performance Computer Architecture,3.0,18.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,20.0,5.0
+CS-6290,High Performance Computer Architecture,4.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,3.0,10.0,5.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,9.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,10.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,10.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,12.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,20.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,10.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,15.0,3.0
+CS-6290,High Performance Computer Architecture,1.0,15.0,5.0
+CS-6290,High Performance Computer Architecture,5.0,9.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,35.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,15.0,3.0
+CS-6290,High Performance Computer Architecture,4.0,12.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,20.0,5.0
+CS-6290,High Performance Computer Architecture,3.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,7.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,12.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,12.0,5.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,12.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,12.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,3.0,14.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,16.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,10.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,9.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,9.0,4.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,5.0
+CS-6290,High Performance Computer Architecture,5.0,8.0,2.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,3.0
+CS-6290,High Performance Computer Architecture,5.0,15.0,4.0
+CS-6290,High Performance Computer Architecture,4.0,10.0,4.0
+CS-6290,High Performance Computer Architecture,1.0,9.0,3.0
+CS-6750,Human-Computer Interaction,5.0,13.0,3.0
+CS-6750,Human-Computer Interaction,1.0,15.0,3.0
+CS-6750,Human-Computer Interaction,5.0,15.0,4.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,4.0,8.0,3.0
+CS-6750,Human-Computer Interaction,5.0,5.0,2.0
+CS-6750,Human-Computer Interaction,5.0,10.0,2.0
+CS-6750,Human-Computer Interaction,5.0,10.0,2.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,4.0,20.0,3.0
+CS-6750,Human-Computer Interaction,5.0,15.0,2.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,4.0,10.0,2.0
+CS-6750,Human-Computer Interaction,5.0,15.0,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,2.0
+CS-6750,Human-Computer Interaction,3.0,8.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,4.0
+CS-6750,Human-Computer Interaction,4.0,11.0,2.0
+CS-6750,Human-Computer Interaction,4.0,21.0,3.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,8.0,3.0
+CS-6750,Human-Computer Interaction,3.0,5.0,1.0
+CS-6750,Human-Computer Interaction,5.0,11.0,3.0
+CS-6750,Human-Computer Interaction,5.0,8.0,2.0
+CS-6750,Human-Computer Interaction,3.0,7.0,3.0
+CS-6750,Human-Computer Interaction,1.0,8.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,3.0
+CS-6750,Human-Computer Interaction,4.0,11.0,2.0
+CS-6750,Human-Computer Interaction,5.0,18.0,3.0
+CS-6750,Human-Computer Interaction,5.0,5.0,2.0
+CS-6750,Human-Computer Interaction,5.0,12.0,2.0
+CS-6750,Human-Computer Interaction,2.0,10.0,2.0
+CS-6750,Human-Computer Interaction,4.0,14.0,2.0
+CS-6750,Human-Computer Interaction,4.0,20.0,3.0
+CS-6750,Human-Computer Interaction,3.0,15.0,1.0
+CS-6750,Human-Computer Interaction,5.0,20.0,3.0
+CS-6750,Human-Computer Interaction,5.0,9.0,2.0
+CS-6750,Human-Computer Interaction,5.0,10.0,2.0
+CS-6750,Human-Computer Interaction,5.0,7.0,1.0
+CS-6750,Human-Computer Interaction,5.0,9.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,20.0,4.0
+CS-6750,Human-Computer Interaction,1.0,24.0,5.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+CS-6750,Human-Computer Interaction,3.0,20.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,3.0
+CS-6750,Human-Computer Interaction,5.0,4.0,3.0
+CS-6750,Human-Computer Interaction,5.0,15.0,2.0
+CS-6750,Human-Computer Interaction,4.0,9.0,2.0
+CS-6750,Human-Computer Interaction,4.0,6.0,2.0
+CS-6750,Human-Computer Interaction,4.0,10.0,2.0
+CS-6750,Human-Computer Interaction,5.0,9.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,8.0,3.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,4.0,16.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,4.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,3.0,12.0,2.0
+CS-6750,Human-Computer Interaction,4.0,30.0,3.0
+CS-6750,Human-Computer Interaction,4.0,20.0,3.0
+CS-6750,Human-Computer Interaction,4.0,20.0,4.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,2.0
+CS-6750,Human-Computer Interaction,4.0,6.0,3.0
+CS-6750,Human-Computer Interaction,2.0,13.0,2.0
+CS-6750,Human-Computer Interaction,1.0,5.0,3.0
+CS-6750,Human-Computer Interaction,4.0,25.0,3.0
+CS-6750,Human-Computer Interaction,1.0,12.0,3.0
+CS-6750,Human-Computer Interaction,5.0,6.0,2.0
+CS-6750,Human-Computer Interaction,1.0,6.0,2.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+CS-6750,Human-Computer Interaction,2.0,30.0,4.0
+CS-6750,Human-Computer Interaction,5.0,5.0,1.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,5.0,5.0,2.0
+CS-6750,Human-Computer Interaction,3.0,15.0,3.0
+CS-6750,Human-Computer Interaction,3.0,7.0,1.0
+CS-6750,Human-Computer Interaction,4.0,12.4,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,3.0,5.0,1.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,2.0,4.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,8.0,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,5.0,8.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,3.0
+CS-6750,Human-Computer Interaction,3.0,5.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,3.0
+CS-6750,Human-Computer Interaction,2.0,10.0,3.0
+CS-6750,Human-Computer Interaction,4.0,9.0,3.0
+CS-6750,Human-Computer Interaction,5.0,10.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,2.0
+CS-6750,Human-Computer Interaction,5.0,5.0,2.0
+CS-6750,Human-Computer Interaction,5.0,12.0,2.0
+CS-6750,Human-Computer Interaction,4.0,15.0,3.0
+CS-6750,Human-Computer Interaction,2.0,7.0,3.0
+CS-6750,Human-Computer Interaction,4.0,24.0,3.0
+CS-6750,Human-Computer Interaction,5.0,15.0,4.0
+CS-6750,Human-Computer Interaction,4.0,15.0,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,2.0
+CS-6750,Human-Computer Interaction,4.0,10.0,2.0
+CS-6750,Human-Computer Interaction,4.0,13.0,3.0
+CS-6750,Human-Computer Interaction,4.0,10.0,3.0
+CS-6750,Human-Computer Interaction,5.0,12.0,1.0
+CS-6750,Human-Computer Interaction,5.0,15.0,3.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+CS-6750,Human-Computer Interaction,4.0,10.0,4.0
+CS-6750,Human-Computer Interaction,3.0,20.0,3.0
+CS-6750,Human-Computer Interaction,4.0,9.0,2.0
+CS-6750,Human-Computer Interaction,5.0,20.0,3.0
+CS-6750,Human-Computer Interaction,4.0,8.0,2.0
+PUBP-6501,Information Policy & Management,3.0,22.0,3.0
+CS-6265,Information Security Lab,3.0,30.0,5.0
+CS-6265,Information Security Lab,4.0,8.0,3.0
+CS-6265,Information Security Lab,5.0,30.0,4.0
+CS-6265,Information Security Lab,2.0,35.0,5.0
+PUBP-6725,Information Security Policies,5.0,5.0,2.0
+PUBP-6725,Information Security Policies,5.0,10.0,2.0
+PUBP-6725,Information Security Policies,3.0,10.0,3.0
+PUBP-6111,Internet & Public Policy,4.0,3.0,1.0
+ISYE-6501,Intro to Analytics Modeling,5.0,5.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,15.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,11.0,4.0
+ISYE-6501,Intro to Analytics Modeling,3.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,6.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,5.0,2.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,4.0
+ISYE-6501,Intro to Analytics Modeling,4.0,3.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,4.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,4.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,6.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,1.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,4.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,2.0,1.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,5.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,3.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,7.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,20.0,4.0
+ISYE-6501,Intro to Analytics Modeling,3.0,2.0,2.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,4.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,5.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,6.0,2.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,20.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,14.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,10.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,9.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,7.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,20.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,8.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,15.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,5.0,2.0
+ISYE-6501,Intro to Analytics Modeling,5.0,6.0,2.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,8.0,2.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,4.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,4.0
+ISYE-6501,Intro to Analytics Modeling,5.0,12.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,20.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,9.0,3.0
+ISYE-6501,Intro to Analytics Modeling,5.0,6.0,1.0
+ISYE-6501,Intro to Analytics Modeling,4.0,9.0,2.0
+ISYE-6501,Intro to Analytics Modeling,2.0,1.0,1.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,18.0,4.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,10.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,1.0,1.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,8.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,5.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,5.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,10.0,4.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,10.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,2.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,2.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,2.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,5.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,2.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,12.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,7.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,3.0,1.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,4.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,10.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,7.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,10.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,10.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,16.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,6.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,10.0,4.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,8.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,5.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,12.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,8.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,20.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,8.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,2.0,10.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,6.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,12.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,10.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,2.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,2.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,9.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,2.0,15.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,14.0,4.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,10.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,12.0,4.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,3.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,6.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,5.0,6.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,8.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,15.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,3.0,5.0,2.0
+CS-6263,Intro to Cyber Physical Systems Security,1.0,8.0,3.0
+CS-6263,Intro to Cyber Physical Systems Security,4.0,7.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,8.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,5.0,2.0
+CS-6515,Intro to Graduate Algorithms,2.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,17.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,5.0,2.0
+CS-6515,Intro to Graduate Algorithms,5.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,12.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,12.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,7.0,2.0
+CS-6515,Intro to Graduate Algorithms,2.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,35.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,30.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,3.0
+CS-6515,Intro to Graduate Algorithms,3.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,18.0,5.0
+CS-6515,Intro to Graduate Algorithms,3.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,6.0,2.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,13.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,22.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,50.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,3.0,6.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,14.0,5.0
+CS-6515,Intro to Graduate Algorithms,3.0,50.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,3.0,60.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,2.0,1.0
+CS-6515,Intro to Graduate Algorithms,3.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,17.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,12.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,40.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,35.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,7.0,2.0
+CS-6515,Intro to Graduate Algorithms,5.0,35.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,5.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,18.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,8.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,3.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,1.0,35.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,8.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,28.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,15.0,5.0
+CS-6515,Intro to Graduate Algorithms,3.0,16.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,50.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,12.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,2.0
+CS-6515,Intro to Graduate Algorithms,5.0,25.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,12.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,35.0,5.0
+CS-6515,Intro to Graduate Algorithms,2.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,25.0,4.0
+CS-6515,Intro to Graduate Algorithms,1.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,12.0,4.0
+CS-6515,Intro to Graduate Algorithms,2.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,3.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,10.0,3.0
+CS-6515,Intro to Graduate Algorithms,4.0,15.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,11.0,4.0
+CS-6515,Intro to Graduate Algorithms,1.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,8.0,2.0
+CS-6515,Intro to Graduate Algorithms,3.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,40.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,1.0,25.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,13.0,3.0
+CS-6515,Intro to Graduate Algorithms,3.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,3.0,4.0,1.0
+CS-6515,Intro to Graduate Algorithms,1.0,30.0,5.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,5.0
+CS-6515,Intro to Graduate Algorithms,4.0,8.0,3.0
+CS-6515,Intro to Graduate Algorithms,5.0,15.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,20.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,16.0,4.0
+CS-6515,Intro to Graduate Algorithms,5.0,10.0,4.0
+CS-6515,Intro to Graduate Algorithms,4.0,20.0,5.0
+CS-6440,Intro to Health Informatics,5.0,8.0,2.0
+CS-6440,Intro to Health Informatics,1.0,3.0,2.0
+CS-6440,Intro to Health Informatics,1.0,20.0,3.0
+CS-6440,Intro to Health Informatics,3.0,16.0,3.0
+CS-6440,Intro to Health Informatics,2.0,5.0,2.0
+CS-6440,Intro to Health Informatics,4.0,4.0,1.0
+CS-6440,Intro to Health Informatics,1.0,5.0,2.0
+CS-6440,Intro to Health Informatics,3.0,5.0,1.0
+CS-6440,Intro to Health Informatics,5.0,10.0,1.0
+CS-6440,Intro to Health Informatics,3.0,6.0,2.0
+CS-6440,Intro to Health Informatics,4.0,10.0,2.0
+CS-6440,Intro to Health Informatics,3.0,4.0,2.0
+CS-6440,Intro to Health Informatics,1.0,10.0,4.0
+CS-6440,Intro to Health Informatics,2.0,5.0,1.0
+CS-6440,Intro to Health Informatics,4.0,10.0,3.0
+CS-6440,Intro to Health Informatics,5.0,10.0,3.0
+CS-6440,Intro to Health Informatics,4.0,2.0,1.0
+CS-6440,Intro to Health Informatics,1.0,12.0,2.0
+CS-6440,Intro to Health Informatics,3.0,3.0,2.0
+CS-6440,Intro to Health Informatics,5.0,4.0,1.0
+CS-6440,Intro to Health Informatics,4.0,7.0,2.0
+CS-6440,Intro to Health Informatics,1.0,4.0,2.0
+CS-6440,Intro to Health Informatics,2.0,5.0,3.0
+CS-6440,Intro to Health Informatics,1.0,4.0,1.0
+CS-6440,Intro to Health Informatics,1.0,4.0,3.0
+CS-6440,Intro to Health Informatics,1.0,5.0,1.0
+CS-6440,Intro to Health Informatics,4.0,5.0,2.0
+CS-6440,Intro to Health Informatics,4.0,10.0,1.0
+CS-6440,Intro to Health Informatics,5.0,15.0,3.0
+CS-6440,Intro to Health Informatics,2.0,10.0,3.0
+CS-6440,Intro to Health Informatics,4.0,8.0,3.0
+CS-6440,Intro to Health Informatics,1.0,2.0,1.0
+CS-6440,Intro to Health Informatics,3.0,2.5,2.0
+CS-6440,Intro to Health Informatics,4.0,5.0,1.0
+CS-6440,Intro to Health Informatics,4.0,5.0,3.0
+CS-6440,Intro to Health Informatics,4.0,25.0,3.0
+CS-6440,Intro to Health Informatics,3.0,2.5,1.0
+CS-6440,Intro to Health Informatics,1.0,7.0,3.0
+CS-6440,Intro to Health Informatics,2.0,2.0,1.0
+CS-6440,Intro to Health Informatics,3.0,10.0,4.0
+CS-6440,Intro to Health Informatics,5.0,15.0,3.0
+CS-6440,Intro to Health Informatics,3.0,10.0,2.0
+CS-6440,Intro to Health Informatics,3.0,6.0,2.0
+CS-6440,Intro to Health Informatics,3.0,8.0,2.0
+CS-6440,Intro to Health Informatics,3.0,16.0,4.0
+CS-6440,Intro to Health Informatics,3.0,4.0,2.0
+CS-6440,Intro to Health Informatics,4.0,9.0,2.0
+CS-6440,Intro to Health Informatics,4.0,10.0,3.0
+CS-6440,Intro to Health Informatics,2.0,8.0,1.0
+CS-6440,Intro to Health Informatics,3.0,10.0,1.0
+CS-6440,Intro to Health Informatics,4.0,5.0,1.0
+CS-6440,Intro to Health Informatics,4.0,10.0,3.0
+CS-6440,Intro to Health Informatics,2.0,3.0,1.0
+CS-6440,Intro to Health Informatics,1.0,6.0,2.0
+CS-6440,Intro to Health Informatics,1.0,1.5,1.0
+CS-6440,Intro to Health Informatics,1.0,3.0,1.0
+CS-6440,Intro to Health Informatics,3.0,8.0,2.0
+CS-6440,Intro to Health Informatics,5.0,12.0,2.0
+CS-6440,Intro to Health Informatics,4.0,5.0,2.0
+CSE-6220,Intro to High-Performance Computing,4.0,20.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,30.0,5.0
+CSE-6220,Intro to High-Performance Computing,4.0,20.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,5.0
+CSE-6220,Intro to High-Performance Computing,4.0,50.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,24.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,30.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,30.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,25.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,30.0,5.0
+CSE-6220,Intro to High-Performance Computing,2.0,20.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,23.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,22.0,4.0
+CSE-6220,Intro to High-Performance Computing,4.0,25.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,22.0,5.0
+CSE-6220,Intro to High-Performance Computing,4.0,15.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,24.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,18.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,18.0,4.0
+CSE-6220,Intro to High-Performance Computing,4.0,20.0,5.0
+CSE-6220,Intro to High-Performance Computing,4.0,12.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,12.0,3.0
+CSE-6220,Intro to High-Performance Computing,5.0,12.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,16.0,4.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,10.0,4.0
+CSE-6220,Intro to High-Performance Computing,4.0,18.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,15.0,5.0
+CSE-6220,Intro to High-Performance Computing,5.0,20.0,5.0
+CS-6035,Intro to Information Security,5.0,3.0,1.0
+CS-6035,Intro to Information Security,5.0,4.0,2.0
+CS-6035,Intro to Information Security,3.0,5.0,3.0
+CS-6035,Intro to Information Security,3.0,12.0,2.0
+CS-6035,Intro to Information Security,3.0,14.0,2.0
+CS-6035,Intro to Information Security,5.0,6.0,1.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,7.0,2.0
+CS-6035,Intro to Information Security,1.0,5.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,12.0,2.0
+CS-6035,Intro to Information Security,1.0,20.0,3.0
+CS-6035,Intro to Information Security,3.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,4.0,3.0
+CS-6035,Intro to Information Security,3.0,14.0,3.0
+CS-6035,Intro to Information Security,4.0,20.0,4.0
+CS-6035,Intro to Information Security,4.0,8.0,4.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,2.0,4.0,3.0
+CS-6035,Intro to Information Security,3.0,8.0,2.0
+CS-6035,Intro to Information Security,1.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,6.0,3.0
+CS-6035,Intro to Information Security,3.0,2.0,1.0
+CS-6035,Intro to Information Security,5.0,7.0,2.0
+CS-6035,Intro to Information Security,4.0,7.0,3.0
+CS-6035,Intro to Information Security,1.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,2.0,8.0,2.0
+CS-6035,Intro to Information Security,2.0,4.0,1.0
+CS-6035,Intro to Information Security,3.0,7.0,2.0
+CS-6035,Intro to Information Security,2.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,2.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,13.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,2.0,8.0,2.0
+CS-6035,Intro to Information Security,5.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,11.0,3.0
+CS-6035,Intro to Information Security,3.0,5.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,6.0,1.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,14.0,3.0
+CS-6035,Intro to Information Security,4.0,4.0,2.0
+CS-6035,Intro to Information Security,4.0,3.0,2.0
+CS-6035,Intro to Information Security,5.0,8.0,3.0
+CS-6035,Intro to Information Security,3.0,12.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,2.0,20.0,4.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,12.0,4.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,9.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,5.0,1.0
+CS-6035,Intro to Information Security,5.0,6.0,3.0
+CS-6035,Intro to Information Security,3.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,13.0,4.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,5.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,11.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,7.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,5.0,7.0,2.0
+CS-6035,Intro to Information Security,5.0,12.0,2.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,2.0,15.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,7.0,1.0
+CS-6035,Intro to Information Security,4.0,20.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,12.0,2.0
+CS-6035,Intro to Information Security,4.0,20.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,2.0,12.0,3.0
+CS-6035,Intro to Information Security,5.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,1.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,4.0,1.0
+CS-6035,Intro to Information Security,5.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,11.0,2.0
+CS-6035,Intro to Information Security,1.0,20.0,4.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,1.0
+CS-6035,Intro to Information Security,2.0,2.0,1.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,1.0
+CS-6035,Intro to Information Security,5.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,5.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,2.0,10.0,3.0
+CS-6035,Intro to Information Security,3.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,3.0,12.0,3.0
+CS-6035,Intro to Information Security,3.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,3.0,5.0,1.0
+CS-6035,Intro to Information Security,2.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,1.0,5.0,2.0
+CS-6035,Intro to Information Security,1.0,5.0,3.0
+CS-6035,Intro to Information Security,4.0,3.0,1.0
+CS-6035,Intro to Information Security,3.0,5.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,12.0,3.0
+CS-6035,Intro to Information Security,5.0,18.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,8.5,2.0
+CS-6035,Intro to Information Security,3.0,10.0,4.0
+CS-6035,Intro to Information Security,5.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,30.0,5.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,2.0,1.0
+CS-6035,Intro to Information Security,5.0,8.0,1.0
+CS-6035,Intro to Information Security,3.0,5.0,2.0
+CS-6035,Intro to Information Security,2.0,20.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,3.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,3.0,20.0,2.0
+CS-6035,Intro to Information Security,2.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,2.0,15.0,3.0
+CS-6035,Intro to Information Security,3.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,13.3,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,2.0,3.0,1.0
+CS-6035,Intro to Information Security,1.0,8.0,3.0
+CS-6035,Intro to Information Security,3.0,2.0,2.0
+CS-6035,Intro to Information Security,4.0,3.0,2.0
+CS-6035,Intro to Information Security,5.0,8.0,3.0
+CS-6035,Intro to Information Security,5.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,5.0,6.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,1.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,1.0
+CS-6035,Intro to Information Security,4.0,20.0,3.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,2.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,11.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,1.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,16.0,3.0
+CS-6035,Intro to Information Security,5.0,5.0,2.0
+CS-6035,Intro to Information Security,2.0,15.0,3.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,5.0,7.0,3.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,4.0
+CS-6035,Intro to Information Security,4.0,6.0,3.0
+CS-6035,Intro to Information Security,3.0,8.0,2.0
+CS-6035,Intro to Information Security,3.0,10.0,4.0
+CS-6035,Intro to Information Security,4.0,17.0,4.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,4.0,16.0,2.0
+CS-6035,Intro to Information Security,5.0,15.0,3.0
+CS-6035,Intro to Information Security,4.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,2.0,1.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,5.0,12.0,2.0
+CS-6035,Intro to Information Security,2.0,3.0,2.0
+CS-6035,Intro to Information Security,2.0,5.0,1.0
+CS-6035,Intro to Information Security,3.0,6.0,3.0
+CS-6035,Intro to Information Security,1.0,5.0,2.0
+CS-6035,Intro to Information Security,3.0,6.0,2.0
+CS-6035,Intro to Information Security,5.0,16.0,3.0
+CS-6035,Intro to Information Security,2.0,3.0,2.0
+CS-6035,Intro to Information Security,2.0,5.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,8.0,2.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,1.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,4.0,2.0
+CS-6035,Intro to Information Security,4.0,8.0,3.0
+CS-6035,Intro to Information Security,5.0,8.0,2.0
+CS-6035,Intro to Information Security,3.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,5.0,12.65,3.0
+CS-6035,Intro to Information Security,4.0,7.0,2.0
+CS-6035,Intro to Information Security,4.0,5.0,2.0
+CS-6035,Intro to Information Security,2.0,3.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,8.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,6.0,3.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,5.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,5.0,5.0,1.0
+CS-6035,Intro to Information Security,4.0,12.0,3.0
+CS-6035,Intro to Information Security,3.0,15.0,3.0
+CS-6035,Intro to Information Security,3.0,5.0,2.0
+CS-6035,Intro to Information Security,1.0,3.0,1.0
+CS-6035,Intro to Information Security,4.0,12.0,2.0
+CS-6035,Intro to Information Security,4.0,4.0,2.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,5.0,20.0,3.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,4.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,12.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,2.0
+CS-6035,Intro to Information Security,3.0,10.0,2.0
+CS-6035,Intro to Information Security,4.0,10.0,3.0
+CS-6035,Intro to Information Security,3.0,12.0,3.0
+CS-6035,Intro to Information Security,5.0,1.0,1.0
+CS-6035,Intro to Information Security,2.0,3.0,3.0
+CS-6035,Intro to Information Security,5.0,8.0,3.0
+CS-6035,Intro to Information Security,2.0,6.0,1.0
+CS-6035,Intro to Information Security,1.0,6.0,2.0
+CS-6035,Intro to Information Security,4.0,19.0,2.0
+CS-6035,Intro to Information Security,2.0,20.0,3.0
+CS-6035,Intro to Information Security,2.0,8.0,3.0
+CS-6035,Intro to Information Security,4.0,15.0,3.0
+CS-6035,Intro to Information Security,3.0,8.0,2.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,1.0,12.0,5.0
+CS-6200,Intro to Operating Systems,4.0,13.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,3.0,30.0,4.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,4.0,15.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,40.0,4.0
+CS-6200,Intro to Operating Systems,5.0,17.0,3.0
+CS-6200,Intro to Operating Systems,5.0,18.0,3.0
+CS-6200,Intro to Operating Systems,2.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,3.0,16.0,5.0
+CS-6200,Intro to Operating Systems,2.0,30.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,4.0,38.0,5.0
+CS-6200,Intro to Operating Systems,5.0,8.0,2.0
+CS-6200,Intro to Operating Systems,5.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,8.0,3.0
+CS-6200,Intro to Operating Systems,4.0,30.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,3.0,3.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,2.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,1.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,25.0,4.0
+CS-6200,Intro to Operating Systems,4.0,30.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,3.0,7.0,3.0
+CS-6200,Intro to Operating Systems,4.0,15.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,14.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,4.0,50.0,3.0
+CS-6200,Intro to Operating Systems,5.0,18.0,4.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,16.0,4.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,6.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,5.0,2.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,4.0,7.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,8.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,4.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,18.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,14.0,3.0
+CS-6200,Intro to Operating Systems,5.0,18.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,5.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,18.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,4.0
+CS-6200,Intro to Operating Systems,4.0,6.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,2.0,25.0,4.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,4.0,25.0,4.0
+CS-6200,Intro to Operating Systems,4.0,25.0,4.0
+CS-6200,Intro to Operating Systems,1.0,15.0,5.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,12.0,4.0
+CS-6200,Intro to Operating Systems,5.0,17.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,5.0
+CS-6200,Intro to Operating Systems,5.0,25.0,5.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,3.0,10.0,4.0
+CS-6200,Intro to Operating Systems,4.0,15.0,2.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,4.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,3.0,30.0,4.0
+CS-6200,Intro to Operating Systems,3.0,25.0,5.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,18.0,4.0
+CS-6200,Intro to Operating Systems,4.0,8.0,4.0
+CS-6200,Intro to Operating Systems,4.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,13.0,4.0
+CS-6200,Intro to Operating Systems,4.0,14.0,4.0
+CS-6200,Intro to Operating Systems,5.0,22.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,3.0
+CS-6200,Intro to Operating Systems,5.0,14.0,3.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,13.6,3.0
+CS-6200,Intro to Operating Systems,5.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,2.0,30.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,4.0
+CS-6200,Intro to Operating Systems,4.0,13.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,5.0
+CS-6200,Intro to Operating Systems,3.0,18.0,5.0
+CS-6200,Intro to Operating Systems,5.0,16.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,18.0,4.0
+CS-6200,Intro to Operating Systems,4.0,16.0,4.0
+CS-6200,Intro to Operating Systems,5.0,13.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,4.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,4.0,12.0,3.0
+CS-6200,Intro to Operating Systems,5.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,2.0
+CS-6200,Intro to Operating Systems,4.0,25.0,4.0
+CS-6200,Intro to Operating Systems,1.0,25.0,4.0
+CS-6200,Intro to Operating Systems,5.0,10.0,2.0
+CS-6200,Intro to Operating Systems,4.0,8.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,5.0,30.0,3.0
+CS-6200,Intro to Operating Systems,5.0,8.0,4.0
+CS-6200,Intro to Operating Systems,5.0,18.0,3.0
+CS-6200,Intro to Operating Systems,5.0,15.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,2.0,15.0,3.0
+CS-6200,Intro to Operating Systems,4.0,30.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,5.0,20.0,4.0
+CS-6200,Intro to Operating Systems,4.0,20.0,1.0
+CS-6200,Intro to Operating Systems,4.0,20.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,3.0
+CS-6200,Intro to Operating Systems,5.0,10.0,3.0
+CS-6200,Intro to Operating Systems,3.0,12.0,3.0
+CS-6200,Intro to Operating Systems,4.0,20.0,5.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,12.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,6.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,30.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,17.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,16.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,14.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,12.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,20.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,5.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,5.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,18.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,23.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,8.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,8.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,9.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,25.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,16.5,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,13.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,6.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,25.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,18.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,5.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,12.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,11.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,15.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,15.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,7.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,16.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,15.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,25.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,4.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,30.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,8.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,8.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,8.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,8.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,5.0,1.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,5.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,25.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,17.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,6.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,5.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,30.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,7.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,6.0,1.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,12.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,14.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,20.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,15.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,5.0,1.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,25.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,8.0,4.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,20.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1.0,25.0,5.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,15.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,14.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,6.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3.0,10.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,13.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,12.0,2.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2.0,10.0,3.0
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5.0,14.0,3.0
+CS-7641,Machine Learning,2.0,10.0,5.0
+CS-7641,Machine Learning,3.0,20.0,3.0
+CS-7641,Machine Learning,2.0,24.0,3.0
+CS-7641,Machine Learning,5.0,25.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,4.0,18.0,4.0
+CS-7641,Machine Learning,5.0,50.0,4.0
+CS-7641,Machine Learning,4.0,25.0,4.0
+CS-7641,Machine Learning,4.0,9.0,4.0
+CS-7641,Machine Learning,3.0,25.0,5.0
+CS-7641,Machine Learning,1.0,20.0,4.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,5.0,17.0,4.0
+CS-7641,Machine Learning,2.0,20.0,5.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,5.0,50.0,5.0
+CS-7641,Machine Learning,2.0,20.0,3.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,1.0,15.0,4.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,5.0,25.0,5.0
+CS-7641,Machine Learning,4.0,15.0,4.0
+CS-7641,Machine Learning,4.0,30.0,5.0
+CS-7641,Machine Learning,3.0,20.0,5.0
+CS-7641,Machine Learning,4.0,25.0,4.0
+CS-7641,Machine Learning,2.0,40.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,25.0,4.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,3.0,25.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,4.0,10.0,4.0
+CS-7641,Machine Learning,2.0,30.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,4.0,15.0,3.0
+CS-7641,Machine Learning,4.0,23.0,5.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,2.0,25.0,5.0
+CS-7641,Machine Learning,5.0,25.0,3.0
+CS-7641,Machine Learning,3.0,30.0,3.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,22.0,4.0
+CS-7641,Machine Learning,4.0,18.0,4.0
+CS-7641,Machine Learning,5.0,15.0,5.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,3.0,15.0,3.0
+CS-7641,Machine Learning,1.0,40.0,5.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,5.0,21.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,1.0,20.0,3.0
+CS-7641,Machine Learning,3.0,15.0,3.0
+CS-7641,Machine Learning,2.0,20.0,4.0
+CS-7641,Machine Learning,3.0,20.0,5.0
+CS-7641,Machine Learning,4.0,10.0,3.0
+CS-7641,Machine Learning,4.0,25.0,5.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,3.0,18.0,3.0
+CS-7641,Machine Learning,2.0,20.0,4.0
+CS-7641,Machine Learning,4.0,40.0,4.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,4.0,18.0,3.0
+CS-7641,Machine Learning,5.0,30.0,4.0
+CS-7641,Machine Learning,5.0,30.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,2.0,30.0,4.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,5.0,22.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,3.0,15.0,3.0
+CS-7641,Machine Learning,5.0,15.0,5.0
+CS-7641,Machine Learning,5.0,40.0,4.0
+CS-7641,Machine Learning,5.0,12.0,4.0
+CS-7641,Machine Learning,5.0,30.0,4.0
+CS-7641,Machine Learning,1.0,15.0,4.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,5.0,30.0,5.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,5.0,18.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,1.0,30.0,5.0
+CS-7641,Machine Learning,1.0,20.0,4.0
+CS-7641,Machine Learning,3.0,20.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,16.0,5.0
+CS-7641,Machine Learning,1.0,25.0,5.0
+CS-7641,Machine Learning,2.0,20.0,3.0
+CS-7641,Machine Learning,4.0,30.0,4.0
+CS-7641,Machine Learning,3.0,15.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,5.0,15.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,2.0,24.0,4.0
+CS-7641,Machine Learning,1.0,15.0,4.0
+CS-7641,Machine Learning,5.0,18.0,4.0
+CS-7641,Machine Learning,4.0,10.0,4.0
+CS-7641,Machine Learning,5.0,30.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,4.0,15.0,3.0
+CS-7641,Machine Learning,3.0,20.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,1.0,25.0,4.0
+CS-7641,Machine Learning,4.0,15.0,4.0
+CS-7641,Machine Learning,4.0,40.0,5.0
+CS-7641,Machine Learning,5.0,15.0,3.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,5.0,30.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,4.0,15.0,4.0
+CS-7641,Machine Learning,1.0,20.0,3.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,2.0,10.0,3.0
+CS-7641,Machine Learning,2.0,20.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,2.0,20.0,5.0
+CS-7641,Machine Learning,1.0,15.0,4.0
+CS-7641,Machine Learning,1.0,20.0,4.0
+CS-7641,Machine Learning,4.0,8.0,4.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,2.0,30.0,5.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,1.0,20.0,4.0
+CS-7641,Machine Learning,3.0,27.72,5.0
+CS-7641,Machine Learning,5.0,30.0,4.0
+CS-7641,Machine Learning,5.0,25.0,5.0
+CS-7641,Machine Learning,5.0,22.0,5.0
+CS-7641,Machine Learning,4.0,15.0,4.0
+CS-7641,Machine Learning,4.0,18.0,4.0
+CS-7641,Machine Learning,5.0,16.0,3.0
+CS-7641,Machine Learning,2.0,20.0,3.0
+CS-7641,Machine Learning,2.0,20.0,2.0
+CS-7641,Machine Learning,4.0,25.0,4.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,5.0,25.0,4.0
+CS-7641,Machine Learning,1.0,20.0,5.0
+CS-7641,Machine Learning,5.0,20.0,5.0
+CS-7641,Machine Learning,5.0,40.0,5.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,4.0,40.0,4.0
+CS-7641,Machine Learning,2.0,12.0,5.0
+CS-7641,Machine Learning,4.0,20.0,5.0
+CS-7641,Machine Learning,4.0,20.0,4.0
+CS-7641,Machine Learning,1.0,20.0,5.0
+CS-7641,Machine Learning,4.0,40.0,5.0
+CS-7641,Machine Learning,4.0,15.0,3.0
+CS-7641,Machine Learning,4.0,30.0,5.0
+CS-7641,Machine Learning,5.0,15.0,4.0
+CS-7641,Machine Learning,5.0,30.0,5.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,5.0,20.0,4.0
+CS-7641,Machine Learning,1.0,30.0,4.0
+CS-7641,Machine Learning,1.0,15.0,3.0
+CS-7641,Machine Learning,3.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,7.0,3.0
+CS-7646,Machine Learning for Trading,5.0,5.0,1.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,2.0,30.0,4.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,2.0,5.0,1.0
+CS-7646,Machine Learning for Trading,3.0,5.0,3.0
+CS-7646,Machine Learning for Trading,5.0,13.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,18.0,3.0
+CS-7646,Machine Learning for Trading,5.0,18.0,3.0
+CS-7646,Machine Learning for Trading,5.0,18.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,5.0,2.0
+CS-7646,Machine Learning for Trading,5.0,7.2,3.0
+CS-7646,Machine Learning for Trading,5.0,16.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,4.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,2.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,6.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,4.0,1.0
+CS-7646,Machine Learning for Trading,1.0,3.0,1.0
+CS-7646,Machine Learning for Trading,4.0,4.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,11.0,3.0
+CS-7646,Machine Learning for Trading,2.0,15.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,5.0,2.0
+CS-7646,Machine Learning for Trading,4.0,5.0,1.0
+CS-7646,Machine Learning for Trading,3.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,6.0,2.0
+CS-7646,Machine Learning for Trading,4.0,20.0,4.0
+CS-7646,Machine Learning for Trading,3.0,8.0,1.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,1.0,25.0,5.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,3.0
+CS-7646,Machine Learning for Trading,4.0,5.0,1.0
+CS-7646,Machine Learning for Trading,1.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,4.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,6.0,2.0
+CS-7646,Machine Learning for Trading,5.0,6.0,3.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,20.0,2.0
+CS-7646,Machine Learning for Trading,3.0,3.0,1.0
+CS-7646,Machine Learning for Trading,2.0,5.0,1.0
+CS-7646,Machine Learning for Trading,5.0,7.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,13.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,20.0,4.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,1.0,18.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,20.0,3.0
+CS-7646,Machine Learning for Trading,5.0,6.0,3.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,16.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,2.0,15.0,4.0
+CS-7646,Machine Learning for Trading,5.0,16.0,3.0
+CS-7646,Machine Learning for Trading,5.0,20.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,5.0,2.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,3.0,6.0,2.0
+CS-7646,Machine Learning for Trading,4.0,3.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,1.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,5.0,2.0
+CS-7646,Machine Learning for Trading,4.0,6.0,3.0
+CS-7646,Machine Learning for Trading,1.0,10.0,1.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,5.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,3.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,3.0,5.0,2.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,14.0,3.0
+CS-7646,Machine Learning for Trading,5.0,30.0,4.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,20.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,2.0,6.0,2.0
+CS-7646,Machine Learning for Trading,4.0,4.0,2.0
+CS-7646,Machine Learning for Trading,3.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,20.0,3.0
+CS-7646,Machine Learning for Trading,4.0,20.0,4.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,25.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,3.0
+CS-7646,Machine Learning for Trading,5.0,16.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,3.0,6.0,2.0
+CS-7646,Machine Learning for Trading,2.0,6.0,3.0
+CS-7646,Machine Learning for Trading,4.0,5.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,5.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,4.0
+CS-7646,Machine Learning for Trading,3.0,7.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,3.0,16.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,20.0,4.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,7.0,2.0
+CS-7646,Machine Learning for Trading,5.0,16.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.6,3.0
+CS-7646,Machine Learning for Trading,4.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,2.0,8.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,15.0,2.0
+CS-7646,Machine Learning for Trading,3.0,3.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,4.0
+CS-7646,Machine Learning for Trading,5.0,13.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,4.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,3.0,8.0,3.0
+CS-7646,Machine Learning for Trading,5.0,20.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,12.0,3.0
+CS-7646,Machine Learning for Trading,3.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,14.0,4.0
+CS-7646,Machine Learning for Trading,4.0,4.0,1.0
+CS-7646,Machine Learning for Trading,5.0,15.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,2.0
+CS-7646,Machine Learning for Trading,3.0,5.0,1.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,6.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,2.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,2.0
+CS-7646,Machine Learning for Trading,5.0,5.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,1.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,3.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,10.0,3.0
+CS-7646,Machine Learning for Trading,2.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,2.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,14.0,2.0
+CS-7646,Machine Learning for Trading,4.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,18.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,4.0,1.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,4.0,20.0,3.0
+CS-7646,Machine Learning for Trading,4.0,15.0,3.0
+CS-7646,Machine Learning for Trading,5.0,6.0,2.0
+CS-7646,Machine Learning for Trading,5.0,5.0,1.0
+CS-7646,Machine Learning for Trading,2.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,6.0,3.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,4.0,3.0,1.0
+CS-7646,Machine Learning for Trading,4.0,10.0,3.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,3.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,8.0,1.0
+CS-7646,Machine Learning for Trading,5.0,10.0,2.0
+CS-7646,Machine Learning for Trading,5.0,15.0,3.0
+CS-7646,Machine Learning for Trading,4.0,6.0,2.0
+CS-7646,Machine Learning for Trading,4.0,14.0,3.0
+CS-7646,Machine Learning for Trading,4.0,8.0,2.0
+CS-7646,Machine Learning for Trading,4.0,9.0,3.0
+CS-7646,Machine Learning for Trading,5.0,8.0,2.0
+CS-7646,Machine Learning for Trading,5.0,12.0,3.0
+CS-7646,Machine Learning for Trading,4.0,16.0,2.0
+CS-6262,Network Security,3.0,16.0,4.0
+CS-6262,Network Security,2.0,15.0,5.0
+CS-6262,Network Security,4.0,10.0,3.0
+CS-6262,Network Security,2.0,10.0,3.0
+CS-6262,Network Security,3.0,10.0,2.0
+CS-6262,Network Security,1.0,10.0,4.0
+CS-6262,Network Security,4.0,18.0,4.0
+CS-6262,Network Security,3.0,20.0,5.0
+CS-6262,Network Security,4.0,15.0,4.0
+CS-6262,Network Security,1.0,22.0,5.0
+CS-6262,Network Security,3.0,8.0,3.0
+CS-6262,Network Security,4.0,8.0,3.0
+CS-6262,Network Security,4.0,20.0,3.0
+CS-6262,Network Security,1.0,4.0,2.0
+CS-6262,Network Security,4.0,10.0,3.0
+CS-6262,Network Security,1.0,20.0,2.0
+CS-6262,Network Security,4.0,10.0,3.0
+CS-6262,Network Security,4.0,10.0,3.0
+CS-6262,Network Security,2.0,8.0,3.0
+CS-6262,Network Security,5.0,25.0,3.0
+CS-6262,Network Security,4.0,16.0,4.0
+CS-6262,Network Security,5.0,8.0,3.0
+CS-6262,Network Security,1.0,4.0,3.0
+CS-6262,Network Security,3.0,1.0,1.0
+CS-6262,Network Security,2.0,20.0,4.0
+CS-6262,Network Security,1.0,8.0,3.0
+CS-6262,Network Security,4.0,15.0,3.0
+CS-6262,Network Security,3.0,5.0,4.0
+CS-6262,Network Security,3.0,1.0,1.0
+CS-6262,Network Security,2.0,5.0,2.0
+CS-6262,Network Security,1.0,40.0,4.0
+CS-6262,Network Security,2.0,10.0,3.0
+CS-6262,Network Security,3.0,12.0,3.0
+CS-6262,Network Security,3.0,8.0,3.0
+CS-6262,Network Security,1.0,8.0,3.0
+CS-6262,Network Security,4.0,17.0,3.0
+CS-6262,Network Security,4.0,14.0,3.0
+CS-6262,Network Security,3.0,15.0,3.0
+CS-6262,Network Security,4.0,6.0,2.0
+CS-6262,Network Security,4.0,4.0,2.0
+CS-6262,Network Security,4.0,13.0,3.0
+CS-6262,Network Security,1.0,12.0,3.0
+CS-6262,Network Security,1.0,30.0,4.0
+CS-6262,Network Security,1.0,37.0,4.0
+CS-6262,Network Security,1.0,18.0,3.0
+CS-6262,Network Security,3.0,9.0,4.0
+CS-6262,Network Security,2.0,10.0,4.0
+CS-6262,Network Security,4.0,12.0,3.0
+CS-6262,Network Security,5.0,3.0,1.0
+CS-6262,Network Security,4.0,10.0,3.0
+CS-6262,Network Security,3.0,8.0,2.0
+CS-6262,Network Security,3.0,8.0,2.0
+CS-6262,Network Security,2.0,10.0,3.0
+CS-6262,Network Security,5.0,20.0,4.0
+CS-6262,Network Security,4.0,20.0,5.0
+CS-6262,Network Security,4.0,5.0,2.0
+CS-6262,Network Security,4.0,15.0,4.0
+CS-6262,Network Security,4.0,7.0,3.0
+CS-6262,Network Security,3.0,15.0,3.0
+CS-6262,Network Security,5.0,3.0,1.0
+CS-6262,Network Security,4.0,20.0,3.0
+CS-6262,Network Security,2.0,4.0,2.0
+CS-6262,Network Security,5.0,14.0,3.0
+CS-6262,Network Security,4.0,10.0,2.0
+CS-6262,Network Security,4.0,10.0,4.0
+CS-6262,Network Security,3.0,10.0,3.0
+CS-6262,Network Security,4.0,8.0,2.0
+CS-6262,Network Security,1.0,8.0,2.0
+CS-6262,Network Security,2.0,6.0,2.0
+CS-6262,Network Security,4.0,18.0,3.0
+CS-6262,Network Security,2.0,17.0,3.0
+CS-6262,Network Security,4.0,10.0,4.0
+CS-6262,Network Security,4.0,5.0,2.0
+CS-6262,Network Security,1.0,10.0,3.0
+CS-6262,Network Security,3.0,10.0,2.0
+CS-6262,Network Security,4.0,12.0,3.0
+CS-6262,Network Security,2.0,12.0,3.0
+CS-6262,Network Security,3.0,19.5,3.0
+CS-6262,Network Security,2.0,15.0,3.0
+CS-6262,Network Security,1.0,22.0,4.0
+CS-6262,Network Security,3.0,17.0,4.0
+CS-6262,Network Security,4.0,5.0,2.0
+CS-6262,Network Security,1.0,40.0,5.0
+CS-6262,Network Security,4.0,12.0,3.0
+CS-6262,Network Security,3.0,8.0,3.0
+CS-6262,Network Security,3.0,20.0,4.0
+CS-6262,Network Security,2.0,15.0,3.0
+CS-6262,Network Security,1.0,25.0,4.0
+CS-6262,Network Security,4.0,12.0,4.0
+CS-6262,Network Security,2.0,10.0,3.0
+ISYE-6414,Regression Analysis,2.0,8.0,3.0
+ISYE-6414,Regression Analysis,3.0,10.0,3.0
+ISYE-6414,Regression Analysis,1.0,7.0,2.0
+ISYE-6414,Regression Analysis,4.0,8.0,3.0
+ISYE-6414,Regression Analysis,5.0,7.0,5.0
+ISYE-6414,Regression Analysis,5.0,12.0,3.0
+ISYE-6414,Regression Analysis,4.0,8.0,3.0
+ISYE-6414,Regression Analysis,4.0,15.0,3.0
+ISYE-6414,Regression Analysis,2.0,7.0,3.0
+ISYE-6414,Regression Analysis,3.0,10.0,4.0
+ISYE-6414,Regression Analysis,2.0,20.0,4.0
+ISYE-6414,Regression Analysis,5.0,8.0,3.0
+ISYE-6414,Regression Analysis,3.0,10.0,3.0
+ISYE-6414,Regression Analysis,4.0,10.0,3.0
+ISYE-6414,Regression Analysis,4.0,4.0,3.0
+ISYE-6414,Regression Analysis,3.0,5.0,3.0
+ISYE-6414,Regression Analysis,1.0,5.0,3.0
+ISYE-6414,Regression Analysis,1.0,5.0,2.0
+ISYE-6414,Regression Analysis,3.0,4.0,3.0
+ISYE-6414,Regression Analysis,3.0,10.0,4.0
+ISYE-6414,Regression Analysis,1.0,7.0,2.0
+ISYE-6414,Regression Analysis,4.0,8.0,4.0
+ISYE-6414,Regression Analysis,3.0,7.0,3.0
+ISYE-6414,Regression Analysis,4.0,15.0,3.0
+ISYE-6414,Regression Analysis,4.0,7.0,3.0
+ISYE-6414,Regression Analysis,4.0,10.0,3.0
+ISYE-6414,Regression Analysis,3.0,12.0,4.0
+ISYE-6414,Regression Analysis,5.0,10.0,4.0
+ISYE-6414,Regression Analysis,3.0,8.0,3.0
+ISYE-6414,Regression Analysis,4.0,6.0,2.0
+ISYE-6414,Regression Analysis,4.0,5.0,2.0
+ISYE-6414,Regression Analysis,4.0,8.0,2.0
+ISYE-6414,Regression Analysis,4.0,5.0,3.0
+ISYE-6414,Regression Analysis,4.0,12.0,4.0
+ISYE-6414,Regression Analysis,1.0,10.0,3.0
+ISYE-6414,Regression Analysis,2.0,7.0,2.0
+ISYE-6414,Regression Analysis,2.0,10.0,3.0
+ISYE-6414,Regression Analysis,3.0,5.0,3.0
+ISYE-6414,Regression Analysis,2.0,6.0,3.0
+ISYE-6414,Regression Analysis,3.0,20.0,4.0
+ISYE-6414,Regression Analysis,4.0,7.0,2.0
+ISYE-6414,Regression Analysis,4.0,7.0,3.0
+ISYE-6414,Regression Analysis,4.0,10.0,3.0
+ISYE-6414,Regression Analysis,4.0,10.0,3.0
+ISYE-6414,Regression Analysis,1.0,12.0,4.0
+ISYE-6414,Regression Analysis,4.0,8.0,2.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,4.0,27.0,4.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,18.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,30.0,4.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,3.0,20.0,4.0
+CS-7642,Reinforcement Learning,3.0,20.0,5.0
+CS-7642,Reinforcement Learning,4.0,30.0,5.0
+CS-7642,Reinforcement Learning,5.0,30.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,35.0,5.0
+CS-7642,Reinforcement Learning,3.0,30.0,5.0
+CS-7642,Reinforcement Learning,5.0,30.0,5.0
+CS-7642,Reinforcement Learning,3.0,20.0,5.0
+CS-7642,Reinforcement Learning,5.0,40.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,4.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,25.0,4.0
+CS-7642,Reinforcement Learning,3.0,20.0,5.0
+CS-7642,Reinforcement Learning,1.0,30.0,4.0
+CS-7642,Reinforcement Learning,2.0,40.0,4.0
+CS-7642,Reinforcement Learning,4.0,25.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,5.0
+CS-7642,Reinforcement Learning,4.0,12.0,4.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,3.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,5.0
+CS-7642,Reinforcement Learning,2.0,50.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,5.0
+CS-7642,Reinforcement Learning,4.0,30.0,5.0
+CS-7642,Reinforcement Learning,3.0,10.0,3.0
+CS-7642,Reinforcement Learning,5.0,10.0,4.0
+CS-7642,Reinforcement Learning,4.0,21.0,4.0
+CS-7642,Reinforcement Learning,5.0,15.0,3.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,1.0,40.0,5.0
+CS-7642,Reinforcement Learning,1.0,17.0,4.0
+CS-7642,Reinforcement Learning,4.0,30.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,5.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,15.0,3.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,4.0,15.0,4.0
+CS-7642,Reinforcement Learning,5.0,10.0,2.0
+CS-7642,Reinforcement Learning,2.0,25.0,5.0
+CS-7642,Reinforcement Learning,4.0,8.0,2.0
+CS-7642,Reinforcement Learning,4.0,35.0,4.0
+CS-7642,Reinforcement Learning,4.0,13.0,3.0
+CS-7642,Reinforcement Learning,4.0,10.0,2.0
+CS-7642,Reinforcement Learning,4.0,30.0,5.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,12.0,3.0
+CS-7642,Reinforcement Learning,4.0,25.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,3.0
+CS-7642,Reinforcement Learning,4.0,10.0,3.0
+CS-7642,Reinforcement Learning,5.0,12.0,3.0
+CS-7642,Reinforcement Learning,4.0,15.0,4.0
+CS-7642,Reinforcement Learning,1.0,20.0,4.0
+CS-7642,Reinforcement Learning,2.0,25.0,5.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,10.0,3.0
+CS-7642,Reinforcement Learning,2.0,20.0,5.0
+CS-7642,Reinforcement Learning,4.0,18.0,4.0
+CS-7642,Reinforcement Learning,1.0,30.0,4.0
+CS-7642,Reinforcement Learning,5.0,30.0,5.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,5.0,40.0,5.0
+CS-7642,Reinforcement Learning,4.0,20.0,5.0
+CS-7642,Reinforcement Learning,4.0,25.0,4.0
+CS-7642,Reinforcement Learning,4.0,10.0,3.0
+CS-7642,Reinforcement Learning,3.0,10.0,4.0
+CS-7642,Reinforcement Learning,5.0,8.0,2.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,3.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,30.0,4.0
+CS-7642,Reinforcement Learning,4.0,30.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,23.0,5.0
+CS-7642,Reinforcement Learning,2.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,17.0,4.0
+CS-7642,Reinforcement Learning,5.0,35.0,5.0
+CS-7642,Reinforcement Learning,3.0,18.0,4.0
+CS-7642,Reinforcement Learning,3.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,1.0,18.0,4.0
+CS-7642,Reinforcement Learning,1.0,40.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,18.0,4.0
+CS-7642,Reinforcement Learning,1.0,20.0,4.0
+CS-7642,Reinforcement Learning,1.0,30.0,4.0
+CS-7642,Reinforcement Learning,3.0,30.0,5.0
+CS-7642,Reinforcement Learning,5.0,18.0,4.0
+CS-7642,Reinforcement Learning,2.0,20.0,4.0
+CS-7642,Reinforcement Learning,3.0,18.0,4.0
+CS-7642,Reinforcement Learning,3.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,2.0,25.0,5.0
+CS-7642,Reinforcement Learning,5.0,18.0,5.0
+CS-7642,Reinforcement Learning,5.0,15.0,4.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,4.0,20.0,5.0
+CS-7642,Reinforcement Learning,4.0,12.0,4.0
+CS-7642,Reinforcement Learning,2.0,15.0,4.0
+CS-7642,Reinforcement Learning,3.0,18.0,4.0
+CS-7642,Reinforcement Learning,4.0,30.0,5.0
+CS-7642,Reinforcement Learning,4.0,40.0,5.0
+CS-7642,Reinforcement Learning,1.0,40.0,5.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,18.0,4.0
+CS-7642,Reinforcement Learning,5.0,18.0,5.0
+CS-7642,Reinforcement Learning,4.0,15.0,4.0
+CS-7642,Reinforcement Learning,4.0,11.0,3.0
+CS-7642,Reinforcement Learning,1.0,4.0,2.0
+CS-7642,Reinforcement Learning,2.0,20.0,3.0
+CS-7642,Reinforcement Learning,5.0,40.0,5.0
+CS-7642,Reinforcement Learning,5.0,53.0,5.0
+CS-7642,Reinforcement Learning,5.0,20.0,4.0
+CS-7642,Reinforcement Learning,5.0,25.0,4.0
+CS-7642,Reinforcement Learning,5.0,21.0,4.0
+CS-7642,Reinforcement Learning,4.0,30.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,16.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,10.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,8.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,13.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,20.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,25.0,5.0
+CS-7638,Robotics: AI Techniques,4.0,10.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,12.0,2.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,10.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,16.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,40.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,15.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,10.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,5.0,2.0
+CS-7638,Robotics: AI Techniques,2.0,20.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,11.5,3.0
+CS-7638,Robotics: AI Techniques,2.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,12.0,3.0
+CS-7638,Robotics: AI Techniques,2.0,10.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,18.0,3.0
+CS-7638,Robotics: AI Techniques,4.0,15.0,2.0
+CS-7638,Robotics: AI Techniques,4.0,8.0,3.0
+CS-7638,Robotics: AI Techniques,1.0,15.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,5.0,4.0
+CS-7638,Robotics: AI Techniques,4.0,20.0,3.0
+CS-7638,Robotics: AI Techniques,2.0,5.0,1.0
+CS-7638,Robotics: AI Techniques,4.0,15.0,4.0
+CS-7638,Robotics: AI Techniques,3.0,15.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,6.0,3.0
+CS-7638,Robotics: AI Techniques,5.0,20.0,4.0
+CS-7638,Robotics: AI Techniques,5.0,16.0,4.0
+CS-6238,Secure Computer Systems,2.0,20.0,4.0
+CS-6238,Secure Computer Systems,1.0,12.0,3.0
+CS-6238,Secure Computer Systems,4.0,18.0,3.0
+CS-6238,Secure Computer Systems,4.0,13.0,3.0
+CS-6238,Secure Computer Systems,1.0,5.0,2.0
+CS-6238,Secure Computer Systems,3.0,10.0,2.0
+CS-6238,Secure Computer Systems,1.0,10.0,3.0
+CS-6238,Secure Computer Systems,3.0,12.0,4.0
+CS-6238,Secure Computer Systems,1.0,10.0,3.0
+CS-6238,Secure Computer Systems,3.0,18.0,3.0
+ISYE-6644,Simulation,5.0,7.0,3.0
+ISYE-6644,Simulation,5.0,8.0,5.0
+ISYE-6644,Simulation,5.0,12.0,3.0
+ISYE-6644,Simulation,4.0,11.0,4.0
+ISYE-6644,Simulation,5.0,5.0,3.0
+ISYE-6644,Simulation,5.0,6.0,3.0
+ISYE-6644,Simulation,4.0,10.0,3.0
+ISYE-6644,Simulation,5.0,7.0,2.0
+ISYE-6644,Simulation,4.0,2.0,3.0
+ISYE-6644,Simulation,4.0,6.0,3.0
+ISYE-6644,Simulation,5.0,20.0,5.0
+ISYE-6644,Simulation,5.0,10.0,3.0
+ISYE-6644,Simulation,5.0,5.0,4.0
+ISYE-6644,Simulation,4.0,6.5,3.0
+ISYE-6644,Simulation,3.0,14.0,3.0
+ISYE-6644,Simulation,5.0,10.0,4.0
+ISYE-6644,Simulation,5.0,20.0,3.0
+ISYE-6644,Simulation,5.0,16.0,3.0
+ISYE-6644,Simulation,5.0,20.0,4.0
+ISYE-6644,Simulation,5.0,7.5,3.0
+ISYE-6644,Simulation,4.0,10.0,3.0
+ISYE-6644,Simulation,5.0,10.0,3.0
+ISYE-6644,Simulation,4.0,8.0,4.0
+ISYE-6644,Simulation,5.0,12.0,4.0
+ISYE-6644,Simulation,4.0,10.0,3.0
+ISYE-6644,Simulation,5.0,8.0,3.0
+ISYE-6644,Simulation,4.0,5.0,3.0
+ISYE-6644,Simulation,3.0,10.0,3.0
+ISYE-6644,Simulation,5.0,12.0,3.0
+ISYE-6644,Simulation,5.0,6.0,4.0
+CS-6340,Software Analysis & Test,4.0,7.0,2.0
+CS-6340,Software Analysis & Test,2.0,12.0,4.0
+CS-6340,Software Analysis & Test,4.0,3.0,1.0
+CS-6340,Software Analysis & Test,2.0,20.0,4.0
+CS-6340,Software Analysis & Test,3.0,15.0,4.0
+CS-6340,Software Analysis & Test,5.0,11.0,3.0
+CS-6340,Software Analysis & Test,5.0,5.0,2.0
+CS-6340,Software Analysis & Test,4.0,4.0,2.0
+CS-6340,Software Analysis & Test,4.0,18.0,4.0
+CS-6340,Software Analysis & Test,3.0,20.0,3.0
+CS-6340,Software Analysis & Test,4.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,14.0,3.0
+CS-6340,Software Analysis & Test,4.0,12.0,2.0
+CS-6340,Software Analysis & Test,4.0,14.0,3.0
+CS-6340,Software Analysis & Test,4.0,12.0,3.0
+CS-6340,Software Analysis & Test,5.0,10.0,1.0
+CS-6340,Software Analysis & Test,2.0,8.0,2.0
+CS-6340,Software Analysis & Test,1.0,8.0,2.0
+CS-6340,Software Analysis & Test,1.0,2.0,2.0
+CS-6340,Software Analysis & Test,5.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,15.0,3.0
+CS-6340,Software Analysis & Test,4.0,5.0,2.0
+CS-6340,Software Analysis & Test,4.0,4.0,2.0
+CS-6340,Software Analysis & Test,4.0,10.0,3.0
+CS-6340,Software Analysis & Test,4.0,25.0,5.0
+CS-6340,Software Analysis & Test,4.0,6.0,4.0
+CS-6340,Software Analysis & Test,5.0,10.0,3.0
+CS-6340,Software Analysis & Test,4.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,18.0,4.0
+CS-6340,Software Analysis & Test,4.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,10.0,3.0
+CS-6340,Software Analysis & Test,5.0,10.0,2.0
+CS-6340,Software Analysis & Test,5.0,6.0,2.0
+CS-6340,Software Analysis & Test,1.0,20.0,5.0
+CS-6340,Software Analysis & Test,2.0,25.0,4.0
+CS-6340,Software Analysis & Test,2.0,6.0,3.0
+CS-6340,Software Analysis & Test,1.0,10.0,5.0
+CS-6340,Software Analysis & Test,4.0,16.0,5.0
+CS-6340,Software Analysis & Test,3.0,20.0,4.0
+CS-6340,Software Analysis & Test,2.0,5.0,1.0
+CS-6340,Software Analysis & Test,1.0,10.0,5.0
+CS-6340,Software Analysis & Test,1.0,25.0,5.0
+CS-6340,Software Analysis & Test,1.0,10.0,3.0
+CS-6340,Software Analysis & Test,4.0,8.0,3.0
+CS-6340,Software Analysis & Test,4.0,6.0,1.0
+CS-6340,Software Analysis & Test,4.0,10.0,3.0
+CS-6340,Software Analysis & Test,2.0,10.0,3.0
+CS-6340,Software Analysis & Test,3.0,15.0,4.0
+CS-6340,Software Analysis & Test,1.0,20.0,4.0
+CS-6340,Software Analysis & Test,4.0,10.0,4.0
+CS-6340,Software Analysis & Test,5.0,15.0,4.0
+CS-6340,Software Analysis & Test,5.0,10.0,3.0
+CS-6340,Software Analysis & Test,4.0,20.0,4.0
+CS-6340,Software Analysis & Test,3.0,15.0,3.0
+CS-6340,Software Analysis & Test,1.0,25.0,4.0
+CS-6340,Software Analysis & Test,3.0,20.0,4.0
+CS-6340,Software Analysis & Test,3.0,35.0,4.0
+CS-6340,Software Analysis & Test,3.0,9.0,3.0
+CS-6340,Software Analysis & Test,4.0,10.0,3.0
+CS-6340,Software Analysis & Test,2.0,15.0,4.0
+CS-6340,Software Analysis & Test,2.0,15.0,3.0
+CS-6340,Software Analysis & Test,5.0,10.0,3.0
+CS-6340,Software Analysis & Test,1.0,20.0,5.0
+CS-6340,Software Analysis & Test,4.0,8.0,3.0
+CS-6340,Software Analysis & Test,1.0,12.0,5.0
+CS-6340,Software Analysis & Test,1.0,15.0,5.0
+CS-6340,Software Analysis & Test,5.0,15.0,4.0
+CS-6340,Software Analysis & Test,5.0,5.0,3.0
+CS-6340,Software Analysis & Test,4.0,6.0,3.0
+CS-6340,Software Analysis & Test,4.0,25.0,3.0
+CS-6340,Software Analysis & Test,5.0,10.0,2.0
+CS-6340,Software Analysis & Test,4.0,10.0,3.0
+CS-6340,Software Analysis & Test,2.0,5.0,3.0
+CS-6340,Software Analysis & Test,2.0,5.0,2.0
+CS-6340,Software Analysis & Test,5.0,15.0,3.0
+CS-6340,Software Analysis & Test,2.0,6.0,2.0
+CS-6340,Software Analysis & Test,3.0,20.0,3.0
+CS-6340,Software Analysis & Test,2.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,8.0,3.0
+CS-6340,Software Analysis & Test,1.0,15.0,4.0
+CS-6340,Software Analysis & Test,2.0,15.0,3.0
+CS-6340,Software Analysis & Test,5.0,10.0,3.0
+CS-6340,Software Analysis & Test,2.0,35.0,5.0
+CS-6340,Software Analysis & Test,4.0,16.0,4.0
+CS-6340,Software Analysis & Test,2.0,16.0,4.0
+CS-6340,Software Analysis & Test,3.0,10.0,2.0
+CS-6340,Software Analysis & Test,4.0,15.0,3.0
+CS-6340,Software Analysis & Test,5.0,6.0,3.0
+CS-6340,Software Analysis & Test,5.0,9.0,3.0
+CS-6340,Software Analysis & Test,4.0,3.0,2.0
+CS-6340,Software Analysis & Test,5.0,15.0,3.0
+CS-6340,Software Analysis & Test,4.0,15.0,4.0
+CS-6340,Software Analysis & Test,2.0,18.0,5.0
+CS-6340,Software Analysis & Test,1.0,8.0,3.0
+CS-6340,Software Analysis & Test,2.0,15.0,4.0
+CS-6340,Software Analysis & Test,1.0,15.0,4.0
+CS-6340,Software Analysis & Test,1.0,20.0,4.0
+CS-6340,Software Analysis & Test,1.0,15.0,4.0
+CS-6340,Software Analysis & Test,4.0,12.0,4.0
+CS-6340,Software Analysis & Test,5.0,7.0,3.0
+CS-6340,Software Analysis & Test,4.0,10.0,4.0
+CS-6340,Software Analysis & Test,5.0,10.0,3.0
+CS-6340,Software Analysis & Test,3.0,12.0,4.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,2.0,5.0,2.0
+CS-6310,Software Architecture & Design,5.0,10.0,3.0
+CS-6310,Software Architecture & Design,5.0,15.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,4.0,9.0,3.0
+CS-6310,Software Architecture & Design,2.0,2.0,1.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,15.0,3.0
+CS-6310,Software Architecture & Design,3.0,5.0,2.0
+CS-6310,Software Architecture & Design,3.0,15.0,2.0
+CS-6310,Software Architecture & Design,1.0,2.0,1.0
+CS-6310,Software Architecture & Design,3.0,7.0,3.0
+CS-6310,Software Architecture & Design,3.0,6.0,1.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,6.0,3.0
+CS-6310,Software Architecture & Design,5.0,15.0,4.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,2.0,4.0,2.0
+CS-6310,Software Architecture & Design,5.0,10.0,4.0
+CS-6310,Software Architecture & Design,5.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,8.0,2.0
+CS-6310,Software Architecture & Design,4.0,8.0,2.0
+CS-6310,Software Architecture & Design,4.0,15.0,3.0
+CS-6310,Software Architecture & Design,4.0,6.0,3.0
+CS-6310,Software Architecture & Design,4.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,6.0,2.0
+CS-6310,Software Architecture & Design,4.0,15.0,3.0
+CS-6310,Software Architecture & Design,3.0,12.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,4.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,5.0,2.0
+CS-6310,Software Architecture & Design,4.0,20.0,5.0
+CS-6310,Software Architecture & Design,3.0,4.0,2.0
+CS-6310,Software Architecture & Design,3.0,15.0,1.0
+CS-6310,Software Architecture & Design,4.0,20.0,2.0
+CS-6310,Software Architecture & Design,2.0,20.0,4.0
+CS-6310,Software Architecture & Design,3.0,10.0,3.0
+CS-6310,Software Architecture & Design,5.0,9.0,2.0
+CS-6310,Software Architecture & Design,4.0,4.0,1.0
+CS-6310,Software Architecture & Design,4.0,12.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,24.0,3.0
+CS-6310,Software Architecture & Design,3.0,5.0,1.0
+CS-6310,Software Architecture & Design,2.0,4.0,2.0
+CS-6310,Software Architecture & Design,3.0,10.0,2.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,5.0,2.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,1.0,25.0,5.0
+CS-6310,Software Architecture & Design,1.0,16.0,3.0
+CS-6310,Software Architecture & Design,3.0,7.0,2.0
+CS-6310,Software Architecture & Design,1.0,10.0,2.0
+CS-6310,Software Architecture & Design,5.0,25.0,2.0
+CS-6310,Software Architecture & Design,1.0,6.0,2.0
+CS-6310,Software Architecture & Design,4.0,6.0,2.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,3.0,25.0,5.0
+CS-6310,Software Architecture & Design,4.0,12.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,8.0,1.0
+CS-6310,Software Architecture & Design,3.0,5.0,1.0
+CS-6310,Software Architecture & Design,3.0,2.0,1.0
+CS-6310,Software Architecture & Design,2.0,8.0,2.0
+CS-6310,Software Architecture & Design,3.0,7.0,3.0
+CS-6310,Software Architecture & Design,3.0,7.0,2.0
+CS-6310,Software Architecture & Design,4.0,7.0,3.0
+CS-6310,Software Architecture & Design,1.0,10.0,3.0
+CS-6310,Software Architecture & Design,1.0,2.0,1.0
+CS-6310,Software Architecture & Design,2.0,5.0,2.0
+CS-6310,Software Architecture & Design,5.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,6.0,3.0
+CS-6310,Software Architecture & Design,4.0,15.0,4.0
+CS-6310,Software Architecture & Design,3.0,10.0,2.0
+CS-6310,Software Architecture & Design,3.0,18.0,4.0
+CS-6310,Software Architecture & Design,3.0,20.0,2.0
+CS-6310,Software Architecture & Design,4.0,6.0,2.0
+CS-6310,Software Architecture & Design,3.0,15.0,4.0
+CS-6310,Software Architecture & Design,3.0,10.0,3.0
+CS-6310,Software Architecture & Design,2.0,14.0,4.0
+CS-6310,Software Architecture & Design,4.0,15.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,1.0
+CS-6310,Software Architecture & Design,4.0,11.0,3.0
+CS-6310,Software Architecture & Design,3.0,5.0,1.0
+CS-6310,Software Architecture & Design,3.0,10.0,2.0
+CS-6310,Software Architecture & Design,5.0,8.0,2.0
+CS-6310,Software Architecture & Design,3.0,7.0,3.0
+CS-6310,Software Architecture & Design,4.0,15.0,2.0
+CS-6310,Software Architecture & Design,4.0,15.0,3.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,3.0,7.0,3.0
+CS-6310,Software Architecture & Design,4.0,20.0,3.0
+CS-6310,Software Architecture & Design,4.0,20.0,4.0
+CS-6310,Software Architecture & Design,2.0,15.0,2.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,4.0,30.0,2.0
+CS-6310,Software Architecture & Design,4.0,10.0,3.0
+CS-6310,Software Architecture & Design,2.0,7.0,2.0
+CS-6310,Software Architecture & Design,2.0,4.0,2.0
+CS-6310,Software Architecture & Design,5.0,10.0,2.0
+CS-6310,Software Architecture & Design,5.0,8.0,3.0
+CS-6310,Software Architecture & Design,3.0,10.0,3.0
+CS-6310,Software Architecture & Design,4.0,5.0,1.0
+CS-6310,Software Architecture & Design,2.0,12.0,2.0
+CS-6310,Software Architecture & Design,3.0,15.0,3.0
+CS-6310,Software Architecture & Design,4.0,12.0,3.0
+CS-6310,Software Architecture & Design,5.0,13.0,3.0
+CS-6300,Software Development Process,3.0,5.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,5.0,10.0,2.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,4.0,8.0,1.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,1.0,8.0,1.0
+CS-6300,Software Development Process,4.0,15.9,3.0
+CS-6300,Software Development Process,4.0,20.0,3.0
+CS-6300,Software Development Process,3.0,4.0,1.0
+CS-6300,Software Development Process,4.0,14.0,2.0
+CS-6300,Software Development Process,2.0,10.0,2.0
+CS-6300,Software Development Process,5.0,15.0,3.0
+CS-6300,Software Development Process,3.0,9.0,2.0
+CS-6300,Software Development Process,4.0,7.5,3.0
+CS-6300,Software Development Process,3.0,7.0,3.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,5.0,15.0,3.0
+CS-6300,Software Development Process,3.0,15.0,2.0
+CS-6300,Software Development Process,5.0,5.0,2.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,3.0,8.0,2.0
+CS-6300,Software Development Process,3.0,5.0,2.0
+CS-6300,Software Development Process,4.0,8.0,3.0
+CS-6300,Software Development Process,5.0,6.0,3.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,2.0,5.0,2.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,3.0,3.0,1.0
+CS-6300,Software Development Process,3.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,4.0,8.0,1.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,3.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,5.0,6.0,1.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,4.0,20.0,4.0
+CS-6300,Software Development Process,4.0,6.0,2.0
+CS-6300,Software Development Process,5.0,5.0,2.0
+CS-6300,Software Development Process,5.0,12.0,3.0
+CS-6300,Software Development Process,3.0,7.0,1.0
+CS-6300,Software Development Process,5.0,10.0,2.0
+CS-6300,Software Development Process,4.0,10.0,1.0
+CS-6300,Software Development Process,3.0,5.0,3.0
+CS-6300,Software Development Process,2.0,4.0,1.0
+CS-6300,Software Development Process,5.0,25.0,3.0
+CS-6300,Software Development Process,2.0,8.0,2.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,4.0,8.0,1.0
+CS-6300,Software Development Process,2.0,10.0,3.0
+CS-6300,Software Development Process,4.0,16.0,3.0
+CS-6300,Software Development Process,2.0,5.0,1.0
+CS-6300,Software Development Process,3.0,3.0,1.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,3.0,10.0,2.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,3.0,8.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,4.0,4.0,2.0
+CS-6300,Software Development Process,2.0,6.0,2.0
+CS-6300,Software Development Process,4.0,6.0,3.0
+CS-6300,Software Development Process,4.0,7.0,2.0
+CS-6300,Software Development Process,5.0,12.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,5.0,10.0,4.0
+CS-6300,Software Development Process,1.0,4.0,1.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,4.0,6.0,1.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,5.0,12.0,3.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,4.0,7.0,2.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,5.0,8.0,3.0
+CS-6300,Software Development Process,3.0,8.0,2.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,4.0,4.0,2.0
+CS-6300,Software Development Process,4.0,6.5,2.0
+CS-6300,Software Development Process,5.0,8.0,2.0
+CS-6300,Software Development Process,3.0,15.0,3.0
+CS-6300,Software Development Process,5.0,5.0,2.0
+CS-6300,Software Development Process,4.0,20.0,2.0
+CS-6300,Software Development Process,2.0,20.0,3.0
+CS-6300,Software Development Process,4.0,9.0,3.0
+CS-6300,Software Development Process,4.0,6.0,2.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,4.0,15.0,2.0
+CS-6300,Software Development Process,4.0,14.0,2.0
+CS-6300,Software Development Process,5.0,4.0,1.0
+CS-6300,Software Development Process,5.0,15.0,3.0
+CS-6300,Software Development Process,3.0,3.0,1.0
+CS-6300,Software Development Process,3.0,5.0,3.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,5.0,2.0,2.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,2.0,25.0,4.0
+CS-6300,Software Development Process,4.0,16.0,3.0
+CS-6300,Software Development Process,3.0,10.0,2.0
+CS-6300,Software Development Process,4.0,10.0,4.0
+CS-6300,Software Development Process,4.0,6.0,3.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,3.0,5.0,2.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,5.0,10.0,2.0
+CS-6300,Software Development Process,4.0,10.0,3.0
+CS-6300,Software Development Process,4.0,8.0,1.0
+CS-6300,Software Development Process,4.0,7.0,2.0
+CS-6300,Software Development Process,1.0,10.0,2.0
+CS-6300,Software Development Process,3.0,12.0,2.0
+CS-6300,Software Development Process,4.0,4.0,2.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,4.0,4.0,2.0
+CS-6300,Software Development Process,1.0,8.0,2.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,5.0,8.0,2.0
+CS-6300,Software Development Process,1.0,10.0,2.0
+CS-6300,Software Development Process,5.0,10.0,2.0
+CS-6300,Software Development Process,4.0,14.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,2.0,8.0,2.0
+CS-6300,Software Development Process,3.0,5.0,1.0
+CS-6300,Software Development Process,3.0,5.0,3.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,5.0,3.0,1.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,4.0,9.0,2.0
+CS-6300,Software Development Process,1.0,5.0,2.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,1.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,5.0,15.0,2.0
+CS-6300,Software Development Process,3.0,5.0,1.0
+CS-6300,Software Development Process,5.0,15.0,2.0
+CS-6300,Software Development Process,1.0,6.0,2.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,4.0,10.0,4.0
+CS-6300,Software Development Process,1.0,15.0,3.0
+CS-6300,Software Development Process,1.0,15.0,3.0
+CS-6300,Software Development Process,4.0,10.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,1.0,15.0,2.0
+CS-6300,Software Development Process,3.0,8.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,5.0,12.0,3.0
+CS-6300,Software Development Process,5.0,12.0,2.0
+CS-6300,Software Development Process,3.0,8.0,2.0
+CS-6300,Software Development Process,4.0,6.0,2.0
+CS-6300,Software Development Process,4.0,9.0,3.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,5.0,10.0,2.0
+CS-6300,Software Development Process,3.0,4.0,1.0
+CS-6300,Software Development Process,5.0,12.0,4.0
+CS-6300,Software Development Process,1.0,5.0,3.0
+CS-6300,Software Development Process,4.0,12.0,3.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,4.0,20.0,4.0
+CS-6300,Software Development Process,1.0,10.0,2.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+CS-6300,Software Development Process,4.0,5.0,2.0
+CS-6300,Software Development Process,4.0,4.0,2.0
+CS-6300,Software Development Process,5.0,10.0,3.0
+CS-6300,Software Development Process,4.0,15.0,2.0
+CS-6300,Software Development Process,4.0,6.0,2.0
+CS-6300,Software Development Process,1.0,8.0,2.0
+CS-6300,Software Development Process,2.0,10.0,2.0
+CS-6300,Software Development Process,3.0,4.0,2.0
+CS-6300,Software Development Process,3.0,10.0,3.0
+CS-6300,Software Development Process,4.0,8.0,2.0
+CS-6300,Software Development Process,2.0,6.0,2.0
+CS-6300,Software Development Process,3.0,6.0,2.0
+CS-6300,Software Development Process,4.0,15.0,3.0
+ISYE-6402,Time Series Analysis,4.0,10.0,4.0
+ISYE-6402,Time Series Analysis,1.0,12.0,5.0
+ISYE-6402,Time Series Analysis,4.0,8.0,4.0
+ISYE-6402,Time Series Analysis,1.0,5.0,4.0
+ISYE-6402,Time Series Analysis,1.0,8.0,4.0
+ISYE-6402,Time Series Analysis,2.0,8.0,4.0
+ISYE-6402,Time Series Analysis,1.0,10.0,4.0
+ISYE-6402,Time Series Analysis,1.0,18.0,5.0
+ISYE-6402,Time Series Analysis,1.0,15.0,5.0
+ISYE-6402,Time Series Analysis,4.0,11.0,5.0
+ISYE-6402,Time Series Analysis,1.0,40.0,5.0

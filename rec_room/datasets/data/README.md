@@ -1,0 +1,1 @@
+- omscentral_courses.json: https://raw.githubusercontent.com/OMSCentral/omscentral-legacy-angular/master/data/firebase-courses.json

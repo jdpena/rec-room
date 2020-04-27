@@ -1,0 +1,21 @@
+type: 'bar'
+data:            
+    labels: None
+    datasets: None   
+options:
+    title: 
+        display: true,
+        text: "Recommended Universities"
+    legend:
+        display: false    
+    scales:
+        yAxes:
+            - ticks:
+                beginAtZero: true
+                stepSize: 1
+    tooltips:
+        enabled: true
+        callbacks: None
+        titleFontSize: 10
+        bodyFontSize: 10
+

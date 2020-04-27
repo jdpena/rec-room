@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block content %} 
+    {{ super() }} 
+
+    <div class="row">
+        {% for rec in recs %}
+        <div class="col-xl-3 col-md-6 mb-3 mb-lg-3">
+            <div class="border rounded">
+                <div class="d-flex border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0"><a href="{{url_for('recommend', recid=rec.uid)}}">{{rec.name}}</a></h3>
+                </div>
+                <!--<p class="px-3 pt-4 h3"><u><strong>{{rec.name}}</strong></u></p>-->               
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    {{rec.brief}}
+                </p>
+                <div class="d-flex px-3 w-100 align-items-end flex-column" >
+                    <!-- <p class="mr-auto">Recommended</p>-->
+                    <i class="far fa-thumbs-up" ></i>
+                    <p class="text-success d-flex align-items-center">{{rec.score}}%</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+        <!-- Example -->
+        <div class="col-xl-3 col-md-6 mb-3 mb-lg-0">
+            <div class="border rounded">
+                <div class="d-flex gt-blue-bg border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0">
+                        <a id='gt-anchor' class="text-white">Example: Specialization Recommender</a>                    
+                    </h3>
+                </div>
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    Get suggestions on which OMS specialization to pursue.
+                </p>
+                <div class="d-flex px-3 w-100 align-items-end flex-column" >
+                    <!-- <p class="mr-auto">Recommended</p>-->
+                    <i class="far fa-thumbs-up" ></i>
+                    <p class="text-warning d-flex align-items-center">0%</p>
+                </div>
+            </div>
+         </div>
+                <div class="col-xl-3 col-md-6 mb-3 mb-lg-0">
+            <div class="border rounded">
+                <div class="d-flex gt-blue-bg border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0">
+                        <a id='gt-anchor' class="text-white">Example: Degree Recommender</a>                    
+                    </h3>
+                </div>
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    Get suggestions on which degree to purpose.
+                </p>
+                <div class="d-flex px-3 w-100 align-items-end flex-column" >
+                    <!-- <p class="mr-auto">Recommended</p>-->
+                    <i class="far fa-thumbs-up" ></i>
+                    <p class="text-warning d-flex align-items-center">0%</p>
+                </div>
+            </div>
+         </div>
+                <div class="col-xl-3 col-md-6 mb-3 mb-lg-0">
+            <div class="border rounded">
+                <div class="d-flex gt-blue-bg border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0">
+                        <a id='gt-anchor' class="text-white">Example: Ed Tech Project Recommender</a>                    
+                    </h3>
+                </div>
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    Get suggestions on which track to take for OMS CS's Ed Tech.
+                </p>
+                <div class="d-flex px-3 w-100 align-items-end flex-column" >
+                    <!-- <p class="mr-auto">Recommended</p>-->
+                    <i class="far fa-thumbs-up" ></i>
+                    <p class="text-warning d-flex align-items-center">0%</p>
+                </div>
+            </div>
+         </div>
+    </div>
+
+{% endblock content%}

@@ -1,0 +1,151 @@
+{% extends "layout.html" %}
+
+{% block head%}
+    
+    {{ super() }}
+
+
+    <!-- bootstrap slider -->
+    <script src="{{ url_for('static', filename='bootstrap-slider-10.6.2/js/bootstrap-slider.min.js') }}"></script>            
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap-slider-10.6.2/css/bootstrap-slider.min.css') }}">
+
+    <!-- chart.js -->
+    <script src="{{ url_for('static', filename='js/chart-2.9.3.min.js') }}"></script>            
+
+    <script>
+        $(document).ready(function(){
+            $(".slider").slider({});
+        });
+        
+        function feedback(btn) {
+            var resp = $( btn ).attr("name");
+            if (resp == 'like') {
+                alert("Thanks for your review!");
+            } else {
+                alert("Thanks for your review. We'll continue working to improve our recommendations!");
+            }
+        }
+    </script>
+
+
+{% endblock %}
+
+{% block content %} 
+
+    <div class="row">
+        <div class="w100 text-black px-3"> 
+            <div>
+                <p class="text-black px-3 py-2 medium pb-1 mb-0 text-justify ">
+                    {{ rec.description }}
+                </p>
+            </div>
+            <div class="d-flex float-right">
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    <strong>Author:</strong> {{rec.author}}
+                </p>
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    <strong>Year Made:</strong> {{rec.year}}
+                </p>            
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    <strong>User Rating:</strong> {{rec.score}}%
+                </p>            
+                <p class="text-black px-3 py-2 small pb-1 mb-0">
+                    <strong>Download Data:</strong> <a target="_blank" href="{{url_for('data', recid=rec.uid, filename=rec.dataset)}}">{{rec.dataset}}</a>
+                </p>
+            </div>
+        </div>
+    </div> <!-- END REC METADATA -->
+    
+    <div class="w-100"><br/></div>
+
+    <div class="row">
+        <div class="col-xl-6 col-md-6 mb-3 mb-lg-3">
+            <div class=" border rounded "> <!-- border rounded -->
+                <div class="d-flex border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0 font-weight-bold">Parameters</h3>
+                </div>
+                <div class="w-100 pt-3"></div>
+                <form method='POST'>
+                    <div class=“container”>
+                        
+                        <!-- from model -->    
+                              
+                            {{markup}}
+                    
+                        <!-- /from model -->
+                        
+                        
+                        
+                        <div class="d-flex align-items-center justify-content-center" >                                    
+                            <div class="form-group">
+                                <label class="font-weight-bold" for="top">No. of Recommendations</label>
+                                <div class="justify-content-center">
+                                    <span class="mr-2">1</span>
+                                        <input id="top" class='slider' name='top' data-slider-id='topSlider' type="text" data-slider-min="1" data-slider-max="5" data-slider-step="1" data-slider-value="3"/>           
+                                    <span class="ml-2">5</span>
+                                </div> <!-- justify content center -->                                                
+                            </div>                                
+                        </div>
+                        
+                    </div> <!-- container -->
+                    
+
+                    
+                    
+                    <div class="w-100"></div>
+                    <div class="px-3 py-3">
+                        <button id='btn-run' name='action' value='run' type="submit" class="btn btn-primary gt-blue-bg">Run</button>                    
+                    </div>
+                   </form>                                                
+            </div>
+        </div>                        
+        
+        <div class="col-xl-6 col-md-6 mb-3 mb-lg-3">
+            <div class=" border rounded "> <!-- border rounded -->
+                <div class="d-flex border-bottom p-3 w-100 align-items-center">
+                    <h3 class="h5 mr-auto mb-0 font-weight-bold">Results</h3>
+                </div>
+                
+                      
+                {% if visualize is defined %}
+                    <canvas id="results" class="pt-2" width="400" height="400"></canvas>
+                    
+                    <script>
+                        console.log({{visualize | tojson }});                        
+                        var custom = {{ visualize | tojson }};
+                        
+                        var cb = custom['options']['tooltips']['callbacks'];
+                        
+                        if("title" in cb) { 
+                            eval("var _title = " + cb['title']);
+                            custom['options']['tooltips']['callbacks']['title'] = _title;                        
+                        }
+                        if("label" in cb){
+                            eval("var _label = " + cb['label']);    
+                            custom['options']['tooltips']['callbacks']['label'] = _label;
+                        }                        
+                        
+                        var ctx = document.getElementById('results');                         
+                        var myChart = new Chart(ctx, custom);                        
+                        
+                    </script>
+
+                    <div class="p-3 float-right">      
+                        <p class="px-3 float-right font-weight-bold">Send feedback</p>
+                        <div>
+                            <i id="like" name="like" onclick="feedback(this)" class="fa fa-thumbs-up fa-2x px-4 hand" title="Like"></i>
+                            <i id="dislike" name="dislike" onclick="feedback(this)" class="fa fa-thumbs-down fa-2x px-1 hand" title="Dislike"></i>                        
+                        </div>
+                    </div>                
+                
+                {% else %}
+                    <p class="p-3 font-italic text-center"> Please run recommendation. </p>
+                {% endif %}
+                
+              <!-- <button id='btn-save' type="submit" class="btn btn-primary nav-btn-login-signup gt-blue-bg">Save</button> -->
+            </div>
+        </div>
+     
+    </div>
+
+{% endblock content %}

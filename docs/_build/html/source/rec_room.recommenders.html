@@ -1,0 +1,527 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>rec_room.recommenders package &#8212; rec-room 0.1.0 documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="rec-room-recommenders-package">
+<h1>rec_room.recommenders package<a class="headerlink" href="#rec-room-recommenders-package" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="subpackages">
+<h2>Subpackages<a class="headerlink" href="#subpackages" title="Permalink to this headline">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="rec_room.recommenders.oms_courses_rs.html">rec_room.recommenders.oms_courses_rs package</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.oms_courses_rs.html#submodules">Submodules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.oms_courses_rs.html#module-rec_room.recommenders.oms_courses_rs.oms_courses_rs">rec_room.recommenders.oms_courses_rs.oms_courses_rs module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.oms_courses_rs.html#module-rec_room.recommenders.oms_courses_rs">Module contents</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="rec_room.recommenders.us_colleges_rs.html">rec_room.recommenders.us_colleges_rs package</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.us_colleges_rs.html#submodules">Submodules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.us_colleges_rs.html#module-rec_room.recommenders.us_colleges_rs.us_colleges_rs">rec_room.recommenders.us_colleges_rs.us_colleges_rs module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rec_room.recommenders.us_colleges_rs.html#module-rec_room.recommenders.us_colleges_rs">Module contents</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="module-rec_room.recommenders">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-rec_room.recommenders" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.recommenders.BaseRS">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.recommenders.</code><code class="sig-name descname">BaseRS</code><span class="sig-paren">(</span><em class="sig-param">args</em>, <em class="sig-param">path</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.BaseRS" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">abc.ABC</span></code></p>
+<p>Base class for all Recommender Systems</p>
+<p>All Recommender Systems integrated into the <cite>Recommender Room</cite>
+must inherit from the <cite>BaseRS</cite> class to ensure the appropriate
+methods and properties are defined. The <cite>Rec Room</cite> will
+call the methods or use the properties at runtime.</p>
+<dl class="method">
+<dt id="rec_room.recommenders.BaseRS.dataset">
+<em class="property">abstract property </em><code class="sig-name descname">dataset</code><a class="headerlink" href="#rec_room.recommenders.BaseRS.dataset" title="Permalink to this definition">¶</a></dt>
+<dd><p>return the dataset and labels</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.BaseRS.model">
+<em class="property">abstract property </em><code class="sig-name descname">model</code><a class="headerlink" href="#rec_room.recommenders.BaseRS.model" title="Permalink to this definition">¶</a></dt>
+<dd><p>return the trained model</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.BaseRS.recommend">
+<em class="property">abstract </em><code class="sig-name descname">recommend</code><span class="sig-paren">(</span><em class="sig-param">args</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.BaseRS.recommend" title="Permalink to this definition">¶</a></dt>
+<dd><p>make a recommendation</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.BaseRS.render">
+<em class="property">abstract </em><code class="sig-name descname">render</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.BaseRS.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>return HTML</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.BaseRS.visualize">
+<em class="property">abstract </em><code class="sig-name descname">visualize</code><span class="sig-paren">(</span><em class="sig-param">args</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.BaseRS.visualize" title="Permalink to this definition">¶</a></dt>
+<dd><p>return config options for chart.js</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.recommenders.USCollegesRS">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.recommenders.</code><code class="sig-name descname">USCollegesRS</code><span class="sig-paren">(</span><em class="sig-param">rs_args: Dict[str</em>, <em class="sig-param">str] = None</em>, <em class="sig-param">rs_dir: str = None</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.USCollegesRS" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">rec_room.recommenders._base.BaseRS</span></code></p>
+<p>The US Colleges Recommender System.</p>
+<p>This RS outputs a university recommendation based on 3 criteria: gpa, gpa, and rank.
+A Nearest Neighbor model was trained to output university recommendations.
+The data used by this RS was obtained from:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><a class="reference external" href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p></li>
+<li><p><a class="reference external" href="https://www.kaggle.com/malapatiravi/graduate-school-admission-data/home">https://www.kaggle.com/malapatiravi/graduate-school-admission-data/home</a></p></li>
+</ul>
+</div></blockquote>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>rs_args</strong> (<em>Dict</em>) – User specified arguments for preferences or constraints</p></li>
+<li><p><strong>rs_dir</strong> (<em>Str</em>) – Directory to where the RS is located.</p></li>
+</ul>
+</dd>
+</dl>
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.model">
+<code class="sig-name descname">model</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.model" title="Permalink to this definition">¶</a></dt>
+<dd><p>The trained model that has been loaded.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>sklearn.linear_model.NearestNeighbor</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.labels">
+<code class="sig-name descname">labels</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.labels" title="Permalink to this definition">¶</a></dt>
+<dd><p>The labels used by the <cite>model</cite></p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.template">
+<code class="sig-name descname">template</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.template" title="Permalink to this definition">¶</a></dt>
+<dd><p>The filepath to the HTML that will populate the <cite>Parameters</cite>
+section in the Recommender page</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.viz">
+<code class="sig-name descname">viz</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.viz" title="Permalink to this definition">¶</a></dt>
+<dd><p>The filepath to the JavaScript options that will be used to parameterize
+the chart.js library in the Recommender page</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.requires">
+<code class="sig-name descname">requires</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.requires" title="Permalink to this definition">¶</a></dt>
+<dd><p>Metadata required to be captured in the Recommender page in order
+to make a recommendation</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.dtypes">
+<code class="sig-name descname">dtypes</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.dtypes" title="Permalink to this definition">¶</a></dt>
+<dd><p>Specifies the appropriate data type for the evaluation criteria used by the RS</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.USCollegesRS.META">
+<code class="sig-name descname">META</code><em class="property"> = {'dataset': 'us_colleges.csv', 'labels': 'us_colleges_labels.sav', 'model': 'us_colleges_model.sav', 'path': 'us_colleges_rs', 'template': 'us_colleges_render.html', 'visualize': 'us_colleges_results.yaml'}</em><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.META" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.USCollegesRS.dataset">
+<em class="property">property </em><code class="sig-name descname">dataset</code><a class="headerlink" href="#rec_room.recommenders.USCollegesRS.dataset" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the US Colleges dataset.</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<em class="property">property </em><code class="sig-name descname">labels</code></dt>
+<dd><p>Return the saved labels used by the Recommender System</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<em class="property">property </em><code class="sig-name descname">model</code></dt>
+<dd><p>Return the saved model used by the Recommender System.</p>
+<p>The US COlleges RS uses a Nearest Neighbor model from the
+scikit-learn libary with the following parameters:</p>
+<dl class="simple">
+<dt>NearestNeighbors(algorithm=’auto’, leaf_size=30, metric=’minkowski’,</dt><dd><p>metric_params=None, n_jobs=None, n_neighbors=161,
+p=2, radius=1.0)</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.USCollegesRS.recommend">
+<code class="sig-name descname">recommend</code><span class="sig-paren">(</span><em class="sig-param">args: Dict[str</em>, <em class="sig-param">str] = None</em><span class="sig-paren">)</span> &#x2192; Dict[str, str]<a class="headerlink" href="#rec_room.recommenders.USCollegesRS.recommend" title="Permalink to this definition">¶</a></dt>
+<dd><p>Make a Recommendation for US Colleges.</p>
+<p>This function calls the pre-trained <cite>self.model</cite> and <cite>self.labels</cite>
+to make the best prediction, or recommendation,
+for the provided instance arguments.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>args</strong> (<em>Dict</em>) – User specified arguments for preferences or constraints</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>recs</strong> – The recommendation results</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.USCollegesRS.render">
+<code class="sig-name descname">render</code><span class="sig-paren">(</span><span class="sig-paren">)</span> &#x2192; str<a class="headerlink" href="#rec_room.recommenders.USCollegesRS.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the HTML to be rendered.</p>
+<p>The HTML will be populated in the <cite>Parameters</cite> component of the Recommender page.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><p><strong>html</strong> – HTML text to be rendered by the browser</p>
+</dd>
+<dt class="field-even">Return type</dt>
+<dd class="field-even"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.USCollegesRS.visualize">
+<code class="sig-name descname">visualize</code><span class="sig-paren">(</span><em class="sig-param">data: List[Dict]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Dict]<a class="headerlink" href="#rec_room.recommenders.USCollegesRS.visualize" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the formatted options Dict for the chart.js library.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>data</strong> (<em>list</em>) – The arguments specified by the user to be formatted for plotting</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>js</strong> – The arguments that will be used to create the chart/plot
+on the <cite>Results</cite> section of the Recommender page.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.recommenders.OMSCoursesRS">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.recommenders.</code><code class="sig-name descname">OMSCoursesRS</code><span class="sig-paren">(</span><em class="sig-param">rs_args: Dict[str</em>, <em class="sig-param">str] = None</em>, <em class="sig-param">rs_dir: str = None</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">rec_room.recommenders._base.BaseRS</span></code></p>
+<p>The OMS Courses Recommender System.</p>
+<p>This RS outputs course recommendations based on 3 criteria: rating, difficulty, and workload.
+A Logistc Regression classifier was trained to output course recommendations.
+The data used by this RS was obtained from:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>www.omscentral.com</p></li>
+</ul>
+</div></blockquote>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>rs_args</strong> (<em>Dict</em>) – User specified arguments for preferences or constraints</p></li>
+<li><p><strong>rs_dir</strong> (<em>Str</em>) – Directory to where the RS is located.</p></li>
+</ul>
+</dd>
+</dl>
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.model">
+<code class="sig-name descname">model</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.model" title="Permalink to this definition">¶</a></dt>
+<dd><p>The trained model that has been loaded.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>sklearn.linear_model.LogisticRegression</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.labels">
+<code class="sig-name descname">labels</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.labels" title="Permalink to this definition">¶</a></dt>
+<dd><p>The labels used by the <cite>model</cite></p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>sklearn.preprocessing.LabelEncoder</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.template">
+<code class="sig-name descname">template</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.template" title="Permalink to this definition">¶</a></dt>
+<dd><p>The filepath to the HTML that will populate the <cite>Parameters</cite>
+section in the Recommender page</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.viz">
+<code class="sig-name descname">viz</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.viz" title="Permalink to this definition">¶</a></dt>
+<dd><p>The filepath to the JavaScript options that will be used to parameterize
+the chart.js library in the Recommender page</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.stats">
+<code class="sig-name descname">stats</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.stats" title="Permalink to this definition">¶</a></dt>
+<dd><p>Relevant statistical data from the RS’s dataset</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.requires">
+<code class="sig-name descname">requires</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.requires" title="Permalink to this definition">¶</a></dt>
+<dd><p>Metadata required to be captured in the Recommender page in order
+to make a recommendation</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.dtypes">
+<code class="sig-name descname">dtypes</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.dtypes" title="Permalink to this definition">¶</a></dt>
+<dd><p>Specifies the appropriate data type for the evaluation criteria used by the RS</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.recommenders.OMSCoursesRS.META">
+<code class="sig-name descname">META</code><em class="property"> = {'dataset': 'oms_courses.csv', 'labels': 'oms_courses_labels.sav', 'model': 'oms_courses_model.sav', 'path': 'oms_courses_rs', 'template': 'oms_courses_render.html', 'visualize': 'oms_courses_results.yaml'}</em><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.META" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.OMSCoursesRS.dataset">
+<em class="property">property </em><code class="sig-name descname">dataset</code><a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.dataset" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the OMS Courses dataset.</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<em class="property">property </em><code class="sig-name descname">labels</code></dt>
+<dd><p>Return the saved labels used by the Recommender System</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<em class="property">property </em><code class="sig-name descname">model</code></dt>
+<dd><p>Return the saved model used by the Recommender System.</p>
+<p>The OMS Course RS uses a logistic regression classifier from the
+scikit-learn library with the following parameters:</p>
+<dl class="simple">
+<dt>LogisticRegression(C=1.0, class_weight=None, dual=False,</dt><dd><p>fit_intercept=True, intercept_scaling=1,
+l1_ratio=None, max_iter=5000, multi_class=’auto’,
+n_jobs=None, penalty=’l2’, random_state=0,
+solver=’saga’, tol=0.0001, verbose=0, warm_start=False)</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.OMSCoursesRS.recommend">
+<code class="sig-name descname">recommend</code><span class="sig-paren">(</span><em class="sig-param">args: Dict[str</em>, <em class="sig-param">str] = None</em><span class="sig-paren">)</span> &#x2192; Dict[str, str]<a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.recommend" title="Permalink to this definition">¶</a></dt>
+<dd><p>Make a Recommendation for OMS Courses.</p>
+<p>This function calls the pre-trained <cite>self.model</cite> and <cite>self.labels</cite>
+to make the best prediction, or recommendation,
+for the provided instance arguments.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>args</strong> (<em>Dict</em>) – User specified arguments for preferences or constraints</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>recs</strong> – The recommendation results</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.OMSCoursesRS.render">
+<code class="sig-name descname">render</code><span class="sig-paren">(</span><span class="sig-paren">)</span> &#x2192; str<a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the HTML to be rendered.</p>
+<p>The HTML will be populated in the <cite>Parameters</cite> component of the Recommender page.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><p><strong>html</strong> – HTML text to be rendered by the browser</p>
+</dd>
+<dt class="field-even">Return type</dt>
+<dd class="field-even"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.recommenders.OMSCoursesRS.visualize">
+<code class="sig-name descname">visualize</code><span class="sig-paren">(</span><em class="sig-param">data: List[Dict]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Dict]<a class="headerlink" href="#rec_room.recommenders.OMSCoursesRS.visualize" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the formatted options Dict for the chart.js library.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>data</strong> (<em>list</em>) – The arguments specified by the user to be formatted for plotting</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>js</strong> – The arguments that will be used to create the chart/plot
+on the <cite>Results</cite> section of the Recommender page.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">rec-room</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, jdpena.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.4</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../_sources/source/rec_room.recommenders.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

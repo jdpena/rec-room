@@ -1,0 +1,4 @@
+tech gold: pantone 4515 C (#
+tech gold metalic: pantone 8383 C (#a28d5b) a28d5b
+blue: pantone 539 C (#00263a) 00263a
+buzz gold: pantone 124 C (#eaaa00) eaaa00

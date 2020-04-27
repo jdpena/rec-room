@@ -1,0 +1,55 @@
+<!-- from model -->
+<div class="d-flex align-items-center justify-content-center" >                                    
+
+    <div class="form-group">
+        <label class="font-weight-bold" for="rating">Rating</label>
+        <div class="justify-content-center">
+            <span class="mr-2">0</span>
+            <input id="rating" class='slider' name='rating' data-slider-id='ratingSlider' type="text" data-slider-min="0" data-slider-max="5" data-slider-step="1" data-slider-value="5"/>           
+            <span class="ml-2">5</span>
+        </div> <!-- justify content center -->                                                
+    </div>                                
+</div>
+
+<div class="w-100"></div>
+
+<div class="d-flex align-items-center justify-content-center" >                                    
+    <div class="form-group">
+        <label class="font-weight-bold"  for="difficulty">Difficulty</label>
+        <div class="justify-content-center">
+            <span class="mr-2">0</span>
+            <input id="difficulty" class='slider' name='difficulty' data-slider-id='difficultySlider' type="text" data-slider-min="0" data-slider-max="5" data-slider-step="1" data-slider-value="3"/>           
+            <span class="ml-2">5</span>
+        </div> <!-- justify content center -->                                                
+    </div>                                
+</div>
+
+<div class="w-100"></div>
+
+<div class="d-flex align-items-center justify-content-center" >                                    
+    <div class="form-group">
+        <label class="font-weight-bold" for="workload">Workload</label>
+        <div class="justify-content-center">
+            <span class="mr-2">0</span>                                    
+            <input id="workload" class='slider' name='workload' data-slider-id='workloadSlider' type="text" data-slider-min="0" data-slider-max="50" data-slider-step="1" data-slider-value="20"/>           
+            <span class="ml-2">50</span>
+        </div> <!-- justify content center -->                                                
+    </div>                                
+</div>
+
+<div class="w-100"></div>
+
+<div class="d-flex align-items-center justify-content-center" >
+
+    <div class="form-group">
+        <label class="font-weight-bold" for="multi">Courses</label> 
+        <div>
+            <select multiple="multiple" id="courses" name="multi" class="custom-select" required style="width:100%; min-height:10em; max-width:20em; overflow:auto;">
+                {{REPLACE}}                                        
+            </select>
+        </div>
+    </div>
+</div>
+
+
+<!-- /from model -->

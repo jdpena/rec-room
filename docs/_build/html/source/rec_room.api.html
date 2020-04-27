@@ -1,0 +1,1115 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>rec_room.api package &#8212; rec-room 0.1.0 documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="rec-room-api-package">
+<h1>rec_room.api package<a class="headerlink" href="#rec-room-api-package" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="submodules">
+<h2>Submodules<a class="headerlink" href="#submodules" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="module-rec_room.api.endpoints">
+<span id="rec-room-api-endpoints-module"></span><h2>rec_room.api.endpoints module<a class="headerlink" href="#module-rec_room.api.endpoints" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.api.endpoints.DashboardAPI">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">DashboardAPI</code><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">flask_restful.Resource</span></code></p>
+<p>Endpoint for Dashboard page</p>
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.idb">
+<code class="sig-name descname">idb</code><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.idb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to database methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.idb.IDb" title="rec_room.api.idb.IDb">IDb</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.profiles">
+<code class="sig-name descname">profiles</code><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>User Accounts database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.recommenders">
+<code class="sig-name descname">recommenders</code><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.recommenders" title="Permalink to this definition">¶</a></dt>
+<dd><p>Recommender systems database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.DashboardAPI.get">
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP GET request</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.DashboardAPI.post">
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.post" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP POST request</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.endpoint">
+<code class="sig-name descname">endpoint</code><em class="property"> = 'dashboard'</em><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.endpoint" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.DashboardAPI.mediatypes">
+<code class="sig-name descname">mediatypes</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.mediatypes" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.method_decorators">
+<code class="sig-name descname">method_decorators</code><em class="property"> = [&lt;function login_required&gt;]</em><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.method_decorators" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DashboardAPI.methods">
+<code class="sig-name descname">methods</code><em class="property"> = {'GET', 'POST'}</em><a class="headerlink" href="#rec_room.api.endpoints.DashboardAPI.methods" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.endpoints.DataAPI">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">DataAPI</code><a class="headerlink" href="#rec_room.api.endpoints.DataAPI" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">flask_restful.Resource</span></code></p>
+<p>Endpoint for retrieving datasets</p>
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DataAPI.idb">
+<code class="sig-name descname">idb</code><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.idb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to dataset methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.idata.IData" title="rec_room.api.idata.IData">IData</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.DataAPI.get">
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP GET request</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DataAPI.endpoint">
+<code class="sig-name descname">endpoint</code><em class="property"> = 'data'</em><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.endpoint" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.DataAPI.mediatypes">
+<code class="sig-name descname">mediatypes</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.mediatypes" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DataAPI.method_decorators">
+<code class="sig-name descname">method_decorators</code><em class="property"> = [&lt;function login_required&gt;]</em><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.method_decorators" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.DataAPI.methods">
+<code class="sig-name descname">methods</code><em class="property"> = {'GET'}</em><a class="headerlink" href="#rec_room.api.endpoints.DataAPI.methods" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.endpoints.LoginAPI">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">LoginAPI</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">flask_restful.Resource</span></code></p>
+<p>Endpoint for the Login page</p>
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.idb">
+<code class="sig-name descname">idb</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.idb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to database methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.idb.IDb" title="rec_room.api.idb.IDb">IDb</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.users">
+<code class="sig-name descname">users</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.users" title="Permalink to this definition">¶</a></dt>
+<dd><p>Users database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.profiles">
+<code class="sig-name descname">profiles</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>User Accounts database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.universities">
+<code class="sig-name descname">universities</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.universities" title="Permalink to this definition">¶</a></dt>
+<dd><p>Universities database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.majors">
+<code class="sig-name descname">majors</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.majors" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student majors database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.designations">
+<code class="sig-name descname">designations</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.designations" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student grade-level designations database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.semesters">
+<code class="sig-name descname">semesters</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.semesters" title="Permalink to this definition">¶</a></dt>
+<dd><p>Graduating semesters database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.interests">
+<code class="sig-name descname">interests</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.interests" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student interests database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.test">
+<code class="sig-name descname">test</code><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.test" title="Permalink to this definition">¶</a></dt>
+<dd><p>Flag to decide whether or not to write out to database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>bool</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.LoginAPI.get">
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP GET request</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.LoginAPI.post">
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.post" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP POST request</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.endpoint">
+<code class="sig-name descname">endpoint</code><em class="property"> = 'login'</em><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.endpoint" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.LoginAPI.mediatypes">
+<code class="sig-name descname">mediatypes</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.mediatypes" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.LoginAPI.methods">
+<code class="sig-name descname">methods</code><em class="property"> = {'GET', 'POST'}</em><a class="headerlink" href="#rec_room.api.endpoints.LoginAPI.methods" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.endpoints.ProfileAPI">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">ProfileAPI</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">flask_restful.Resource</span></code></p>
+<p>Endpoint for User Accounts page</p>
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.idb">
+<code class="sig-name descname">idb</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.idb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to database methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.idb.IDb" title="rec_room.api.idb.IDb">IDb</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.users">
+<code class="sig-name descname">users</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.users" title="Permalink to this definition">¶</a></dt>
+<dd><p>Users database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.profiles">
+<code class="sig-name descname">profiles</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>User Accounts database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.universities">
+<code class="sig-name descname">universities</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.universities" title="Permalink to this definition">¶</a></dt>
+<dd><p>Universities database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.majors">
+<code class="sig-name descname">majors</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.majors" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student majors database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.designations">
+<code class="sig-name descname">designations</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.designations" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student grade-level designations database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.semesters">
+<code class="sig-name descname">semesters</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.semesters" title="Permalink to this definition">¶</a></dt>
+<dd><p>Graduating semesters database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.interests">
+<code class="sig-name descname">interests</code><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.interests" title="Permalink to this definition">¶</a></dt>
+<dd><p>Student interests database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.ProfileAPI.get">
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP GET request</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.ProfileAPI.post">
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.post" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP POST request</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.endpoint">
+<code class="sig-name descname">endpoint</code><em class="property"> = 'profile'</em><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.endpoint" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.ProfileAPI.mediatypes">
+<code class="sig-name descname">mediatypes</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.mediatypes" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.method_decorators">
+<code class="sig-name descname">method_decorators</code><em class="property"> = [&lt;function login_required&gt;]</em><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.method_decorators" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.ProfileAPI.methods">
+<code class="sig-name descname">methods</code><em class="property"> = {'GET', 'POST'}</em><a class="headerlink" href="#rec_room.api.endpoints.ProfileAPI.methods" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.endpoints.RecommendAPI">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">RecommendAPI</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">flask_restful.Resource</span></code></p>
+<p>Endpoint for the Recommender Systems</p>
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.irec">
+<code class="sig-name descname">irec</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.irec" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to Recommender System methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.irecommend.IRecommend" title="rec_room.api.irecommend.IRecommend">IRecommend</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.rs">
+<code class="sig-name descname">rs</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.rs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Recommender System model</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Object</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.idb">
+<code class="sig-name descname">idb</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.idb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Interface to database methods</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#rec_room.api.idb.IDb" title="rec_room.api.idb.IDb">IDb</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.profiles">
+<code class="sig-name descname">profiles</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>User Accounts database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.recommenders">
+<code class="sig-name descname">recommenders</code><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.recommenders" title="Permalink to this definition">¶</a></dt>
+<dd><p>Recommender systems database</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>DataFrame</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.RecommendAPI.get">
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP GET request</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.RecommendAPI.post">
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.post" title="Permalink to this definition">¶</a></dt>
+<dd><p>Respond to an HTTP POST request</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.endpoint">
+<code class="sig-name descname">endpoint</code><em class="property"> = 'recommend'</em><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.endpoint" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.endpoints.RecommendAPI.mediatypes">
+<code class="sig-name descname">mediatypes</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.mediatypes" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.method_decorators">
+<code class="sig-name descname">method_decorators</code><em class="property"> = [&lt;function login_required&gt;]</em><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.method_decorators" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="attribute">
+<dt id="rec_room.api.endpoints.RecommendAPI.methods">
+<code class="sig-name descname">methods</code><em class="property"> = {'GET', 'POST'}</em><a class="headerlink" href="#rec_room.api.endpoints.RecommendAPI.methods" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">post</code><span class="sig-paren">(</span><span class="sig-paren">)</span></dt>
+<dd><p>TODO: use redirect(‘recommend?recid=recid&amp;results=…’)
+to avoid code redundancies betweent GET/POST methods</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="function">
+<dt id="rec_room.api.endpoints.login_required">
+<code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">login_required</code><span class="sig-paren">(</span><em class="sig-param">f: Callable</em><span class="sig-paren">)</span> &#x2192; Tuple<a class="headerlink" href="#rec_room.api.endpoints.login_required" title="Permalink to this definition">¶</a></dt>
+<dd><p>Wraps endpoint function <cite>f</cite> with a login requirement</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>f</strong> (<em>Callable function</em>) – The function being called based on endpoint being reached (e.g., GET or POST)</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>HTML, HTTP status code, and HTTP JSON Headers</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>Tuple</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="rec_room.api.endpoints.logout">
+<code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">logout</code><span class="sig-paren">(</span><span class="sig-paren">)</span> &#x2192; None<a class="headerlink" href="#rec_room.api.endpoints.logout" title="Permalink to this definition">¶</a></dt>
+<dd><p>Removes session data</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="rec_room.api.endpoints.render">
+<code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">render</code><span class="sig-paren">(</span><em class="sig-param">endpoint: str</em>, <em class="sig-param">title: str</em>, <em class="sig-param">**kwargs: Dict</em><span class="sig-paren">)</span> &#x2192; Tuple[str, int, Dict]<a class="headerlink" href="#rec_room.api.endpoints.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns an HTTP response with HTML</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>endpoint</strong> (<em>str</em>) – The endpoint being reached from the browser</p></li>
+<li><p><strong>title</strong> (<em>str</em>) – The text to be displayed on the browser’s tab</p></li>
+<li><p><strong>kwargs</strong> (<em>dict</em>) – Endpoint-specific arguments</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>HTML, HTTP status code, and HTTP JSON Headers</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>tuple</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="rec_room.api.endpoints.response">
+<code class="sig-prename descclassname">rec_room.api.endpoints.</code><code class="sig-name descname">response</code><span class="sig-paren">(</span><em class="sig-param">status: int</em>, <em class="sig-param">data: Dict = None</em><span class="sig-paren">)</span> &#x2192; Tuple[Dict, int, Dict]<a class="headerlink" href="#rec_room.api.endpoints.response" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns an HTTP response without HTML</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>status</strong> (<em>int</em>) – HTTP status code</p></li>
+<li><p><strong>data</strong> (<em>dictionary</em>) – Arguments to return as part of response</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>JSON data, HTTP status code, and HTTP JSON Headers</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>tuple</p>
+</dd>
+</dl>
+</dd></dl>
+
+</div>
+<div class="section" id="module-rec_room.api.idata">
+<span id="rec-room-api-idata-module"></span><h2>rec_room.api.idata module<a class="headerlink" href="#module-rec_room.api.idata" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.api.idata.IData">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.idata.</code><code class="sig-name descname">IData</code><a class="headerlink" href="#rec_room.api.idata.IData" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Endpoint for retrieving Datasets</p>
+<dl class="method">
+<dt id="rec_room.api.idata.IData.get_dataset">
+<code class="sig-name descname">get_dataset</code><span class="sig-paren">(</span><em class="sig-param">fname</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idata.IData.get_dataset" title="Permalink to this definition">¶</a></dt>
+<dd><p>Retrieve the specified dataset</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_dataset</code><span class="sig-paren">(</span><em class="sig-param">fname: str</em><span class="sig-paren">)</span> &#x2192; List[str]</dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</div>
+<div class="section" id="module-rec_room.api.idb">
+<span id="rec-room-api-idb-module"></span><h2>rec_room.api.idb module<a class="headerlink" href="#module-rec_room.api.idb" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.api.idb.IDb">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.idb.</code><code class="sig-name descname">IDb</code><span class="sig-paren">(</span><em class="sig-param">db_path: str = None</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Interface methods to Databases</p>
+<dl class="attribute">
+<dt id="rec_room.api.idb.IDb.db_path">
+<code class="sig-name descname">db_path</code><a class="headerlink" href="#rec_room.api.idb.IDb.db_path" title="Permalink to this definition">¶</a></dt>
+<dd><p>Full path to database directory</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.add_user">
+<code class="sig-name descname">add_user</code><span class="sig-paren">(</span><em class="sig-param">user</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.add_user" title="Permalink to this definition">¶</a></dt>
+<dd><p>Add a user to the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.add_profile">
+<code class="sig-name descname">add_profile</code><span class="sig-paren">(</span><em class="sig-param">profile</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.add_profile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Add a user profile to the user profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.update_user">
+<code class="sig-name descname">update_user</code><span class="sig-paren">(</span><em class="sig-param">user</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.update_user" title="Permalink to this definition">¶</a></dt>
+<dd><p>Update a user’s information in the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.update_profile">
+<code class="sig-name descname">update_profile</code><span class="sig-paren">(</span><em class="sig-param">profile</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.update_profile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Update a user’s profile in the profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_users">
+<code class="sig-name descname">get_users</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_users" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_profiles">
+<code class="sig-name descname">get_profiles</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_recommenders">
+<code class="sig-name descname">get_recommenders</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_recommenders" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the recommenders database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_universities">
+<code class="sig-name descname">get_universities</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_universities" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the universities database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_majors">
+<code class="sig-name descname">get_majors</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_majors" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the majors database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_designations">
+<code class="sig-name descname">get_designations</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_designations" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the designations database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_semesters">
+<code class="sig-name descname">get_semesters</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_semesters" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the semesters database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.idb.IDb.get_interests">
+<code class="sig-name descname">get_interests</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.idb.IDb.get_interests" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the interests database</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">add_profile</code><span class="sig-paren">(</span><em class="sig-param">profile: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">add_user</code><span class="sig-paren">(</span><em class="sig-param">user: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_designations</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_interests</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_majors</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_profiles</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_recommenders</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_semesters</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_universities</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_users</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">update_profile</code><span class="sig-paren">(</span><em class="sig-param">profile: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">update_user</code><span class="sig-paren">(</span><em class="sig-param">user: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</div>
+<div class="section" id="module-rec_room.api.irecommend">
+<span id="rec-room-api-irecommend-module"></span><h2>rec_room.api.irecommend module<a class="headerlink" href="#module-rec_room.api.irecommend" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.api.irecommend.IRecommend">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.irecommend.</code><code class="sig-name descname">IRecommend</code><a class="headerlink" href="#rec_room.api.irecommend.IRecommend" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Interface to the Recommender System models</p>
+<dl class="attribute">
+<dt id="rec_room.api.irecommend.IRecommend.mapping">
+<code class="sig-name descname">mapping</code><a class="headerlink" href="#rec_room.api.irecommend.IRecommend.mapping" title="Permalink to this definition">¶</a></dt>
+<dd><p>Maps the RS <cite>uid</cite> from the Recommender database with its directory name</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.irecommend.IRecommend.get_rs">
+<code class="sig-name descname">get_rs</code><span class="sig-paren">(</span><em class="sig-param">meta</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.irecommend.IRecommend.get_rs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the RS model specified</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.irecommend.IRecommend.format_args">
+<code class="sig-name descname">format_args</code><span class="sig-paren">(</span><em class="sig-param">args</em>, <em class="sig-param">dtypes</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.irecommend.IRecommend.format_args" title="Permalink to this definition">¶</a></dt>
+<dd><p>Format and return the RS-required arguments <cite>args</cite> with appropriate data types</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">format_args</code><span class="sig-paren">(</span><em class="sig-param">args: Dict[str, str], dtypes: Dict[Callable, str]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Union[List, int]]</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_rs</code><span class="sig-paren">(</span><em class="sig-param">meta</em><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</div>
+<div class="section" id="module-rec_room.api">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-rec_room.api" title="Permalink to this headline">¶</a></h2>
+<dl class="class">
+<dt id="rec_room.api.IData">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.</code><code class="sig-name descname">IData</code><a class="headerlink" href="#rec_room.api.IData" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Endpoint for retrieving Datasets</p>
+<dl class="method">
+<dt id="rec_room.api.IData.get_dataset">
+<code class="sig-name descname">get_dataset</code><span class="sig-paren">(</span><em class="sig-param">fname</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IData.get_dataset" title="Permalink to this definition">¶</a></dt>
+<dd><p>Retrieve the specified dataset</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_dataset</code><span class="sig-paren">(</span><em class="sig-param">fname: str</em><span class="sig-paren">)</span> &#x2192; List[str]</dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.IDb">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.</code><code class="sig-name descname">IDb</code><span class="sig-paren">(</span><em class="sig-param">db_path: str = None</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Interface methods to Databases</p>
+<dl class="attribute">
+<dt id="rec_room.api.IDb.db_path">
+<code class="sig-name descname">db_path</code><a class="headerlink" href="#rec_room.api.IDb.db_path" title="Permalink to this definition">¶</a></dt>
+<dd><p>Full path to database directory</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.add_user">
+<code class="sig-name descname">add_user</code><span class="sig-paren">(</span><em class="sig-param">user</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.add_user" title="Permalink to this definition">¶</a></dt>
+<dd><p>Add a user to the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.add_profile">
+<code class="sig-name descname">add_profile</code><span class="sig-paren">(</span><em class="sig-param">profile</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.add_profile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Add a user profile to the user profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.update_user">
+<code class="sig-name descname">update_user</code><span class="sig-paren">(</span><em class="sig-param">user</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.update_user" title="Permalink to this definition">¶</a></dt>
+<dd><p>Update a user’s information in the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.update_profile">
+<code class="sig-name descname">update_profile</code><span class="sig-paren">(</span><em class="sig-param">profile</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.update_profile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Update a user’s profile in the profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_users">
+<code class="sig-name descname">get_users</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_users" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the users database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_profiles">
+<code class="sig-name descname">get_profiles</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_profiles" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the profiles database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_recommenders">
+<code class="sig-name descname">get_recommenders</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_recommenders" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the recommenders database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_universities">
+<code class="sig-name descname">get_universities</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_universities" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the universities database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_majors">
+<code class="sig-name descname">get_majors</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_majors" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the majors database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_designations">
+<code class="sig-name descname">get_designations</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_designations" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the designations database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_semesters">
+<code class="sig-name descname">get_semesters</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_semesters" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the semesters database</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IDb.get_interests">
+<code class="sig-name descname">get_interests</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IDb.get_interests" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the interests database</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">add_profile</code><span class="sig-paren">(</span><em class="sig-param">profile: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">add_user</code><span class="sig-paren">(</span><em class="sig-param">user: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_designations</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_interests</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_majors</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_profiles</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_recommenders</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_semesters</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_universities</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_users</code><span class="sig-paren">(</span><em class="sig-param">**kwargs</em><span class="sig-paren">)</span> &#x2192; DataFrame</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">update_profile</code><span class="sig-paren">(</span><em class="sig-param">profile: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">update_user</code><span class="sig-paren">(</span><em class="sig-param">user: Dict[str, str], **kwargs</em><span class="sig-paren">)</span> &#x2192; bool</dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="rec_room.api.IRecommend">
+<em class="property">class </em><code class="sig-prename descclassname">rec_room.api.</code><code class="sig-name descname">IRecommend</code><a class="headerlink" href="#rec_room.api.IRecommend" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Interface to the Recommender System models</p>
+<dl class="attribute">
+<dt id="rec_room.api.IRecommend.mapping">
+<code class="sig-name descname">mapping</code><a class="headerlink" href="#rec_room.api.IRecommend.mapping" title="Permalink to this definition">¶</a></dt>
+<dd><p>Maps the RS <cite>uid</cite> from the Recommender database with its directory name</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>Dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IRecommend.get_rs">
+<code class="sig-name descname">get_rs</code><span class="sig-paren">(</span><em class="sig-param">meta</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IRecommend.get_rs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the RS model specified</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="rec_room.api.IRecommend.format_args">
+<code class="sig-name descname">format_args</code><span class="sig-paren">(</span><em class="sig-param">args</em>, <em class="sig-param">dtypes</em><span class="sig-paren">)</span><a class="headerlink" href="#rec_room.api.IRecommend.format_args" title="Permalink to this definition">¶</a></dt>
+<dd><p>Format and return the RS-required arguments <cite>args</cite> with appropriate data types</p>
+</dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">format_args</code><span class="sig-paren">(</span><em class="sig-param">args: Dict[str, str], dtypes: Dict[Callable, str]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Union[List, int]]</dt>
+<dd></dd></dl>
+
+<dl class="method">
+<dt>
+<code class="sig-name descname">get_rs</code><span class="sig-paren">(</span><em class="sig-param">meta</em><span class="sig-paren">)</span></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">rec-room</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, jdpena.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.4</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../_sources/source/rec_room.api.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

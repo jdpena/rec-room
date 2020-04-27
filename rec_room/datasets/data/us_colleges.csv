@@ -1,0 +1,162 @@
+gre,gpa,rank,name
+700,3.65,2,University of Illinois at Urbana-Champaign
+700,3.27,2,Washington University in St Louis
+640,3.35,3,Creighton University
+600,3.47,2,University of Wisconsin
+700,4.0,1,Harvard University
+580,3.34,2,Rice University
+780,3.87,4,Saint Louis University
+520,2.98,2,"University of California, Irvine"
+500,3.31,3,State University of New York Albany
+760,3.35,3,University of Missouri
+580,3.32,2,Vanderbilt University
+620,3.4,2,University of Minnesota
+640,3.38,3,University of Texas at Dallas
+700,3.28,1,California Institute of Technology
+540,3.13,2,Tufts University
+580,4.0,2,"University of California, Davis"
+480,3.39,4,"University of Tennessee, Knoxville"
+620,3.07,2,Brown University
+660,4.0,1,Massachusetts Institute of Technology
+700,3.52,2,University of Massachusetts
+800,3.66,1,Stanford University
+540,3.33,3,Virginia Polytechnic Institute and State University
+620,3.95,3,Wayne State University
+800,4.0,3,University of Kansas
+740,3.86,2,Boston University
+560,2.52,2,New York University
+520,4.0,2,Emory University
+540,2.7,2,University of Notre Dame
+700,3.92,2,University of Pittsburgh
+800,2.9,2,Case Western Reserve University
+620,3.58,2,Ohio State University
+760,3.35,2,University of Colorado Boulder
+580,3.77,4,Medical College of Wisconsin
+660,3.32,1,Princeton University
+480,3.02,1,"University of California, Berkeley"
+660,3.49,2,"University of California, Santa Cruz"
+580,3.29,4,University of South Dakota
+620,3.18,2,Yeshiva University
+580,2.86,4,American University
+340,2.9,1,Yale University
+500,3.95,4,Florida International University
+520,2.62,2,University of Virginia
+480,2.55,1,"University of California, Los Angeles"
+600,3.58,1,University of Chicago
+480,2.91,1,Johns Hopkins University
+480,3.57,2,University of Southern California
+660,3.31,4,Howard University
+800,3.73,1,Cornell University
+520,3.65,4,Louisiana State University
+460,2.93,3,University of Kentucky
+560,3.49,4,University of San Francisco
+580,3.57,3,University of Texas at San Antonio
+540,2.81,3,"Binghamton University, State University of New York"
+580,3.02,2,William & Mary
+660,3.33,2,Stony Brook University
+340,3.15,3,George Mason University
+420,2.96,1,University of Michigan
+540,3.84,2,University of Utah
+500,2.93,4,University of Arkansas
+780,3.22,2,Wake Forest University
+640,3.73,3,Lehigh University
+500,3.57,3,University of Houston
+800,3.05,2,George Washington University
+620,3.45,2,University of Arizona
+480,2.62,2,"University of Maryland, College Park"
+580,3.36,2,Dartmouth College
+520,2.93,4,Missouri University of Science and Technology
+580,3.06,2,Rensselaer Polytechnic Institute
+540,3.78,2,"Rutgers, the State University of New Jersey"
+600,3.89,1,Columbia University
+520,2.73,2,Purdue University
+560,3.32,4,Montana State University
+680,3.7,2,Pennsylvania State University
+700,4.0,1,University of Pennsylvania
+540,3.49,2,University of Hawai’i at Mānoa
+800,3.97,1,Carnegie Mellon University
+380,3.43,3,"University of Maryland, Baltimore County"
+540,3.49,1,University of Washington
+500,3.08,3,University of Oklahoma
+460,3.64,3,University of South Florida
+660,3.77,3,Washington State University
+640,3.5,2,"University of California, Riverside"
+600,3.38,3,Auburn University
+660,3.45,4,New Mexico State University
+560,3.24,4,University of North Carolina at Greensboro
+680,3.0,4,Oklahoma State University
+740,4.0,3,Clemson University
+520,3.1,4,Portland State University
+620,3.09,4,University of Texas at Arlington
+660,2.91,3,Georgia State University
+740,4.0,3,Kansas State University
+560,3.48,2,Michigan State University
+540,3.04,1,Duke University
+700,2.88,2,University of Iowa
+460,3.45,3,Michigan Technological University
+600,3.56,2,Indiana University
+680,3.48,3,New Jersey Institute of Technology
+620,3.69,3,Old Dominion University
+680,3.14,2,Iowa State University
+760,3.0,2,Georgia Health Sciences University
+460,3.77,3,University of Idaho
+660,3.44,2,University of Delaware
+660,3.67,3,University of Wyoming
+760,2.81,1,Northwestern University
+640,3.12,3,Florida Institute of Technology
+620,3.33,3,University of Connecticut
+540,3.46,4,University of Toledo
+520,2.85,3,University of Oregon
+380,3.34,3,Oregon State University
+400,3.15,2,Arizona State University
+560,3.04,3,University of Montana
+480,3.45,2,Boston College
+560,3.07,2,Georgetown University
+700,3.56,2,Drexel University
+500,2.79,4,University of Tulsa
+380,3.59,4,University of Wisconsin-Milwaukee
+480,2.67,2,University of Cincinnati
+380,3.38,2,Kent State University
+580,3.8,2,University of Illinois at Chicago
+500,2.81,3,North Carolina State University
+400,3.35,3,University of Vermont
+680,2.96,3,Southern Methodist University
+380,2.91,4,"California State University, Long Beach"
+640,3.63,1,Georgia Institute of Technology
+800,3.53,1,"University of California, Santa Barbara"
+660,4.0,2,University of Wisconsin-Madison
+560,2.42,2,University of Texas at Austin
+600,3.35,2,University of Rochester
+560,3.36,3,Temple University
+500,2.97,4,Miami University
+800,3.47,3,University of Nebraska-Lincoln
+800,3.7,1,University of North Carolina at Chapel Hill
+640,3.67,3,University of Alaska Fairbanks
+460,3.44,2,University of Florida
+540,3.16,3,San Diego State University
+660,3.94,2,Brandeis University
+500,3.03,3,Syracuse University
+720,3.5,3,University of New Mexico
+440,3.13,4,Oakland University
+480,4.0,2,Medical University of South Carolina
+620,3.75,2,Texas A&M University
+460,3.58,2,University of Miami
+680,3.46,2,Colorado School of Mines
+300,2.84,2,Northeastern University
+680,3.67,2,Tulane University
+680,3.34,2,University at Buffalo
+520,3.51,2,University of Georgia
+500,3.88,4,Ohio University
+640,3.93,2,University of Medicine and Dentistry of New Jersey
+740,3.62,4,Rochester Institute of Technology
+400,3.31,3,Illinois Institute of Technology
+700,2.9,4,University of Southern Mississippi
+520,4.0,1,"University of California, San Diego"
+360,3.27,3,University of Nebraska Medical Center
+560,2.95,2,University of South Carolina
+700,3.52,4,University of Texas at El Paso
+580,3.5,2,Colorado State University
+560,2.71,3,Florida State University
+620,3.21,4,Texas Tech University
+300,3.01,3,Oregon Health and Science University
+680,3.85,3,Rush University

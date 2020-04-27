@@ -1,0 +1,4462 @@
+course_id,course_name,rating,workload,difficulty
+CS-6210,Advanced Operating Systems,5,20,5
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,4,25,5
+CS-6210,Advanced Operating Systems,5,25,4
+CS-6210,Advanced Operating Systems,NULL,6,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,5,16,4
+CS-6210,Advanced Operating Systems,NULL,20,5
+CS-6210,Advanced Operating Systems,5,15,3
+CS-6210,Advanced Operating Systems,2,25,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,NULL,14,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,5,12,5
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,5,18,5
+CS-6210,Advanced Operating Systems,5,30,5
+CS-6210,Advanced Operating Systems,4,18,5
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,5,19,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,4,7,4
+CS-6210,Advanced Operating Systems,5,18,3
+CS-6210,Advanced Operating Systems,5,25,5
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,3,15,4
+CS-6210,Advanced Operating Systems,5,15,5
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,5,30,4
+CS-6210,Advanced Operating Systems,5,18,4
+CS-6210,Advanced Operating Systems,5,15,5
+CS-6210,Advanced Operating Systems,3,20,4
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,4,20,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,5,14,4
+CS-6210,Advanced Operating Systems,4,15,5
+CS-6210,Advanced Operating Systems,5,18,4
+CS-6210,Advanced Operating Systems,5,15,3
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,4,20,5
+CS-6210,Advanced Operating Systems,NULL,8,4
+CS-6210,Advanced Operating Systems,5,18,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,NULL,5,3
+CS-6210,Advanced Operating Systems,3,20,4
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,NULL,20,5
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,NULL,30,5
+CS-6210,Advanced Operating Systems,NULL,5,4
+CS-6210,Advanced Operating Systems,5,20,4
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,NULL,8,4
+CS-6210,Advanced Operating Systems,2,25,5
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,4,10,5
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,5,20,5
+CS-6210,Advanced Operating Systems,NULL,5,3
+CS-6210,Advanced Operating Systems,NULL,5,4
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,NULL,20,4
+CS-6210,Advanced Operating Systems,4,12,4
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,NULL,15,4
+CS-6210,Advanced Operating Systems,NULL,5,4
+CS-6210,Advanced Operating Systems,NULL,10,4
+CS-6210,Advanced Operating Systems,NULL,6,4
+CS-6210,Advanced Operating Systems,4,15,4
+CS-6210,Advanced Operating Systems,NULL,15,3
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,4,18,4
+CS-6210,Advanced Operating Systems,3,15,4
+CS-6210,Advanced Operating Systems,NULL,20,3
+CS-6210,Advanced Operating Systems,5,15,4
+CS-6210,Advanced Operating Systems,NULL,20,5
+CS-6601,Artificial Intelligence,4,15,3
+CS-6601,Artificial Intelligence,2,20,4
+CS-6601,Artificial Intelligence,4,20,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,18,4
+CS-6601,Artificial Intelligence,4,15,4
+CS-6601,Artificial Intelligence,4,25,5
+CS-6601,Artificial Intelligence,5,8,4
+CS-6601,Artificial Intelligence,4,20,3
+CS-6601,Artificial Intelligence,4,15,3
+CS-6601,Artificial Intelligence,1,40,5
+CS-6601,Artificial Intelligence,5,25,4
+CS-6601,Artificial Intelligence,5,30,4
+CS-6601,Artificial Intelligence,4,20,3
+CS-6601,Artificial Intelligence,3,26,5
+CS-6601,Artificial Intelligence,4,25,5
+CS-6601,Artificial Intelligence,4,20,4
+CS-6601,Artificial Intelligence,5,30,5
+CS-6601,Artificial Intelligence,2,25,5
+CS-6601,Artificial Intelligence,5,25,4
+CS-6601,Artificial Intelligence,3,30,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,40,5
+CS-6601,Artificial Intelligence,4,25,4
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,4,24,4
+CS-6601,Artificial Intelligence,3,25,4
+CS-6601,Artificial Intelligence,2,40,4
+CS-6601,Artificial Intelligence,3,23,4
+CS-6601,Artificial Intelligence,5,20,5
+CS-6601,Artificial Intelligence,5,30,5
+CS-6601,Artificial Intelligence,5,15,3
+CS-6601,Artificial Intelligence,5,12,4
+CS-6601,Artificial Intelligence,5,15,4
+CS-6601,Artificial Intelligence,4,30,4
+CS-6601,Artificial Intelligence,5,10,4
+CS-6601,Artificial Intelligence,1,30,5
+CS-6601,Artificial Intelligence,4,25,5
+CS-6601,Artificial Intelligence,2,8,3
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,4,25,4
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,22,5
+CS-6601,Artificial Intelligence,4,10,4
+CS-6601,Artificial Intelligence,5,24,5
+CS-6601,Artificial Intelligence,4,15,3
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,12,4
+CS-6601,Artificial Intelligence,5,30,5
+CS-6601,Artificial Intelligence,5,15,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,15,4
+CS-6601,Artificial Intelligence,2,35,5
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,4,20,4
+CS-6601,Artificial Intelligence,4,40,5
+CS-6601,Artificial Intelligence,4,25,5
+CS-6601,Artificial Intelligence,5,16,3
+CS-6601,Artificial Intelligence,5,25,4
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,10,3
+CS-6601,Artificial Intelligence,1,30,3
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,40,4
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,10,2
+CS-6601,Artificial Intelligence,4,25,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,30,4
+CS-6601,Artificial Intelligence,5,12,3
+CS-6601,Artificial Intelligence,4,30,4
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,4,8,4
+CS-6601,Artificial Intelligence,3,22,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,4,25,5
+CS-6601,Artificial Intelligence,5,20,5
+CS-6601,Artificial Intelligence,NULL,35,5
+CS-6601,Artificial Intelligence,2,15,5
+CS-6601,Artificial Intelligence,4,8,3
+CS-6601,Artificial Intelligence,5,5,2
+CS-6601,Artificial Intelligence,2,30,5
+CS-6601,Artificial Intelligence,NULL,30,5
+CS-6601,Artificial Intelligence,3,16,5
+CS-6601,Artificial Intelligence,5,25,4
+CS-6601,Artificial Intelligence,4,40,5
+CS-6601,Artificial Intelligence,5,15,4
+CS-6601,Artificial Intelligence,NULL,30,5
+CS-6601,Artificial Intelligence,5,18,4
+CS-6601,Artificial Intelligence,4,20,4
+CS-6601,Artificial Intelligence,5,20,5
+CS-6601,Artificial Intelligence,5,21,5
+CS-6601,Artificial Intelligence,NULL,25,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,NULL,30,5
+CS-6601,Artificial Intelligence,4,20,5
+CS-6601,Artificial Intelligence,NULL,40,5
+CS-6601,Artificial Intelligence,5,12,3
+CS-6601,Artificial Intelligence,5,30,5
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,5,10,4
+CS-6601,Artificial Intelligence,2,32,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,4,15,4
+CS-6601,Artificial Intelligence,4,23,4
+CS-6601,Artificial Intelligence,4,50,5
+CS-6601,Artificial Intelligence,5,20,5
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,4,24,4
+CS-6601,Artificial Intelligence,5,25,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,15,3
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,12,5
+CS-6601,Artificial Intelligence,5,50,5
+CS-6601,Artificial Intelligence,4,20,5
+CS-6601,Artificial Intelligence,5,16,4
+CS-6601,Artificial Intelligence,5,30,4
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,2,40,4
+CS-6601,Artificial Intelligence,4,20,3
+CS-6601,Artificial Intelligence,4,30,5
+CS-6601,Artificial Intelligence,4,20,5
+CS-6601,Artificial Intelligence,4,15,4
+CS-6601,Artificial Intelligence,4,20,3
+CS-6601,Artificial Intelligence,5,35,5
+CS-6601,Artificial Intelligence,5,14,5
+CS-6601,Artificial Intelligence,5,15,5
+CS-6601,Artificial Intelligence,2,20,4
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,4,40,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,25,4
+CS-6601,Artificial Intelligence,1,22,4
+CS-6601,Artificial Intelligence,4,30,4
+CS-6601,Artificial Intelligence,5,20,5
+CS-6601,Artificial Intelligence,5,20,4
+CS-6601,Artificial Intelligence,5,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,4,8,2
+CS-8803-001,Artificial Intelligence for Robotics,5,12,4
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,2
+CS-8803-001,Artificial Intelligence for Robotics,5,25,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,6,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,4,12,3
+CS-8803-001,Artificial Intelligence for Robotics,3,12,3
+CS-8803-001,Artificial Intelligence for Robotics,1,5,4
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,4
+CS-8803-001,Artificial Intelligence for Robotics,4,10,4
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,4,8,2
+CS-8803-001,Artificial Intelligence for Robotics,1,27,3
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,3,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,1
+CS-8803-001,Artificial Intelligence for Robotics,5,20,4
+CS-8803-001,Artificial Intelligence for Robotics,2,18,4
+CS-8803-001,Artificial Intelligence for Robotics,3,27,5
+CS-8803-001,Artificial Intelligence for Robotics,3,13,4
+CS-8803-001,Artificial Intelligence for Robotics,4,13,4
+CS-8803-001,Artificial Intelligence for Robotics,3,15,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,NULL,2
+CS-8803-001,Artificial Intelligence for Robotics,4,12,3
+CS-8803-001,Artificial Intelligence for Robotics,1,14,4
+CS-8803-001,Artificial Intelligence for Robotics,4,10,3
+CS-8803-001,Artificial Intelligence for Robotics,3,10,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,4,30,4
+CS-8803-001,Artificial Intelligence for Robotics,2,20,4
+CS-8803-001,Artificial Intelligence for Robotics,5,6,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,2,3
+CS-8803-001,Artificial Intelligence for Robotics,2,8,4
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,1,15,4
+CS-8803-001,Artificial Intelligence for Robotics,2,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,10,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,2,2
+CS-8803-001,Artificial Intelligence for Robotics,3,10,4
+CS-8803-001,Artificial Intelligence for Robotics,4,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,3
+CS-8803-001,Artificial Intelligence for Robotics,2,5,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,NULL,2
+CS-8803-001,Artificial Intelligence for Robotics,3,20,4
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,20,3
+CS-8803-001,Artificial Intelligence for Robotics,5,16,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,4,9,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,2,2
+CS-8803-001,Artificial Intelligence for Robotics,5,20,5
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,4,35,5
+CS-8803-001,Artificial Intelligence for Robotics,4,10,4
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,5,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,8,3
+CS-8803-001,Artificial Intelligence for Robotics,5,15,5
+CS-8803-001,Artificial Intelligence for Robotics,4,10,4
+CS-8803-001,Artificial Intelligence for Robotics,5,8,3
+CS-8803-001,Artificial Intelligence for Robotics,5,8,2
+CS-8803-001,Artificial Intelligence for Robotics,1,35,5
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,3,4,1
+CS-8803-001,Artificial Intelligence for Robotics,4,13,3
+CS-8803-001,Artificial Intelligence for Robotics,1,15,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,4,12,4
+CS-8803-001,Artificial Intelligence for Robotics,5,14,2
+CS-8803-001,Artificial Intelligence for Robotics,4,14,3
+CS-8803-001,Artificial Intelligence for Robotics,4,5,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,5,10,4
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,4,6,4
+CS-8803-001,Artificial Intelligence for Robotics,4,30,5
+CS-8803-001,Artificial Intelligence for Robotics,5,10,3
+CS-8803-001,Artificial Intelligence for Robotics,3,25,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,2,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,3,2
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,4,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,5,4,2
+CS-8803-001,Artificial Intelligence for Robotics,5,6,2
+CS-8803-001,Artificial Intelligence for Robotics,5,15,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,2,30,5
+CS-8803-001,Artificial Intelligence for Robotics,4,5,3
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,3,15,4
+CS-8803-001,Artificial Intelligence for Robotics,2,30,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,4,7,3
+CS-8803-001,Artificial Intelligence for Robotics,5,20,3
+CS-8803-001,Artificial Intelligence for Robotics,3,4,3
+CS-8803-001,Artificial Intelligence for Robotics,4,10,5
+CS-8803-001,Artificial Intelligence for Robotics,4,20,4
+CS-8803-001,Artificial Intelligence for Robotics,4,18,3
+CS-8803-001,Artificial Intelligence for Robotics,4,20,5
+CS-8803-001,Artificial Intelligence for Robotics,4,10,2
+CS-8803-001,Artificial Intelligence for Robotics,4,15,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,2
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,5,4,1
+CS-8803-001,Artificial Intelligence for Robotics,1,10,4
+CS-8803-001,Artificial Intelligence for Robotics,2,20,5
+CS-8803-001,Artificial Intelligence for Robotics,2,30,4
+CS-8803-001,Artificial Intelligence for Robotics,4,15,4
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,4,5,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,4,8,2
+CS-8803-001,Artificial Intelligence for Robotics,3,8,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,3
+CS-8803-001,Artificial Intelligence for Robotics,5,25,5
+CS-8803-001,Artificial Intelligence for Robotics,4,18,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,5,2
+CS-8803-001,Artificial Intelligence for Robotics,2,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,22,4
+CS-8803-001,Artificial Intelligence for Robotics,5,12,3
+CS-8803-001,Artificial Intelligence for Robotics,3,30,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,3
+CS-8803-001,Artificial Intelligence for Robotics,4,10,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,8,2
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,1,10,3
+CS-8803-001,Artificial Intelligence for Robotics,4,15,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,15,4
+CS-8803-001,Artificial Intelligence for Robotics,4,10,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,8,3
+CS-8803-001,Artificial Intelligence for Robotics,3,20,4
+CS-8803-001,Artificial Intelligence for Robotics,5,30,4
+CS-8803-001,Artificial Intelligence for Robotics,NULL,10,3
+CS-8803-001,Artificial Intelligence for Robotics,5,18,3
+CS-8803-001,Artificial Intelligence for Robotics,NULL,2,2
+CS-8803-001,Artificial Intelligence for Robotics,5,13,4
+ISYE-6420,Bayesian Statistics,5,5,2
+ISYE-6420,Bayesian Statistics,4,8,4
+ISYE-6420,Bayesian Statistics,2,10,3
+ISYE-6420,Bayesian Statistics,3,10,2
+ISYE-6420,Bayesian Statistics,1,15,3
+ISYE-6420,Bayesian Statistics,3,4,2
+ISYE-6420,Bayesian Statistics,3,8,3
+ISYE-6420,Bayesian Statistics,4,18,2
+ISYE-6420,Bayesian Statistics,4,11,2
+ISYE-6420,Bayesian Statistics,4,10,2
+ISYE-6420,Bayesian Statistics,5,5,2
+ISYE-6420,Bayesian Statistics,4,6,1
+ISYE-6420,Bayesian Statistics,4,8,3
+ISYE-6420,Bayesian Statistics,4,10,3
+ISYE-6420,Bayesian Statistics,1,30,5
+CSE-6250,Big Data for Health Informatics,5,30,5
+CSE-6250,Big Data for Health Informatics,NULL,35,5
+CSE-6250,Big Data for Health Informatics,5,25,5
+CSE-6250,Big Data for Health Informatics,4,30,4
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,1,30,5
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,3,30,4
+CSE-6250,Big Data for Health Informatics,1,35,5
+CSE-6250,Big Data for Health Informatics,NULL,30,5
+CSE-6250,Big Data for Health Informatics,4,15,4
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,NULL,50,5
+CSE-6250,Big Data for Health Informatics,NULL,41,5
+CSE-6250,Big Data for Health Informatics,NULL,40,5
+CSE-6250,Big Data for Health Informatics,5,30,5
+CSE-6250,Big Data for Health Informatics,2,35,5
+CSE-6250,Big Data for Health Informatics,1,40,5
+CSE-6250,Big Data for Health Informatics,5,40,5
+CSE-6250,Big Data for Health Informatics,5,40,5
+CSE-6250,Big Data for Health Informatics,5,30,5
+CSE-6250,Big Data for Health Informatics,5,40,5
+CSE-6250,Big Data for Health Informatics,NULL,30,5
+CSE-6250,Big Data for Health Informatics,5,35,5
+CSE-6250,Big Data for Health Informatics,NULL,50,5
+CSE-6250,Big Data for Health Informatics,4,20,5
+CSE-6250,Big Data for Health Informatics,NULL,25,5
+CSE-6250,Big Data for Health Informatics,NULL,30,5
+CSE-6250,Big Data for Health Informatics,4,40,5
+CSE-6250,Big Data for Health Informatics,5,35,5
+CSE-6250,Big Data for Health Informatics,4,30,5
+CSE-6250,Big Data for Health Informatics,NULL,30,5
+CSE-6250,Big Data for Health Informatics,1,35,3
+CSE-6250,Big Data for Health Informatics,4,30,5
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,4,45,5
+CSE-6250,Big Data for Health Informatics,4,25,3
+CSE-6250,Big Data for Health Informatics,4,30,4
+CSE-6250,Big Data for Health Informatics,1,40,5
+CSE-6250,Big Data for Health Informatics,4,20,5
+CSE-6250,Big Data for Health Informatics,4,40,5
+CSE-6250,Big Data for Health Informatics,4,30,5
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,4,20,4
+CSE-6250,Big Data for Health Informatics,5,20,4
+CSE-6250,Big Data for Health Informatics,5,35,5
+CSE-6250,Big Data for Health Informatics,4,40,5
+CSE-6250,Big Data for Health Informatics,NULL,50,5
+CSE-6250,Big Data for Health Informatics,3,20,3
+MGT-6754,Business Fundamentals for Analytics,4,6,2
+MGT-6754,Business Fundamentals for Analytics,4,8,3
+MGT-6754,Business Fundamentals for Analytics,3,8,2
+MGT-6754,Business Fundamentals for Analytics,3,8,2
+MGT-6754,Business Fundamentals for Analytics,2,5,2
+MGT-6754,Business Fundamentals for Analytics,4,12,2
+MGT-6754,Business Fundamentals for Analytics,4,6,2
+MGT-6754,Business Fundamentals for Analytics,1,6,4
+MGT-6754,Business Fundamentals for Analytics,2,7,4
+MGT-6754,Business Fundamentals for Analytics,2,4,2
+MGT-6754,Business Fundamentals for Analytics,4,6,2
+MGT-6754,Business Fundamentals for Analytics,3,7,3
+MGT-6754,Business Fundamentals for Analytics,1,3,2
+MGT-6754,Business Fundamentals for Analytics,1,10,4
+MGT-6754,Business Fundamentals for Analytics,1,6,3
+MGT-6754,Business Fundamentals for Analytics,4,10,2
+MGT-6754,Business Fundamentals for Analytics,1,5,5
+MGT-6754,Business Fundamentals for Analytics,4,3,2
+MGT-6754,Business Fundamentals for Analytics,3,4,2
+MGT-6754,Business Fundamentals for Analytics,1,3,5
+MGT-6754,Business Fundamentals for Analytics,4,5,2
+MGT-6754,Business Fundamentals for Analytics,2,2,3
+MGT-6754,Business Fundamentals for Analytics,1,8,4
+MGT-6754,Business Fundamentals for Analytics,4,12,2
+MGT-6754,Business Fundamentals for Analytics,3,5,2
+MGT-6754,Business Fundamentals for Analytics,4,8,3
+MGT-6754,Business Fundamentals for Analytics,1,10,4
+MGT-6754,Business Fundamentals for Analytics,2,6,3
+MGT-6754,Business Fundamentals for Analytics,4,7,3
+MGT-6754,Business Fundamentals for Analytics,2,10,4
+MGT-6754,Business Fundamentals for Analytics,1,10,4
+MGT-6754,Business Fundamentals for Analytics,3,3.5,3
+MGT-6754,Business Fundamentals for Analytics,1,5,4
+MGT-6754,Business Fundamentals for Analytics,3,5,2
+MGT-6754,Business Fundamentals for Analytics,4,12,3
+MGT-6754,Business Fundamentals for Analytics,1,4,3
+MGT-6754,Business Fundamentals for Analytics,1,10,5
+MGT-6754,Business Fundamentals for Analytics,3,2,2
+MGT-6754,Business Fundamentals for Analytics,2,6,3
+MGT-6754,Business Fundamentals for Analytics,2,6,3
+MGT-6754,Business Fundamentals for Analytics,1,3,3
+CS-8803-008,Compilers - Theory & Practice,5,25,4
+CS-8803-008,Compilers - Theory & Practice,5,30,5
+CS-8803-008,Compilers - Theory & Practice,4,25,3
+CS-8803-008,Compilers - Theory & Practice,4,NULL,4
+CS-8803-008,Compilers - Theory & Practice,4,16,4
+CS-8803-008,Compilers - Theory & Practice,4,25,4
+CS-8803-008,Compilers - Theory & Practice,3,20,5
+CS-8803-008,Compilers - Theory & Practice,4,20,5
+CS-8803-008,Compilers - Theory & Practice,4,35,5
+CS-8803-008,Compilers - Theory & Practice,5,20,4
+CS-8803-008,Compilers - Theory & Practice,1,20,5
+CS-8803-008,Compilers - Theory & Practice,2,30,4
+CS-8803-008,Compilers - Theory & Practice,5,20,4
+CS-8803-008,Compilers - Theory & Practice,4,25,4
+CS-8803-008,Compilers - Theory & Practice,5,50,5
+CS-8803-008,Compilers - Theory & Practice,4,30,5
+CS-8803-008,Compilers - Theory & Practice,5,35,5
+CS-8803-008,Compilers - Theory & Practice,5,30,5
+CS-8803-008,Compilers - Theory & Practice,4,35,5
+IYSE-6740,Computational Data Analysis,5,10,4
+IYSE-6740,Computational Data Analysis,5,15,3
+IYSE-6740,Computational Data Analysis,5,8,3
+IYSE-6740,Computational Data Analysis,5,10,3
+IYSE-6740,Computational Data Analysis,4,15,3
+CS-6465,Computational Journalism,4,15,3
+CS-6475,Computational Photography,4,10,2
+CS-6475,Computational Photography,4,25,4
+CS-6475,Computational Photography,5,25,3
+CS-6475,Computational Photography,4,12,3
+CS-6475,Computational Photography,4,15,4
+CS-6475,Computational Photography,1,20,4
+CS-6475,Computational Photography,4,5,2
+CS-6475,Computational Photography,4,13,3
+CS-6475,Computational Photography,4,10,4
+CS-6475,Computational Photography,5,8,3
+CS-6475,Computational Photography,3,8,2
+CS-6475,Computational Photography,3,18,3
+CS-6475,Computational Photography,5,10,4
+CS-6475,Computational Photography,5,20,4
+CS-6475,Computational Photography,5,15,4
+CS-6475,Computational Photography,4,25,2
+CS-6475,Computational Photography,1,20,3
+CS-6475,Computational Photography,4,10,3
+CS-6475,Computational Photography,5,15,3
+CS-6475,Computational Photography,1,15,3
+CS-6475,Computational Photography,1,12,3
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,4,30,4
+CS-6475,Computational Photography,4,15,4
+CS-6475,Computational Photography,1,8,3
+CS-6475,Computational Photography,2,15,3
+CS-6475,Computational Photography,5,18,3
+CS-6475,Computational Photography,5,15,3
+CS-6475,Computational Photography,1,25,5
+CS-6475,Computational Photography,5,12,3
+CS-6475,Computational Photography,5,20,3
+CS-6475,Computational Photography,5,10,4
+CS-6475,Computational Photography,4,20,3
+CS-6475,Computational Photography,4,15,4
+CS-6475,Computational Photography,5,12,2
+CS-6475,Computational Photography,3,15,3
+CS-6475,Computational Photography,1,11,3
+CS-6475,Computational Photography,4,14,3
+CS-6475,Computational Photography,NULL,15,3
+CS-6475,Computational Photography,3,10,3
+CS-6475,Computational Photography,4,12,4
+CS-6475,Computational Photography,NULL,20,3
+CS-6475,Computational Photography,NULL,10,3
+CS-6475,Computational Photography,NULL,10,3
+CS-6475,Computational Photography,NULL,4,3
+CS-6475,Computational Photography,NULL,5,3
+CS-6475,Computational Photography,NULL,5,3
+CS-6475,Computational Photography,NULL,10,4
+CS-6475,Computational Photography,NULL,NULL,1
+CS-6475,Computational Photography,NULL,10,2
+CS-6475,Computational Photography,NULL,5,3
+CS-6475,Computational Photography,NULL,5,2
+CS-6475,Computational Photography,NULL,5,2
+CS-6475,Computational Photography,NULL,5,2
+CS-6475,Computational Photography,NULL,NULL,2
+CS-6475,Computational Photography,NULL,NULL,2
+CS-6475,Computational Photography,NULL,10,3
+CS-6475,Computational Photography,NULL,10,3
+CS-6475,Computational Photography,NULL,15,3
+CS-6475,Computational Photography,NULL,24,2
+CS-6475,Computational Photography,NULL,5,3
+CS-6475,Computational Photography,5,15,2
+CS-6475,Computational Photography,4,10,3
+CS-6475,Computational Photography,5,10,3
+CS-6475,Computational Photography,4,15,4
+CS-6475,Computational Photography,4,12,3
+CS-6475,Computational Photography,2,15,3
+CS-6475,Computational Photography,3,10,3
+CS-6475,Computational Photography,4,20,4
+CS-6475,Computational Photography,3,20,4
+CS-6475,Computational Photography,2,10,3
+CS-6475,Computational Photography,3,15,3
+CS-6475,Computational Photography,4,15,2
+CS-6475,Computational Photography,5,20,3
+CS-6475,Computational Photography,5,5,3
+CS-6475,Computational Photography,5,20,3
+CS-6475,Computational Photography,NULL,12,3
+CS-6475,Computational Photography,NULL,10,2
+CS-6475,Computational Photography,4,7,3
+CS-6475,Computational Photography,5,12,3
+CS-6475,Computational Photography,4,12,3
+CS-6475,Computational Photography,NULL,8,3
+CS-6475,Computational Photography,NULL,5,2
+CS-6475,Computational Photography,3,10,3
+CS-6475,Computational Photography,NULL,8,3
+CS-6475,Computational Photography,3,20,3
+CS-6475,Computational Photography,NULL,8,3
+CS-6475,Computational Photography,4,20,3
+CS-6475,Computational Photography,5,25,3
+CS-6475,Computational Photography,NULL,20,3
+CS-6475,Computational Photography,4,12,3
+CS-6475,Computational Photography,NULL,10,2
+CS-6475,Computational Photography,5,8,3
+CS-6475,Computational Photography,4,10,3
+CS-6475,Computational Photography,3,20,5
+CS-6475,Computational Photography,4,3,1
+CS-6475,Computational Photography,NULL,10,3
+CS-6475,Computational Photography,5,25,3
+CS-6475,Computational Photography,3,10,2
+CS-6475,Computational Photography,4,5,3
+CS-6475,Computational Photography,4,10,2
+CS-6475,Computational Photography,3,5,3
+CS-6475,Computational Photography,5,15,3
+CS-6475,Computational Photography,4,10,4
+CS-6475,Computational Photography,4,12,3
+CS-6475,Computational Photography,5,10,3
+CS-6475,Computational Photography,5,6,2
+CS-6475,Computational Photography,4,24,3
+CS-6475,Computational Photography,1,20,3
+CS-6475,Computational Photography,4,10,2
+CS-6475,Computational Photography,4,25,4
+CS-6475,Computational Photography,4,5,2
+CS-6475,Computational Photography,5,10,3
+CS-6475,Computational Photography,4,20,3
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,5,8,3
+CS-6475,Computational Photography,4,16,2
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,4,12,2
+CS-6475,Computational Photography,3,5,3
+CS-6475,Computational Photography,4,20,4
+CS-6475,Computational Photography,4,10,3
+CS-6475,Computational Photography,4,15,4
+CS-6475,Computational Photography,5,6,3
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,4,10,3
+CS-6475,Computational Photography,4,15,3
+CS-6475,Computational Photography,2,10,4
+CS-6475,Computational Photography,2,20,3
+CS-6250,Computer Networks,NULL,8,3
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,3,8,2
+CS-6250,Computer Networks,3,10,3
+CS-6250,Computer Networks,4,20,3
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,2,25,4
+CS-6250,Computer Networks,4,18,3
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,4,5,1
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,5,12,3
+CS-6250,Computer Networks,1,10,4
+CS-6250,Computer Networks,2,15,3
+CS-6250,Computer Networks,4,13,3
+CS-6250,Computer Networks,1,8,2
+CS-6250,Computer Networks,5,16,3
+CS-6250,Computer Networks,5,10,2
+CS-6250,Computer Networks,4,3,2
+CS-6250,Computer Networks,4,6,2
+CS-6250,Computer Networks,3,4,1
+CS-6250,Computer Networks,5,15,2
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,2,8,3
+CS-6250,Computer Networks,1,8,2
+CS-6250,Computer Networks,4,7,2
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,5,20,3
+CS-6250,Computer Networks,5,25,3
+CS-6250,Computer Networks,3,2,2
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,7,2
+CS-6250,Computer Networks,4,10,4
+CS-6250,Computer Networks,4,3,2
+CS-6250,Computer Networks,5,8,2
+CS-6250,Computer Networks,5,10,3
+CS-6250,Computer Networks,2,5,2
+CS-6250,Computer Networks,4,5,3
+CS-6250,Computer Networks,NULL,10,3
+CS-6250,Computer Networks,NULL,10,3
+CS-6250,Computer Networks,NULL,5,1
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,5,12,3
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,2,5,3
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,5,5,1
+CS-6250,Computer Networks,NULL,6,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,4,3,2
+CS-6250,Computer Networks,2,5,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,NULL,15,3
+CS-6250,Computer Networks,3,2,3
+CS-6250,Computer Networks,1,8,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,5,10,3
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,3,7,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,10,2
+CS-6250,Computer Networks,NULL,15,4
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,3,15,3
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,5,18,4
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,NULL,5,1
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,3,10,3
+CS-6250,Computer Networks,3,5,2
+CS-6250,Computer Networks,1,7,1
+CS-6250,Computer Networks,NULL,5,4
+CS-6250,Computer Networks,4,3,1
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,1,1
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,NULL,2,1
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,3,8,2
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,NULL,NULL,1
+CS-6250,Computer Networks,NULL,10,3
+CS-6250,Computer Networks,NULL,2,3
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,5,15,3
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,NULL,1
+CS-6250,Computer Networks,NULL,5,3
+CS-6250,Computer Networks,3,7,1
+CS-6250,Computer Networks,3,5,2
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,NULL,10,3
+CS-6250,Computer Networks,5,15,3
+CS-6250,Computer Networks,NULL,8,2
+CS-6250,Computer Networks,NULL,5,3
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,6,3
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,NULL,3
+CS-6250,Computer Networks,NULL,NULL,1
+CS-6250,Computer Networks,NULL,NULL,1
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,NULL,2,1
+CS-6250,Computer Networks,NULL,3,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,8,2
+CS-6250,Computer Networks,NULL,NULL,1
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,4
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,NULL,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,5,2
+CS-6250,Computer Networks,NULL,10,4
+CS-6250,Computer Networks,NULL,8,2
+CS-6250,Computer Networks,NULL,10,2
+CS-6250,Computer Networks,NULL,15,4
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,NULL,10,3
+CS-6250,Computer Networks,NULL,8,4
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,NULL,8,4
+CS-6250,Computer Networks,NULL,8,4
+CS-6250,Computer Networks,NULL,2,1
+CS-6250,Computer Networks,NULL,8,4
+CS-6250,Computer Networks,NULL,4,2
+CS-6250,Computer Networks,NULL,4,4
+CS-6250,Computer Networks,NULL,NULL,4
+CS-6250,Computer Networks,NULL,6,3
+CS-6250,Computer Networks,NULL,6,3
+CS-6250,Computer Networks,NULL,2,2
+CS-6250,Computer Networks,4,4,1
+CS-6250,Computer Networks,5,12,3
+CS-6250,Computer Networks,NULL,12,4
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,4,9,2
+CS-6250,Computer Networks,1,5,4
+CS-6250,Computer Networks,5,15,3
+CS-6250,Computer Networks,3,5,1
+CS-6250,Computer Networks,3,8,2
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,3,12,3
+CS-6250,Computer Networks,5,7,2
+CS-6250,Computer Networks,3,3,2
+CS-6250,Computer Networks,4,20,4
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,15,4
+CS-6250,Computer Networks,1,1,2
+CS-6250,Computer Networks,2,10,3
+CS-6250,Computer Networks,1,12,4
+CS-6250,Computer Networks,3,3,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,3,10,4
+CS-6250,Computer Networks,4,6,2
+CS-6250,Computer Networks,2,15,5
+CS-6250,Computer Networks,2,20,5
+CS-6250,Computer Networks,5,10,3
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,4,5,3
+CS-6250,Computer Networks,4,7,3
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,4,6,3
+CS-6250,Computer Networks,2,20,4
+CS-6250,Computer Networks,2,5,3
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,5,15,3
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,7,4
+CS-6250,Computer Networks,1,5,2
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,20,4
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,2,8.5,3
+CS-6250,Computer Networks,2,3,2
+CS-6250,Computer Networks,3,5,3
+CS-6250,Computer Networks,4,18,4
+CS-6250,Computer Networks,4,6,3
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,5,20,2
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,5,11,3
+CS-6250,Computer Networks,3,10,2
+CS-6250,Computer Networks,4,6,3
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,16,4
+CS-6250,Computer Networks,3,5,2
+CS-6250,Computer Networks,2,10,2
+CS-6250,Computer Networks,4,13,3
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,3,4,2
+CS-6250,Computer Networks,4,25,3
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,5,5,2
+CS-6250,Computer Networks,5,4,2
+CS-6250,Computer Networks,4,10,1
+CS-6250,Computer Networks,2,10,3
+CS-6250,Computer Networks,1,10,5
+CS-6250,Computer Networks,5,10,3
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,3,10,2
+CS-6250,Computer Networks,4,15,2
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,4,13,3
+CS-6250,Computer Networks,4,7,2
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,5,8,3
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,4,2
+CS-6250,Computer Networks,4,7,2
+CS-6250,Computer Networks,4,10,4
+CS-6250,Computer Networks,5,10,2
+CS-6250,Computer Networks,4,3,1
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,5,12,3
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,1,2,1
+CS-6250,Computer Networks,5,12,4
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,5,12,3
+CS-6250,Computer Networks,5,10,2
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,3,2,1
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,15,3
+CS-6250,Computer Networks,4,4,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,23,4
+CS-6250,Computer Networks,3,6,2
+CS-6250,Computer Networks,4,13.7,3
+CS-6250,Computer Networks,4,6,2
+CS-6250,Computer Networks,4,10,2
+CS-6250,Computer Networks,4,8,2
+CS-6250,Computer Networks,5,6,2
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,5,14,3
+CS-6250,Computer Networks,3,2,2
+CS-6250,Computer Networks,3,12,3
+CS-6250,Computer Networks,1,10,3
+CS-6250,Computer Networks,1,3,2
+CS-6250,Computer Networks,3,10,2
+CS-6250,Computer Networks,3,10,3
+CS-6250,Computer Networks,2,8,2
+CS-6250,Computer Networks,3,6,1
+CS-6250,Computer Networks,5,12,4
+CS-6250,Computer Networks,3,15,3
+CS-6250,Computer Networks,4,10,3
+CS-6250,Computer Networks,4,5,2
+CS-6250,Computer Networks,5,7,3
+CS-6250,Computer Networks,4,8,3
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,4,12,3
+CS-6250,Computer Networks,3,8,3
+CS-6250,Computer Networks,2,12,3
+CS-6250,Computer Networks,3,4,2
+CS-6250,Computer Networks,4,10,2
+CS-6476,Computer Vision,4,40,5
+CS-6476,Computer Vision,NULL,25,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,40,4
+CS-6476,Computer Vision,4,16,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,5,20,5
+CS-6476,Computer Vision,4,9,3
+CS-6476,Computer Vision,4,24,5
+CS-6476,Computer Vision,5,22,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,4,15,4
+CS-6476,Computer Vision,5,17,4
+CS-6476,Computer Vision,4,40,5
+CS-6476,Computer Vision,4,30,4
+CS-6476,Computer Vision,5,22,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,5,40,4
+CS-6476,Computer Vision,5,15,3
+CS-6476,Computer Vision,5,30,4
+CS-6476,Computer Vision,4,14,3
+CS-6476,Computer Vision,5,18,4
+CS-6476,Computer Vision,NULL,15,4
+CS-6476,Computer Vision,4,25,5
+CS-6476,Computer Vision,4,30,4
+CS-6476,Computer Vision,5,10,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,4,30,4
+CS-6476,Computer Vision,4,20,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,NULL,30,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,10,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,22,4
+CS-6476,Computer Vision,4,18,5
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,8,2
+CS-6476,Computer Vision,4,25,5
+CS-6476,Computer Vision,4,15,4
+CS-6476,Computer Vision,1,20,4
+CS-6476,Computer Vision,5,15,3
+CS-6476,Computer Vision,5,20,5
+CS-6476,Computer Vision,NULL,15,4
+CS-6476,Computer Vision,NULL,25,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,25,3
+CS-6476,Computer Vision,4,25,4
+CS-6476,Computer Vision,NULL,10,4
+CS-6476,Computer Vision,5,17,5
+CS-6476,Computer Vision,4,14,3
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,4,12,3
+CS-6476,Computer Vision,5,22,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,4,20,4
+CS-6476,Computer Vision,5,14,4
+CS-6476,Computer Vision,4,25,5
+CS-6476,Computer Vision,5,16,4
+CS-6476,Computer Vision,5,30,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,NULL,10,4
+CS-6476,Computer Vision,NULL,10,4
+CS-6476,Computer Vision,NULL,10,4
+CS-6476,Computer Vision,4,20,4
+CS-6476,Computer Vision,2,25,5
+CS-6476,Computer Vision,4,25,4
+CS-6476,Computer Vision,5,25,5
+CS-6476,Computer Vision,5,25,5
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,NULL,15,4
+CS-6476,Computer Vision,NULL,10,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,5,22,4
+CS-6476,Computer Vision,NULL,15,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,4,10,3
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,2,20,3
+CS-6476,Computer Vision,NULL,15,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,1,40,4
+CS-6476,Computer Vision,5,15,5
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,30,4
+CS-6476,Computer Vision,5,15,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,4,20,4
+CS-6476,Computer Vision,5,25,4
+CS-6476,Computer Vision,4,11,3
+CS-6476,Computer Vision,NULL,25,4
+CS-6476,Computer Vision,5,15,2
+CS-6476,Computer Vision,4,20,4
+CS-6476,Computer Vision,5,10,4
+CS-6476,Computer Vision,5,9,4
+CS-6476,Computer Vision,4,4,3
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,8,4
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,40,4
+CS-6476,Computer Vision,3,20,4
+CS-6476,Computer Vision,5,25,5
+CS-6476,Computer Vision,NULL,20,4
+CS-6476,Computer Vision,5,40,4
+CS-6476,Computer Vision,5,18,4
+CS-6476,Computer Vision,4,25,5
+CS-6476,Computer Vision,5,20,4
+CS-6476,Computer Vision,5,30,4
+CS-6476,Computer Vision,4,15,4
+CS-6476,Computer Vision,NULL,25,5
+CS-6476,Computer Vision,1,35,4
+CS-6476,Computer Vision,3,15,3
+CS-6476,Computer Vision,4,11,4
+CS-6476,Computer Vision,4,22,5
+CS-6476,Computer Vision,4,30,5
+CS-6476,Computer Vision,5,25,4
+CSE-6040,Computing for Data Analytics,5,7,4
+CSE-6040,Computing for Data Analytics,4,10,3
+CSE-6040,Computing for Data Analytics,5,5,3
+CSE-6040,Computing for Data Analytics,5,9,4
+CSE-6040,Computing for Data Analytics,4,10,3
+CSE-6040,Computing for Data Analytics,5,18,4
+CSE-6040,Computing for Data Analytics,5,5,2
+CSE-6040,Computing for Data Analytics,2,20,5
+CSE-6040,Computing for Data Analytics,5,6,3
+CSE-6040,Computing for Data Analytics,4,10,4
+CSE-6040,Computing for Data Analytics,5,NULL,4
+CSE-6040,Computing for Data Analytics,4,5,5
+CSE-6040,Computing for Data Analytics,4,5,2
+CSE-6040,Computing for Data Analytics,5,8,3
+CSE-6040,Computing for Data Analytics,5,8,4
+CSE-6040,Computing for Data Analytics,5,10,3
+CSE-6040,Computing for Data Analytics,4,11,3
+CSE-6040,Computing for Data Analytics,4,10,4
+CSE-6040,Computing for Data Analytics,1,12,4
+CSE-6040,Computing for Data Analytics,4,10,3
+CSE-6040,Computing for Data Analytics,5,12,3
+CSE-6040,Computing for Data Analytics,4,10,3
+CSE-6040,Computing for Data Analytics,5,8,4
+CSE-6040,Computing for Data Analytics,4,5,3
+CSE-6040,Computing for Data Analytics,5,8,4
+CSE-6040,Computing for Data Analytics,5,5,2
+CSE-6040,Computing for Data Analytics,4,10,3
+CSE-6040,Computing for Data Analytics,4,5,3
+CSE-6040,Computing for Data Analytics,5,6,3
+CSE-6040,Computing for Data Analytics,4,7,3
+CSE-6040,Computing for Data Analytics,5,18,4
+CSE-6040,Computing for Data Analytics,5,15,4
+CSE-6040,Computing for Data Analytics,5,7,2
+CSE-6040,Computing for Data Analytics,5,10,3
+CSE-6040,Computing for Data Analytics,5,12,4
+CSE-6040,Computing for Data Analytics,4,15,4
+CSE-6040,Computing for Data Analytics,4,15,5
+CSE-6040,Computing for Data Analytics,4,8,3
+CSE-6040,Computing for Data Analytics,5,9,4
+CSE-6040,Computing for Data Analytics,4,6,3
+CSE-6040,Computing for Data Analytics,5,10,3
+CSE-6040,Computing for Data Analytics,4,6,2
+CSE-6040,Computing for Data Analytics,5,6,2
+CSE-6040,Computing for Data Analytics,4,5,2
+CSE-6040,Computing for Data Analytics,5,10,4
+CSE-6040,Computing for Data Analytics,4,7,3
+CSE-6040,Computing for Data Analytics,5,20,4
+CSE-6040,Computing for Data Analytics,4,8,3
+CSE-6040,Computing for Data Analytics,5,16,3
+CSE-6040,Computing for Data Analytics,5,10,4
+CSE-6040,Computing for Data Analytics,4,8,3
+CSE-6040,Computing for Data Analytics,5,NULL,3
+CSE-6040,Computing for Data Analytics,5,12,4
+CSE-6040,Computing for Data Analytics,4,6,3
+CSE-6040,Computing for Data Analytics,5,5,1
+CSE-6040,Computing for Data Analytics,5,8,3
+CSE-6040,Computing for Data Analytics,4,7,4
+CSE-6040,Computing for Data Analytics,4,10,2
+CSE-6040,Computing for Data Analytics,5,5,2
+CSE-6040,Computing for Data Analytics,5,5,3
+CSE-6040,Computing for Data Analytics,5,13,3
+CSE-6040,Computing for Data Analytics,5,10,3
+CSE-6040,Computing for Data Analytics,5,7,3
+CSE-6040,Computing for Data Analytics,5,21,5
+CSE-6040,Computing for Data Analytics,4,20,5
+CS-7639,Cyber Physical Design & Analytics,1,10,4
+CS-7639,Cyber Physical Design & Analytics,1,15,5
+CS-7639,Cyber Physical Design & Analytics,2,20,4
+CS-7639,Cyber Physical Design & Analytics,1,10,3
+CS-7639,Cyber Physical Design & Analytics,5,18,3
+CS-7639,Cyber Physical Design & Analytics,4,3,1
+CS-7639,Cyber Physical Design & Analytics,5,10,3
+CS-7639,Cyber Physical Design & Analytics,2,8,4
+CS-7639,Cyber Physical Design & Analytics,5,20,4
+CS-7639,Cyber Physical Design & Analytics,3,16,5
+CS-7639,Cyber Physical Design & Analytics,5,16,4
+CS-7639,Cyber Physical Design & Analytics,1,15,5
+CS-7639,Cyber Physical Design & Analytics,4,12,4
+CS-7639,Cyber Physical Design & Analytics,3,12,2
+CS-7639,Cyber Physical Design & Analytics,4,10,3
+MGT-6203,Data Analytics & Business,3,3,1
+MGT-6203,Data Analytics & Business,4,5,3
+MGT-6203,Data Analytics & Business,3,2,1
+MGT-6203,Data Analytics & Business,1,5,3
+MGT-6203,Data Analytics & Business,3,8,2
+MGT-6203,Data Analytics & Business,1,6,3
+MGT-6203,Data Analytics & Business,1,2,1
+MGT-6203,Data Analytics & Business,1,1,1
+MGT-6203,Data Analytics & Business,4,3,1
+MGT-6203,Data Analytics & Business,1,4,5
+MGT-6203,Data Analytics & Business,3,2,2
+MGT-6203,Data Analytics & Business,3,2.5,2
+MGT-6203,Data Analytics & Business,2,3,2
+MGT-6203,Data Analytics & Business,2,10,3
+MGT-6203,Data Analytics & Business,2,3,1
+MGT-6203,Data Analytics & Business,3,3,1
+MGT-6203,Data Analytics & Business,1,5,3
+MGT-6203,Data Analytics & Business,2,2,4
+MGT-6203,Data Analytics & Business,4,3,3
+MGT-6203,Data Analytics & Business,1,2,4
+MGT-6203,Data Analytics & Business,1,3,1
+MGT-6203,Data Analytics & Business,3,3,1
+MGT-6203,Data Analytics & Business,2,2,1
+MGT-6203,Data Analytics & Business,2,8,2
+MGT-6203,Data Analytics & Business,4,12,3
+MGT-6203,Data Analytics & Business,1,2,1
+MGT-6203,Data Analytics & Business,3,9,3
+MGT-6203,Data Analytics & Business,2,10,3
+MGT-6203,Data Analytics & Business,3,5,1
+MGT-6203,Data Analytics & Business,3,7,3
+MGT-6203,Data Analytics & Business,2,8,4
+MGT-6203,Data Analytics & Business,4,5,1
+MGT-6203,Data Analytics & Business,4,1,2
+MGT-6203,Data Analytics & Business,2,6,1
+MGT-6203,Data Analytics & Business,2,7,2
+MGT-6203,Data Analytics & Business,3,3,2
+MGT-6203,Data Analytics & Business,1,5,2
+MGT-6203,Data Analytics & Business,2,3,2
+MGT-6203,Data Analytics & Business,4,6,3
+MGT-6203,Data Analytics & Business,2,5,2
+MGT-6203,Data Analytics & Business,1,3,3
+MGT-6203,Data Analytics & Business,2,2,2
+MGT-6203,Data Analytics & Business,1,2,1
+MGT-6203,Data Analytics & Business,1,6,2
+MGT-6203,Data Analytics & Business,3,3,1
+MGT-6203,Data Analytics & Business,1,2,3
+MGT-6203,Data Analytics & Business,3,2,1
+MGT-6203,Data Analytics & Business,2,10,3
+MGT-6203,Data Analytics & Business,1,1,1
+MGT-6203,Data Analytics & Business,3,5,1
+MGT-6203,Data Analytics & Business,1,5,2
+MGT-6203,Data Analytics & Business,2,2,1
+MGT-6203,Data Analytics & Business,1,5,3
+MGT-6203,Data Analytics & Business,2,5,3
+MGT-6203,Data Analytics & Business,2,2,1
+MGT-8823,Data Analytics & Continuous Improvement,4,5,1
+CS-6400,Database Systems Concepts & Design,1,15,5
+CS-6400,Database Systems Concepts & Design,1,6,1
+CS-6400,Database Systems Concepts & Design,3,12,3
+CS-6400,Database Systems Concepts & Design,2,10,5
+CS-6400,Database Systems Concepts & Design,4,15,4
+CS-6400,Database Systems Concepts & Design,1,9,3
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,4,5,3
+CS-6400,Database Systems Concepts & Design,1,8,2
+CS-6400,Database Systems Concepts & Design,1,8,3
+CS-6400,Database Systems Concepts & Design,3,5,1
+CS-6400,Database Systems Concepts & Design,3,10,2
+CS-6400,Database Systems Concepts & Design,3,5,2
+CS-6400,Database Systems Concepts & Design,3,12,4
+CS-6400,Database Systems Concepts & Design,4,6,2
+CS-6400,Database Systems Concepts & Design,3,4,3
+CS-6400,Database Systems Concepts & Design,4,12,3
+CS-6400,Database Systems Concepts & Design,3,10,2
+CS-6400,Database Systems Concepts & Design,NULL,5,1
+CS-6400,Database Systems Concepts & Design,2,4,2
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,4,10,2
+CS-6400,Database Systems Concepts & Design,1,10,3
+CS-6400,Database Systems Concepts & Design,3,12,3
+CS-6400,Database Systems Concepts & Design,4,14,3
+CS-6400,Database Systems Concepts & Design,1,40,3
+CS-6400,Database Systems Concepts & Design,NULL,NULL,3
+CS-6400,Database Systems Concepts & Design,1,10,2
+CS-6400,Database Systems Concepts & Design,3,6,1
+CS-6400,Database Systems Concepts & Design,4,4,2
+CS-6400,Database Systems Concepts & Design,2,10,3
+CS-6400,Database Systems Concepts & Design,4,7,3
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,4,8,3
+CS-6400,Database Systems Concepts & Design,2,12,3
+CS-6400,Database Systems Concepts & Design,3,5,2
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,2,12,5
+CS-6400,Database Systems Concepts & Design,4,20,3
+CS-6400,Database Systems Concepts & Design,3,6,3
+CS-6400,Database Systems Concepts & Design,5,15,4
+CS-6400,Database Systems Concepts & Design,3,12,3
+CS-6400,Database Systems Concepts & Design,1,12,2
+CS-6400,Database Systems Concepts & Design,1,10,1
+CS-6400,Database Systems Concepts & Design,4,10,2
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,3,8,3
+CS-6400,Database Systems Concepts & Design,3,14,4
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,2,15,3
+CS-6400,Database Systems Concepts & Design,2,20,4
+CS-6400,Database Systems Concepts & Design,3,15,3
+CS-6400,Database Systems Concepts & Design,3,5,2
+CS-6400,Database Systems Concepts & Design,2,15,3
+CS-6400,Database Systems Concepts & Design,3,5,3
+CS-6400,Database Systems Concepts & Design,2,10,2
+CS-6400,Database Systems Concepts & Design,3,6,3
+CS-6400,Database Systems Concepts & Design,3,14,4
+CS-6400,Database Systems Concepts & Design,1,15,3
+CS-6400,Database Systems Concepts & Design,1,7,2
+CS-6400,Database Systems Concepts & Design,1,15,2
+CS-6400,Database Systems Concepts & Design,2,5,3
+CS-6400,Database Systems Concepts & Design,1,5,2
+CS-6400,Database Systems Concepts & Design,2,20,3
+CS-6400,Database Systems Concepts & Design,1,20,2
+CS-6400,Database Systems Concepts & Design,5,15,3
+CS-6400,Database Systems Concepts & Design,4,26,3
+CS-6400,Database Systems Concepts & Design,2,20,2
+CS-6400,Database Systems Concepts & Design,3,3,2
+CS-6400,Database Systems Concepts & Design,1,15,3
+CS-6400,Database Systems Concepts & Design,5,5,2
+CS-6400,Database Systems Concepts & Design,2,1,1
+CS-6400,Database Systems Concepts & Design,1,6,2
+CS-6400,Database Systems Concepts & Design,3,10,2
+CS-6400,Database Systems Concepts & Design,1,15,4
+CS-6400,Database Systems Concepts & Design,2,6,2
+CS-6400,Database Systems Concepts & Design,4,5,2
+CS-6400,Database Systems Concepts & Design,1,30,4
+CS-6400,Database Systems Concepts & Design,1,8,3
+CS-6400,Database Systems Concepts & Design,1,15,4
+CS-6400,Database Systems Concepts & Design,NULL,5,2
+CS-6400,Database Systems Concepts & Design,1,6,2
+CS-6400,Database Systems Concepts & Design,4,20,3
+CS-6400,Database Systems Concepts & Design,1,10,3
+CS-6400,Database Systems Concepts & Design,1,15,4
+CS-6400,Database Systems Concepts & Design,3,5,2
+CS-6400,Database Systems Concepts & Design,1,10,2
+CS-6400,Database Systems Concepts & Design,4,5,2
+CS-6400,Database Systems Concepts & Design,2,5,2
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,3,15,3
+CS-6400,Database Systems Concepts & Design,3,4,3
+CS-6400,Database Systems Concepts & Design,5,20,2
+CS-6400,Database Systems Concepts & Design,5,20,4
+CS-6400,Database Systems Concepts & Design,5,15,3
+CS-6400,Database Systems Concepts & Design,4,20,4
+CS-6400,Database Systems Concepts & Design,2,20,4
+CS-6400,Database Systems Concepts & Design,3,8,4
+CS-6400,Database Systems Concepts & Design,NULL,5,2
+CS-6400,Database Systems Concepts & Design,4,15,3
+CS-6400,Database Systems Concepts & Design,4,8,2
+CS-6400,Database Systems Concepts & Design,2,12,3
+CS-6400,Database Systems Concepts & Design,1,13,4
+CS-6400,Database Systems Concepts & Design,2,12,3
+CS-6400,Database Systems Concepts & Design,2,18,3
+CS-6400,Database Systems Concepts & Design,5,10,3
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,4,10,2
+CS-6400,Database Systems Concepts & Design,2,6,2
+CS-6400,Database Systems Concepts & Design,4,4,2
+CS-6400,Database Systems Concepts & Design,4,18,3
+CS-6400,Database Systems Concepts & Design,4,8,2
+CS-6400,Database Systems Concepts & Design,3,8,2
+CS-6400,Database Systems Concepts & Design,2,9,3
+CS-6400,Database Systems Concepts & Design,4,16,4
+CS-6400,Database Systems Concepts & Design,1,12,2
+CS-6400,Database Systems Concepts & Design,3,6,2
+CS-6400,Database Systems Concepts & Design,2,8,3
+CS-6400,Database Systems Concepts & Design,5,10,3
+CS-6400,Database Systems Concepts & Design,5,8,1
+CS-6400,Database Systems Concepts & Design,3,5,3
+CS-6400,Database Systems Concepts & Design,4,5,3
+CS-6400,Database Systems Concepts & Design,2,10,3
+CS-6400,Database Systems Concepts & Design,NULL,1.5,1
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,1,18,2
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,4,10,3
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,3,10,3
+CS-6400,Database Systems Concepts & Design,2,15,3
+CS-6400,Database Systems Concepts & Design,4,8,4
+CS-6400,Database Systems Concepts & Design,4,10,2
+CS-6400,Database Systems Concepts & Design,2,12,3
+CS-6400,Database Systems Concepts & Design,1,15,2
+CS-6400,Database Systems Concepts & Design,4,10,2
+CS-6400,Database Systems Concepts & Design,3,15,2
+CS-6400,Database Systems Concepts & Design,4,12,3
+CS-6400,Database Systems Concepts & Design,1,2,1
+CS-6400,Database Systems Concepts & Design,2,5,3
+CS-6400,Database Systems Concepts & Design,2,5,1
+CS-6400,Database Systems Concepts & Design,4,14,3
+CS-6400,Database Systems Concepts & Design,3,18,4
+CS-6400,Database Systems Concepts & Design,4,12,2
+CS-6400,Database Systems Concepts & Design,5,18,3
+CS-6400,Database Systems Concepts & Design,1,12,3
+CS-6400,Database Systems Concepts & Design,3,15,3
+CSE-6242,Data & Visual Analytics,2,18,5
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,3,20,4
+CSE-6242,Data & Visual Analytics,5,8,3
+CSE-6242,Data & Visual Analytics,2,25,3
+CSE-6242,Data & Visual Analytics,2,10,3
+CSE-6242,Data & Visual Analytics,1,20,4
+CSE-6242,Data & Visual Analytics,1,15,4
+CSE-6242,Data & Visual Analytics,2,30,4
+CSE-6242,Data & Visual Analytics,5,30,4
+CSE-6242,Data & Visual Analytics,5,30,4
+CSE-6242,Data & Visual Analytics,3,15,3
+CSE-6242,Data & Visual Analytics,4,20,4
+CSE-6242,Data & Visual Analytics,2,18,5
+CSE-6242,Data & Visual Analytics,4,20,4
+CSE-6242,Data & Visual Analytics,1,15,5
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,5,15,4
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,20,4
+CSE-6242,Data & Visual Analytics,5,12,4
+CSE-6242,Data & Visual Analytics,3,8,2
+CSE-6242,Data & Visual Analytics,1,5,1
+CSE-6242,Data & Visual Analytics,1,21,4
+CSE-6242,Data & Visual Analytics,4,12,3
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,4,12,4
+CSE-6242,Data & Visual Analytics,3,14,3
+CSE-6242,Data & Visual Analytics,1,20,5
+CSE-6242,Data & Visual Analytics,3,10,2
+CSE-6242,Data & Visual Analytics,2,30,4
+CSE-6242,Data & Visual Analytics,3,12,3
+CSE-6242,Data & Visual Analytics,3,20,4
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,1,8,3
+CSE-6242,Data & Visual Analytics,1,15,2
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,5,18,4
+CSE-6242,Data & Visual Analytics,5,15,3
+CSE-6242,Data & Visual Analytics,1,20,3
+CSE-6242,Data & Visual Analytics,1,20,3
+CSE-6242,Data & Visual Analytics,4,12,2
+CSE-6242,Data & Visual Analytics,4,6,3
+CSE-6242,Data & Visual Analytics,4,35,5
+CSE-6242,Data & Visual Analytics,2,30,5
+CSE-6242,Data & Visual Analytics,2,15,3
+CSE-6242,Data & Visual Analytics,3,10,3
+CSE-6242,Data & Visual Analytics,5,20,4
+CSE-6242,Data & Visual Analytics,5,20,4
+CSE-6242,Data & Visual Analytics,3,8,2
+CSE-6242,Data & Visual Analytics,3,5,1
+CSE-6242,Data & Visual Analytics,5,11,4
+CSE-6242,Data & Visual Analytics,2,15,4
+CSE-6242,Data & Visual Analytics,5,16,4
+CSE-6242,Data & Visual Analytics,4,30,5
+CSE-6242,Data & Visual Analytics,4,20,4
+CSE-6242,Data & Visual Analytics,2,15,3
+CSE-6242,Data & Visual Analytics,4,20,3
+CSE-6242,Data & Visual Analytics,3,15,3
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,4,20,5
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,2,20,5
+CSE-6242,Data & Visual Analytics,2,10,2
+CSE-6242,Data & Visual Analytics,1,17.5,4
+CSE-6242,Data & Visual Analytics,2,10,2
+CSE-6242,Data & Visual Analytics,3,10,2
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,10,2
+CSE-6242,Data & Visual Analytics,4,8,3
+CSE-6242,Data & Visual Analytics,4,12,4
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,25,4
+CSE-6242,Data & Visual Analytics,3,3,1
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,4,3,2
+CSE-6242,Data & Visual Analytics,5,12,3
+CSE-6242,Data & Visual Analytics,5,20,3
+CSE-6242,Data & Visual Analytics,5,18,3
+CSE-6242,Data & Visual Analytics,5,15,3
+CSE-6242,Data & Visual Analytics,3,5,3
+CSE-6242,Data & Visual Analytics,3,10,3
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,3,10,3
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,5,8,2
+CSE-6242,Data & Visual Analytics,4,20,3
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,3,15,4
+CSE-6242,Data & Visual Analytics,4,12,3
+CSE-6242,Data & Visual Analytics,3,10,4
+CSE-6242,Data & Visual Analytics,5,20,3
+CSE-6242,Data & Visual Analytics,5,10,2
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,5,2
+CSE-6242,Data & Visual Analytics,5,20,4
+CSE-6242,Data & Visual Analytics,3,8,3
+CSE-6242,Data & Visual Analytics,5,16,3
+CSE-6242,Data & Visual Analytics,5,10,3
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,1,15,4
+CSE-6242,Data & Visual Analytics,2,15,4
+CSE-6242,Data & Visual Analytics,2,10,3
+CSE-6242,Data & Visual Analytics,2,6,1
+CSE-6242,Data & Visual Analytics,1,6,2
+CSE-6242,Data & Visual Analytics,1,18,3
+CSE-6242,Data & Visual Analytics,1,2,1
+CSE-6242,Data & Visual Analytics,5,10,2
+CSE-6242,Data & Visual Analytics,4,8,3
+CSE-6242,Data & Visual Analytics,4,18,4
+CSE-6242,Data & Visual Analytics,1,15,3
+CSE-6242,Data & Visual Analytics,2,7,3
+CSE-6242,Data & Visual Analytics,1,30,5
+CSE-6242,Data & Visual Analytics,1,12,3
+CSE-6242,Data & Visual Analytics,1,5,3
+CSE-6242,Data & Visual Analytics,2,12,1
+CSE-6242,Data & Visual Analytics,1,10,3
+CSE-6242,Data & Visual Analytics,1,10,2
+CSE-6242,Data & Visual Analytics,1,10,2
+CSE-6242,Data & Visual Analytics,2,10,2
+CSE-6242,Data & Visual Analytics,4,12,3
+CSE-6242,Data & Visual Analytics,1,20,4
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,1,15,3
+CSE-6242,Data & Visual Analytics,1,20,3
+CSE-6242,Data & Visual Analytics,4,8,2
+CSE-6242,Data & Visual Analytics,3,5,2
+CSE-6242,Data & Visual Analytics,2,15,3
+CSE-6242,Data & Visual Analytics,5,10,2
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,6,1
+CSE-6242,Data & Visual Analytics,3,10,2
+CSE-6242,Data & Visual Analytics,3,15,2
+CSE-6242,Data & Visual Analytics,1,20,3
+CSE-6242,Data & Visual Analytics,1,5,1
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,5,25,3
+CSE-6242,Data & Visual Analytics,4,6,1
+CSE-6242,Data & Visual Analytics,1,5,1
+CSE-6242,Data & Visual Analytics,2,8,3
+CSE-6242,Data & Visual Analytics,1,10,3
+CSE-6242,Data & Visual Analytics,1,20,3
+CSE-6242,Data & Visual Analytics,5,8,3
+CSE-6242,Data & Visual Analytics,1,40,5
+CSE-6242,Data & Visual Analytics,4,20,5
+CSE-6242,Data & Visual Analytics,1,12,4
+CSE-6242,Data & Visual Analytics,1,5,2
+CSE-6242,Data & Visual Analytics,5,20,5
+CSE-6242,Data & Visual Analytics,2,12,3
+CSE-6242,Data & Visual Analytics,2,10,3
+CSE-6242,Data & Visual Analytics,1,40,5
+CSE-6242,Data & Visual Analytics,3,15,4
+CSE-6242,Data & Visual Analytics,1,10,3
+CSE-6242,Data & Visual Analytics,4,10,3
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,1,20,4
+CSE-6242,Data & Visual Analytics,5,20,4
+CSE-6242,Data & Visual Analytics,4,12,2
+CSE-6242,Data & Visual Analytics,5,8,2
+CSE-6242,Data & Visual Analytics,4,3,2
+CSE-6242,Data & Visual Analytics,4,10,2
+CSE-6242,Data & Visual Analytics,4,7,2
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,4,8,1
+CSE-6242,Data & Visual Analytics,4,15,3
+CSE-6242,Data & Visual Analytics,3,25,3
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,4,15,4
+CSE-6242,Data & Visual Analytics,3,6,2
+CSE-6242,Data & Visual Analytics,1,15,5
+CSE-6242,Data & Visual Analytics,NULL,NULL,NULL
+CSE-6242,Data & Visual Analytics,1,NULL,3
+CSE-6242,Data & Visual Analytics,5,16,4
+CSE-6242,Data & Visual Analytics,1,10,3
+CSE-6242,Data & Visual Analytics,4,8,3
+CSE-6242,Data & Visual Analytics,2,18,4
+CSE-6242,Data & Visual Analytics,4,22,3
+CSE-6242,Data & Visual Analytics,2,3,2
+CSE-6242,Data & Visual Analytics,4,22,3
+ISYE-6669,Deterministic Optimization,1,10,5
+ISYE-6669,Deterministic Optimization,1,5,5
+ISYE-6669,Deterministic Optimization,4,8,3
+ISYE-6669,Deterministic Optimization,4,8,3
+ISYE-6669,Deterministic Optimization,4,7,4
+ISYE-6669,Deterministic Optimization,4,8,3
+ISYE-6669,Deterministic Optimization,4,15,4
+ISYE-6669,Deterministic Optimization,4,10,4
+ISYE-6669,Deterministic Optimization,3,6,3
+ISYE-6669,Deterministic Optimization,4,6,3
+ISYE-6669,Deterministic Optimization,4,8,4
+ISYE-6669,Deterministic Optimization,5,10,4
+ISYE-6669,Deterministic Optimization,4,12,4
+ISYE-6669,Deterministic Optimization,3,15,5
+ISYE-6669,Deterministic Optimization,4,10,4
+ISYE-6669,Deterministic Optimization,4,12,4
+ISYE-6669,Deterministic Optimization,3,8,4
+MGT-6311,Digital Marketing,4,5,1
+CS-6460,Educational Technology,1,30,3
+CS-6460,Educational Technology,5,5,2
+CS-6460,Educational Technology,1,15,3
+CS-6460,Educational Technology,4,8,2
+CS-6460,Educational Technology,4,10,2
+CS-6460,Educational Technology,4,10,3
+CS-6460,Educational Technology,5,12,2
+CS-6460,Educational Technology,4,8,2
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,12,2
+CS-6460,Educational Technology,4,10,3
+CS-6460,Educational Technology,5,35,3
+CS-6460,Educational Technology,3,10,3
+CS-6460,Educational Technology,5,8,3
+CS-6460,Educational Technology,3,10,3
+CS-6460,Educational Technology,5,16,3
+CS-6460,Educational Technology,4,15,3
+CS-6460,Educational Technology,5,15,2
+CS-6460,Educational Technology,4,20,3
+CS-6460,Educational Technology,5,NULL,3
+CS-6460,Educational Technology,4,10,3
+CS-6460,Educational Technology,5,20,3
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,1,10,1
+CS-6460,Educational Technology,1,15,3
+CS-6460,Educational Technology,5,28,2
+CS-6460,Educational Technology,4,18,3
+CS-6460,Educational Technology,4,30,4
+CS-6460,Educational Technology,3,10,3
+CS-6460,Educational Technology,3,22,4
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,30,3
+CS-6460,Educational Technology,5,15,3
+CS-6460,Educational Technology,4,18,4
+CS-6460,Educational Technology,3,10,3
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,15,3
+CS-6460,Educational Technology,NULL,10,3
+CS-6460,Educational Technology,5,15,3
+CS-6460,Educational Technology,NULL,10,3
+CS-6460,Educational Technology,NULL,10,3
+CS-6460,Educational Technology,4,5,1
+CS-6460,Educational Technology,5,9,2
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,15,3
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,4,30,4
+CS-6460,Educational Technology,5,12,3
+CS-6460,Educational Technology,3,10,2
+CS-6460,Educational Technology,5,25,4
+CS-6460,Educational Technology,2,5,2
+CS-6460,Educational Technology,4,5,3
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,4,10,3
+CS-6460,Educational Technology,1,18,2
+CS-6460,Educational Technology,5,12,4
+CS-6460,Educational Technology,5,10,2
+CS-6460,Educational Technology,NULL,10,3
+CS-6460,Educational Technology,4,10,2
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,4,15,3
+CS-6460,Educational Technology,3,8,1
+CS-6460,Educational Technology,5,18,2
+CS-6460,Educational Technology,4,20,4
+CS-6460,Educational Technology,4,15,3
+CS-6460,Educational Technology,5,9,2
+CS-6460,Educational Technology,5,15,3
+CS-6460,Educational Technology,5,12,2
+CS-6460,Educational Technology,5,10,3
+CS-6460,Educational Technology,5,8,3
+CS-6460,Educational Technology,3,15,3
+CS-6460,Educational Technology,5,8,3
+CS-6460,Educational Technology,4,10,3
+CS-6460,Educational Technology,3,12,3
+CS-6460,Educational Technology,5,9,3
+CS-6460,Educational Technology,4,14,3
+CS-8803-004,Embedded Software,NULL,9,4
+CS-8803-004,Embedded Software,4,10,3
+CS-8803-004,Embedded Software,4,15,4
+CS-8803-004,Embedded Software,4,12,3
+CS-8803-004,Embedded Software,5,10,3
+CS-8803-004,Embedded Software,2,14,3
+CS-8803-004,Embedded Software,4,24,4
+CS-8803-004,Embedded Software,4,15,3
+CS-8803-004,Embedded Software,4,20,3
+CS-8803-004,Embedded Software,2,28,5
+CS-8803-004,Embedded Software,4,17,4
+CS-6291,Embedded System Optimization,4,12,4
+CS-6291,Embedded System Optimization,5,3,3
+CS-6291,Embedded System Optimization,3,10,2
+CS-6291,Embedded System Optimization,4,12,3
+CS-6291,Embedded System Optimization,3,50,5
+CS-6291,Embedded System Optimization,1,16,4
+CS-6291,Embedded System Optimization,4,10,3
+CS-6291,Embedded System Optimization,1,15,4
+CS-6291,Embedded System Optimization,2,5,3
+CS-6291,Embedded System Optimization,5,21,2
+CS-6291,Embedded System Optimization,1,25,5
+CS-6291,Embedded System Optimization,4,20,4
+CS-6291,Embedded System Optimization,4,12,4
+CS-6291,Embedded System Optimization,5,20,4
+CS-6291,Embedded System Optimization,4,15,4
+CS-6291,Embedded System Optimization,2,30,5
+CS-6291,Embedded System Optimization,4,15,3
+CS-6291,Embedded System Optimization,4,10,3
+CS-6291,Embedded System Optimization,4,16,4
+CS-6291,Embedded System Optimization,2,15,3
+CS-6291,Embedded System Optimization,3,10,4
+CS-6291,Embedded System Optimization,4,10,3
+CS-6291,Embedded System Optimization,4,20,4
+CS-6291,Embedded System Optimization,4,15,4
+CS-6291,Embedded System Optimization,4,16,4
+CS-6291,Embedded System Optimization,4,15,2
+MGT-8813,Financial Modeling,4,6,2
+IYSE-8803,High-Dimensional Data Analytics,5,15,4
+IYSE-8803,High-Dimensional Data Analytics,4,16,5
+IYSE-8803,High-Dimensional Data Analytics,1,20,3
+IYSE-8803,High-Dimensional Data Analytics,4,15,5
+IYSE-8803,High-Dimensional Data Analytics,4,20,5
+IYSE-8803,High-Dimensional Data Analytics,4,15,5
+IYSE-8803,High-Dimensional Data Analytics,4,16,4
+IYSE-8803,High-Dimensional Data Analytics,4,25,5
+IYSE-8803,High-Dimensional Data Analytics,5,15,4
+IYSE-8803,High-Dimensional Data Analytics,4,15,5
+IYSE-8803,High-Dimensional Data Analytics,4,30,5
+IYSE-8803,High-Dimensional Data Analytics,5,20,5
+IYSE-8803,High-Dimensional Data Analytics,4,15,5
+IYSE-8803,High-Dimensional Data Analytics,5,15,4
+CS-6290,High Performance Computer Architecture,5,5,3
+CS-6290,High Performance Computer Architecture,4,10,3
+CS-6290,High Performance Computer Architecture,5,15,3
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,4,12,3
+CS-6290,High Performance Computer Architecture,3,18,4
+CS-6290,High Performance Computer Architecture,4,20,5
+CS-6290,High Performance Computer Architecture,4,15,4
+CS-6290,High Performance Computer Architecture,3,10,5
+CS-6290,High Performance Computer Architecture,4,10,3
+CS-6290,High Performance Computer Architecture,NULL,10,4
+CS-6290,High Performance Computer Architecture,NULL,10,4
+CS-6290,High Performance Computer Architecture,NULL,8,3
+CS-6290,High Performance Computer Architecture,NULL,7,4
+CS-6290,High Performance Computer Architecture,NULL,10,3
+CS-6290,High Performance Computer Architecture,NULL,8,3
+CS-6290,High Performance Computer Architecture,4,9,4
+CS-6290,High Performance Computer Architecture,NULL,10,3
+CS-6290,High Performance Computer Architecture,NULL,15,4
+CS-6290,High Performance Computer Architecture,NULL,10,3
+CS-6290,High Performance Computer Architecture,NULL,10,4
+CS-6290,High Performance Computer Architecture,NULL,15,4
+CS-6290,High Performance Computer Architecture,NULL,20,4
+CS-6290,High Performance Computer Architecture,NULL,20,5
+CS-6290,High Performance Computer Architecture,NULL,20,4
+CS-6290,High Performance Computer Architecture,NULL,5,4
+CS-6290,High Performance Computer Architecture,5,10,4
+CS-6290,High Performance Computer Architecture,NULL,10,4
+CS-6290,High Performance Computer Architecture,4,10,4
+CS-6290,High Performance Computer Architecture,4,15,4
+CS-6290,High Performance Computer Architecture,5,10,3
+CS-6290,High Performance Computer Architecture,5,12,3
+CS-6290,High Performance Computer Architecture,4,20,4
+CS-6290,High Performance Computer Architecture,5,10,3
+CS-6290,High Performance Computer Architecture,4,15,3
+CS-6290,High Performance Computer Architecture,1,15,5
+CS-6290,High Performance Computer Architecture,5,9,3
+CS-6290,High Performance Computer Architecture,4,35,3
+CS-6290,High Performance Computer Architecture,4,10,4
+CS-6290,High Performance Computer Architecture,NULL,12,3
+CS-6290,High Performance Computer Architecture,NULL,12,3
+CS-6290,High Performance Computer Architecture,4,15,3
+CS-6290,High Performance Computer Architecture,NULL,12,4
+CS-6290,High Performance Computer Architecture,4,12,4
+CS-6290,High Performance Computer Architecture,4,20,5
+CS-6290,High Performance Computer Architecture,3,15,4
+CS-6290,High Performance Computer Architecture,NULL,7,4
+CS-6290,High Performance Computer Architecture,4,7,3
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,5,12,4
+CS-6290,High Performance Computer Architecture,4,12,5
+CS-6290,High Performance Computer Architecture,5,15,3
+CS-6290,High Performance Computer Architecture,5,12,3
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,5,12,4
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,3,14,4
+CS-6290,High Performance Computer Architecture,5,16,3
+CS-6290,High Performance Computer Architecture,5,10,4
+CS-6290,High Performance Computer Architecture,4,9,3
+CS-6290,High Performance Computer Architecture,5,9,4
+CS-6290,High Performance Computer Architecture,5,15,5
+CS-6290,High Performance Computer Architecture,5,8,2
+CS-6290,High Performance Computer Architecture,4,10,3
+CS-6290,High Performance Computer Architecture,5,15,4
+CS-6290,High Performance Computer Architecture,4,10,4
+CS-6290,High Performance Computer Architecture,1,9,3
+CS-6750,Human-Computer Interaction,5,13,3
+CS-6750,Human-Computer Interaction,1,15,3
+CS-6750,Human-Computer Interaction,5,15,4
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,4,8,3
+CS-6750,Human-Computer Interaction,5,5,2
+CS-6750,Human-Computer Interaction,5,10,2
+CS-6750,Human-Computer Interaction,5,10,2
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,4,20,3
+CS-6750,Human-Computer Interaction,5,15,2
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,4,10,2
+CS-6750,Human-Computer Interaction,5,15,3
+CS-6750,Human-Computer Interaction,5,12,2
+CS-6750,Human-Computer Interaction,3,8,3
+CS-6750,Human-Computer Interaction,4,10,4
+CS-6750,Human-Computer Interaction,4,11,2
+CS-6750,Human-Computer Interaction,4,21,3
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,4,8,3
+CS-6750,Human-Computer Interaction,3,5,1
+CS-6750,Human-Computer Interaction,5,11,3
+CS-6750,Human-Computer Interaction,5,8,2
+CS-6750,Human-Computer Interaction,3,7,3
+CS-6750,Human-Computer Interaction,1,8,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,4,8,2
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,4,15,3
+CS-6750,Human-Computer Interaction,4,11,2
+CS-6750,Human-Computer Interaction,5,18,3
+CS-6750,Human-Computer Interaction,5,5,2
+CS-6750,Human-Computer Interaction,5,12,2
+CS-6750,Human-Computer Interaction,2,10,2
+CS-6750,Human-Computer Interaction,4,14,2
+CS-6750,Human-Computer Interaction,4,20,3
+CS-6750,Human-Computer Interaction,3,15,1
+CS-6750,Human-Computer Interaction,5,20,3
+CS-6750,Human-Computer Interaction,5,9,2
+CS-6750,Human-Computer Interaction,5,10,2
+CS-6750,Human-Computer Interaction,5,7,1
+CS-6750,Human-Computer Interaction,5,9,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,4,20,4
+CS-6750,Human-Computer Interaction,1,24,5
+CS-6750,Human-Computer Interaction,4,8,2
+CS-6750,Human-Computer Interaction,3,20,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,4,8,2
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,4,15,3
+CS-6750,Human-Computer Interaction,5,4,3
+CS-6750,Human-Computer Interaction,5,15,2
+CS-6750,Human-Computer Interaction,4,9,2
+CS-6750,Human-Computer Interaction,4,6,2
+CS-6750,Human-Computer Interaction,4,10,2
+CS-6750,Human-Computer Interaction,5,9,3
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,5,8,3
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,4,16,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,5,10,4
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,3,12,2
+CS-6750,Human-Computer Interaction,4,30,3
+CS-6750,Human-Computer Interaction,4,20,3
+CS-6750,Human-Computer Interaction,4,20,4
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,4,10,2
+CS-6750,Human-Computer Interaction,4,6,3
+CS-6750,Human-Computer Interaction,2,13,2
+CS-6750,Human-Computer Interaction,1,5,3
+CS-6750,Human-Computer Interaction,4,25,3
+CS-6750,Human-Computer Interaction,1,12,3
+CS-6750,Human-Computer Interaction,5,6,2
+CS-6750,Human-Computer Interaction,1,6,2
+CS-6750,Human-Computer Interaction,4,8,2
+CS-6750,Human-Computer Interaction,2,30,4
+CS-6750,Human-Computer Interaction,5,5,1
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,5,5,2
+CS-6750,Human-Computer Interaction,3,15,3
+CS-6750,Human-Computer Interaction,3,7,1
+CS-6750,Human-Computer Interaction,4,12.4,3
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,3,5,1
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,2,4,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,5,8,3
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,5,8,3
+CS-6750,Human-Computer Interaction,5,10,3
+CS-6750,Human-Computer Interaction,3,5,2
+CS-6750,Human-Computer Interaction,4,15,3
+CS-6750,Human-Computer Interaction,5,12,3
+CS-6750,Human-Computer Interaction,2,10,3
+CS-6750,Human-Computer Interaction,4,9,3
+CS-6750,Human-Computer Interaction,5,10,2
+CS-6750,Human-Computer Interaction,4,15,2
+CS-6750,Human-Computer Interaction,5,5,2
+CS-6750,Human-Computer Interaction,5,12,2
+CS-6750,Human-Computer Interaction,4,15,3
+CS-6750,Human-Computer Interaction,2,7,3
+CS-6750,Human-Computer Interaction,4,24,3
+CS-6750,Human-Computer Interaction,5,15,4
+CS-6750,Human-Computer Interaction,4,15,3
+CS-6750,Human-Computer Interaction,5,12,2
+CS-6750,Human-Computer Interaction,4,10,2
+CS-6750,Human-Computer Interaction,4,13,3
+CS-6750,Human-Computer Interaction,4,10,3
+CS-6750,Human-Computer Interaction,5,12,1
+CS-6750,Human-Computer Interaction,5,15,3
+CS-6750,Human-Computer Interaction,4,8,2
+CS-6750,Human-Computer Interaction,4,10,4
+CS-6750,Human-Computer Interaction,3,20,3
+CS-6750,Human-Computer Interaction,4,9,2
+CS-6750,Human-Computer Interaction,5,20,3
+CS-6750,Human-Computer Interaction,4,8,2
+PUBP-6501,Information Policy & Management,3,22,3
+CS-6265,Information Security Lab,3,30,5
+CS-6265,Information Security Lab,4,8,3
+CS-6265,Information Security Lab,5,30,4
+CS-6265,Information Security Lab,2,35,5
+PUBP-6725,Information Security Policies,5,5,2
+PUBP-6725,Information Security Policies,5,10,2
+PUBP-6725,Information Security Policies,3,10,3
+PUBP-6111,Internet & Public Policy,4,3,1
+ISYE-6501,Intro to Analytics Modeling,5,5,2
+ISYE-6501,Intro to Analytics Modeling,4,15,3
+ISYE-6501,Intro to Analytics Modeling,5,11,4
+ISYE-6501,Intro to Analytics Modeling,3,8,3
+ISYE-6501,Intro to Analytics Modeling,5,6,2
+ISYE-6501,Intro to Analytics Modeling,4,5,2
+ISYE-6501,Intro to Analytics Modeling,5,12,4
+ISYE-6501,Intro to Analytics Modeling,5,10,4
+ISYE-6501,Intro to Analytics Modeling,4,3,2
+ISYE-6501,Intro to Analytics Modeling,4,10,4
+ISYE-6501,Intro to Analytics Modeling,4,8,3
+ISYE-6501,Intro to Analytics Modeling,5,12,3
+ISYE-6501,Intro to Analytics Modeling,5,12,4
+ISYE-6501,Intro to Analytics Modeling,4,8,3
+ISYE-6501,Intro to Analytics Modeling,5,6,2
+ISYE-6501,Intro to Analytics Modeling,4,10,1
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,4,12,3
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,10,4
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,5,4,3
+ISYE-6501,Intro to Analytics Modeling,5,2,1
+ISYE-6501,Intro to Analytics Modeling,5,15,4
+ISYE-6501,Intro to Analytics Modeling,5,5,3
+ISYE-6501,Intro to Analytics Modeling,4,3,2
+ISYE-6501,Intro to Analytics Modeling,4,7,3
+ISYE-6501,Intro to Analytics Modeling,4,12,4
+ISYE-6501,Intro to Analytics Modeling,5,8,3
+ISYE-6501,Intro to Analytics Modeling,4,8,3
+ISYE-6501,Intro to Analytics Modeling,4,8,3
+ISYE-6501,Intro to Analytics Modeling,5,20,4
+ISYE-6501,Intro to Analytics Modeling,3,2,2
+ISYE-6501,Intro to Analytics Modeling,5,10,2
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,8,3
+ISYE-6501,Intro to Analytics Modeling,4,12,2
+ISYE-6501,Intro to Analytics Modeling,4,12,2
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,15,4
+ISYE-6501,Intro to Analytics Modeling,5,15,4
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,4,10,4
+ISYE-6501,Intro to Analytics Modeling,5,5,2
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,5,6,2
+ISYE-6501,Intro to Analytics Modeling,5,15,4
+ISYE-6501,Intro to Analytics Modeling,5,20,4
+ISYE-6501,Intro to Analytics Modeling,5,15,3
+ISYE-6501,Intro to Analytics Modeling,4,14,3
+ISYE-6501,Intro to Analytics Modeling,4,10,3
+ISYE-6501,Intro to Analytics Modeling,5,10,3
+ISYE-6501,Intro to Analytics Modeling,5,15,3
+ISYE-6501,Intro to Analytics Modeling,5,9,4
+ISYE-6501,Intro to Analytics Modeling,5,7,3
+ISYE-6501,Intro to Analytics Modeling,4,20,3
+ISYE-6501,Intro to Analytics Modeling,5,8,2
+ISYE-6501,Intro to Analytics Modeling,4,8,2
+ISYE-6501,Intro to Analytics Modeling,4,8,3
+ISYE-6501,Intro to Analytics Modeling,5,NULL,5
+ISYE-6501,Intro to Analytics Modeling,5,15,3
+ISYE-6501,Intro to Analytics Modeling,5,5,2
+ISYE-6501,Intro to Analytics Modeling,5,6,2
+ISYE-6501,Intro to Analytics Modeling,5,12,3
+ISYE-6501,Intro to Analytics Modeling,4,8,2
+ISYE-6501,Intro to Analytics Modeling,4,12,3
+ISYE-6501,Intro to Analytics Modeling,4,12,3
+ISYE-6501,Intro to Analytics Modeling,5,12,3
+ISYE-6501,Intro to Analytics Modeling,5,12,4
+ISYE-6501,Intro to Analytics Modeling,5,12,3
+ISYE-6501,Intro to Analytics Modeling,5,20,3
+ISYE-6501,Intro to Analytics Modeling,5,9,3
+ISYE-6501,Intro to Analytics Modeling,5,6,1
+ISYE-6501,Intro to Analytics Modeling,4,9,2
+ISYE-6501,Intro to Analytics Modeling,2,1,1
+CS-6263,Intro to Cyber Physical Systems Security,5,18,4
+CS-6263,Intro to Cyber Physical Systems Security,4,10,3
+CS-6263,Intro to Cyber Physical Systems Security,1,1,1
+CS-6263,Intro to Cyber Physical Systems Security,4,8,2
+CS-6263,Intro to Cyber Physical Systems Security,4,5,2
+CS-6263,Intro to Cyber Physical Systems Security,4,5,2
+CS-6263,Intro to Cyber Physical Systems Security,1,10,4
+CS-6263,Intro to Cyber Physical Systems Security,4,10,3
+CS-6263,Intro to Cyber Physical Systems Security,5,2,2
+CS-6263,Intro to Cyber Physical Systems Security,3,2,2
+CS-6263,Intro to Cyber Physical Systems Security,2,6,2
+CS-6263,Intro to Cyber Physical Systems Security,1,5,2
+CS-6263,Intro to Cyber Physical Systems Security,3,2,2
+CS-6263,Intro to Cyber Physical Systems Security,4,12,3
+CS-6263,Intro to Cyber Physical Systems Security,4,7,2
+CS-6263,Intro to Cyber Physical Systems Security,1,3,1
+CS-6263,Intro to Cyber Physical Systems Security,1,4,2
+CS-6263,Intro to Cyber Physical Systems Security,1,10,2
+CS-6263,Intro to Cyber Physical Systems Security,3,7,3
+CS-6263,Intro to Cyber Physical Systems Security,5,10,3
+CS-6263,Intro to Cyber Physical Systems Security,3,10,2
+CS-6263,Intro to Cyber Physical Systems Security,1,16,3
+CS-6263,Intro to Cyber Physical Systems Security,4,6,3
+CS-6263,Intro to Cyber Physical Systems Security,3,10,4
+CS-6263,Intro to Cyber Physical Systems Security,5,8,3
+CS-6263,Intro to Cyber Physical Systems Security,4,5,3
+CS-6263,Intro to Cyber Physical Systems Security,4,12,3
+CS-6263,Intro to Cyber Physical Systems Security,4,8,2
+CS-6263,Intro to Cyber Physical Systems Security,5,20,3
+CS-6263,Intro to Cyber Physical Systems Security,5,6,2
+CS-6263,Intro to Cyber Physical Systems Security,5,8,3
+CS-6263,Intro to Cyber Physical Systems Security,2,10,2
+CS-6263,Intro to Cyber Physical Systems Security,5,6,3
+CS-6263,Intro to Cyber Physical Systems Security,4,12,3
+CS-6263,Intro to Cyber Physical Systems Security,3,10,3
+CS-6263,Intro to Cyber Physical Systems Security,2,6,2
+CS-6263,Intro to Cyber Physical Systems Security,2,6,2
+CS-6263,Intro to Cyber Physical Systems Security,4,9,3
+CS-6263,Intro to Cyber Physical Systems Security,2,15,2
+CS-6263,Intro to Cyber Physical Systems Security,5,14,4
+CS-6263,Intro to Cyber Physical Systems Security,5,10,2
+CS-6263,Intro to Cyber Physical Systems Security,4,12,4
+CS-6263,Intro to Cyber Physical Systems Security,3,3,2
+CS-6263,Intro to Cyber Physical Systems Security,3,6,2
+CS-6263,Intro to Cyber Physical Systems Security,4,6,3
+CS-6263,Intro to Cyber Physical Systems Security,5,6,2
+CS-6263,Intro to Cyber Physical Systems Security,3,8,2
+CS-6263,Intro to Cyber Physical Systems Security,4,15,3
+CS-6263,Intro to Cyber Physical Systems Security,3,5,2
+CS-6263,Intro to Cyber Physical Systems Security,1,8,3
+CS-6263,Intro to Cyber Physical Systems Security,4,7,3
+CS-6515,Intro to Graduate Algorithms,5,15,4
+CS-6515,Intro to Graduate Algorithms,5,20,4
+CS-6515,Intro to Graduate Algorithms,5,8,5
+CS-6515,Intro to Graduate Algorithms,1,20,5
+CS-6515,Intro to Graduate Algorithms,5,5,2
+CS-6515,Intro to Graduate Algorithms,2,30,5
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,1,25,5
+CS-6515,Intro to Graduate Algorithms,5,20,5
+CS-6515,Intro to Graduate Algorithms,5,17,5
+CS-6515,Intro to Graduate Algorithms,4,20,4
+CS-6515,Intro to Graduate Algorithms,4,15,4
+CS-6515,Intro to Graduate Algorithms,5,5,2
+CS-6515,Intro to Graduate Algorithms,5,40,5
+CS-6515,Intro to Graduate Algorithms,4,40,5
+CS-6515,Intro to Graduate Algorithms,5,20,4
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,5,30,5
+CS-6515,Intro to Graduate Algorithms,5,12,5
+CS-6515,Intro to Graduate Algorithms,2,20,4
+CS-6515,Intro to Graduate Algorithms,5,12,3
+CS-6515,Intro to Graduate Algorithms,4,25,3
+CS-6515,Intro to Graduate Algorithms,5,7,2
+CS-6515,Intro to Graduate Algorithms,NULL,5,5
+CS-6515,Intro to Graduate Algorithms,2,20,5
+CS-6515,Intro to Graduate Algorithms,4,35,5
+CS-6515,Intro to Graduate Algorithms,5,15,3
+CS-6515,Intro to Graduate Algorithms,4,15,5
+CS-6515,Intro to Graduate Algorithms,5,25,5
+CS-6515,Intro to Graduate Algorithms,4,10,4
+CS-6515,Intro to Graduate Algorithms,4,30,4
+CS-6515,Intro to Graduate Algorithms,3,30,5
+CS-6515,Intro to Graduate Algorithms,5,15,5
+CS-6515,Intro to Graduate Algorithms,5,10,3
+CS-6515,Intro to Graduate Algorithms,NULL,10,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,4,15,3
+CS-6515,Intro to Graduate Algorithms,3,30,5
+CS-6515,Intro to Graduate Algorithms,4,25,4
+CS-6515,Intro to Graduate Algorithms,3,25,5
+CS-6515,Intro to Graduate Algorithms,2,20,4
+CS-6515,Intro to Graduate Algorithms,5,18,5
+CS-6515,Intro to Graduate Algorithms,3,10,3
+CS-6515,Intro to Graduate Algorithms,4,6,2
+CS-6515,Intro to Graduate Algorithms,NULL,15,3
+CS-6515,Intro to Graduate Algorithms,5,10,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,4
+CS-6515,Intro to Graduate Algorithms,5,13,3
+CS-6515,Intro to Graduate Algorithms,5,30,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,3,40,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,2,22,5
+CS-6515,Intro to Graduate Algorithms,2,20,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,4
+CS-6515,Intro to Graduate Algorithms,4,30,5
+CS-6515,Intro to Graduate Algorithms,4,10,4
+CS-6515,Intro to Graduate Algorithms,3,50,5
+CS-6515,Intro to Graduate Algorithms,4,25,4
+CS-6515,Intro to Graduate Algorithms,5,10,4
+CS-6515,Intro to Graduate Algorithms,NULL,15,4
+CS-6515,Intro to Graduate Algorithms,5,10,3
+CS-6515,Intro to Graduate Algorithms,3,6,5
+CS-6515,Intro to Graduate Algorithms,NULL,NULL,5
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,4,25,4
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,4
+CS-6515,Intro to Graduate Algorithms,5,15,5
+CS-6515,Intro to Graduate Algorithms,NULL,10,4
+CS-6515,Intro to Graduate Algorithms,5,14,5
+CS-6515,Intro to Graduate Algorithms,NULL,10,4
+CS-6515,Intro to Graduate Algorithms,3,50,5
+CS-6515,Intro to Graduate Algorithms,5,15,4
+CS-6515,Intro to Graduate Algorithms,5,25,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,4
+CS-6515,Intro to Graduate Algorithms,3,60,5
+CS-6515,Intro to Graduate Algorithms,5,20,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,4,2,1
+CS-6515,Intro to Graduate Algorithms,3,30,5
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6515,Intro to Graduate Algorithms,4,17,5
+CS-6515,Intro to Graduate Algorithms,5,12,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,4
+CS-6515,Intro to Graduate Algorithms,5,10,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,4,25,4
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6515,Intro to Graduate Algorithms,4,40,4
+CS-6515,Intro to Graduate Algorithms,5,35,4
+CS-6515,Intro to Graduate Algorithms,NULL,NULL,4
+CS-6515,Intro to Graduate Algorithms,3,25,5
+CS-6515,Intro to Graduate Algorithms,2,20,5
+CS-6515,Intro to Graduate Algorithms,4,7,2
+CS-6515,Intro to Graduate Algorithms,5,35,5
+CS-6515,Intro to Graduate Algorithms,5,20,4
+CS-6515,Intro to Graduate Algorithms,5,5,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,4
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,2,30,5
+CS-6515,Intro to Graduate Algorithms,5,18,4
+CS-6515,Intro to Graduate Algorithms,3,20,5
+CS-6515,Intro to Graduate Algorithms,5,8,4
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,5,20,3
+CS-6515,Intro to Graduate Algorithms,5,30,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,3,40,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,5,4
+CS-6515,Intro to Graduate Algorithms,NULL,15,5
+CS-6515,Intro to Graduate Algorithms,1,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,15,4
+CS-6515,Intro to Graduate Algorithms,4,15,4
+CS-6515,Intro to Graduate Algorithms,1,35,5
+CS-6515,Intro to Graduate Algorithms,4,8,5
+CS-6515,Intro to Graduate Algorithms,NULL,8,3
+CS-6515,Intro to Graduate Algorithms,5,28,5
+CS-6515,Intro to Graduate Algorithms,NULL,10,4
+CS-6515,Intro to Graduate Algorithms,2,15,5
+CS-6515,Intro to Graduate Algorithms,3,16,5
+CS-6515,Intro to Graduate Algorithms,5,30,5
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,5,10,3
+CS-6515,Intro to Graduate Algorithms,5,50,5
+CS-6515,Intro to Graduate Algorithms,4,12,4
+CS-6515,Intro to Graduate Algorithms,NULL,20,4
+CS-6515,Intro to Graduate Algorithms,5,10,2
+CS-6515,Intro to Graduate Algorithms,5,25,3
+CS-6515,Intro to Graduate Algorithms,NULL,50,5
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6515,Intro to Graduate Algorithms,5,20,3
+CS-6515,Intro to Graduate Algorithms,5,12,5
+CS-6515,Intro to Graduate Algorithms,NULL,35,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,4,35,5
+CS-6515,Intro to Graduate Algorithms,2,25,5
+CS-6515,Intro to Graduate Algorithms,NULL,20,5
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,NULL,25,5
+CS-6515,Intro to Graduate Algorithms,5,15,4
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,5,25,4
+CS-6515,Intro to Graduate Algorithms,1,40,5
+CS-6515,Intro to Graduate Algorithms,4,12,4
+CS-6515,Intro to Graduate Algorithms,2,15,4
+CS-6515,Intro to Graduate Algorithms,4,25,5
+CS-6515,Intro to Graduate Algorithms,4,10,3
+CS-6515,Intro to Graduate Algorithms,3,30,5
+CS-6515,Intro to Graduate Algorithms,1,20,5
+CS-6515,Intro to Graduate Algorithms,4,15,4
+CS-6515,Intro to Graduate Algorithms,4,10,3
+CS-6515,Intro to Graduate Algorithms,4,15,5
+CS-6515,Intro to Graduate Algorithms,5,30,5
+CS-6515,Intro to Graduate Algorithms,NULL,10,5
+CS-6515,Intro to Graduate Algorithms,5,30,5
+CS-6515,Intro to Graduate Algorithms,4,11,4
+CS-6515,Intro to Graduate Algorithms,1,40,5
+CS-6515,Intro to Graduate Algorithms,4,8,2
+CS-6515,Intro to Graduate Algorithms,3,30,5
+CS-6515,Intro to Graduate Algorithms,4,40,5
+CS-6515,Intro to Graduate Algorithms,5,15,4
+CS-6515,Intro to Graduate Algorithms,5,10,5
+CS-6515,Intro to Graduate Algorithms,NULL,8,4
+CS-6515,Intro to Graduate Algorithms,1,25,5
+CS-6515,Intro to Graduate Algorithms,1,25,5
+CS-6515,Intro to Graduate Algorithms,5,13,3
+CS-6515,Intro to Graduate Algorithms,3,15,4
+CS-6515,Intro to Graduate Algorithms,3,4,1
+CS-6515,Intro to Graduate Algorithms,1,30,5
+CS-6515,Intro to Graduate Algorithms,5,20,5
+CS-6515,Intro to Graduate Algorithms,NULL,10,4
+CS-6515,Intro to Graduate Algorithms,4,8,3
+CS-6515,Intro to Graduate Algorithms,5,15,4
+CS-6515,Intro to Graduate Algorithms,5,20,4
+CS-6515,Intro to Graduate Algorithms,NULL,30,5
+CS-6515,Intro to Graduate Algorithms,5,16,4
+CS-6515,Intro to Graduate Algorithms,5,10,4
+CS-6515,Intro to Graduate Algorithms,4,20,5
+CS-6440,Intro to Health Informatics,5,8,2
+CS-6440,Intro to Health Informatics,1,3,2
+CS-6440,Intro to Health Informatics,1,20,3
+CS-6440,Intro to Health Informatics,3,16,3
+CS-6440,Intro to Health Informatics,2,5,2
+CS-6440,Intro to Health Informatics,4,4,1
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,1,5,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,3,5,1
+CS-6440,Intro to Health Informatics,5,10,1
+CS-6440,Intro to Health Informatics,3,6,2
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,4,10,2
+CS-6440,Intro to Health Informatics,3,4,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,1,10,4
+CS-6440,Intro to Health Informatics,2,5,1
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,4,10,3
+CS-6440,Intro to Health Informatics,5,10,3
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,NULL,2,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,4,2,1
+CS-6440,Intro to Health Informatics,1,12,2
+CS-6440,Intro to Health Informatics,3,3,2
+CS-6440,Intro to Health Informatics,5,4,1
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,4,7,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,1,4,2
+CS-6440,Intro to Health Informatics,2,5,3
+CS-6440,Intro to Health Informatics,1,4,1
+CS-6440,Intro to Health Informatics,NULL,2,3
+CS-6440,Intro to Health Informatics,1,4,3
+CS-6440,Intro to Health Informatics,NULL,3,2
+CS-6440,Intro to Health Informatics,1,5,1
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,4,5,2
+CS-6440,Intro to Health Informatics,4,10,1
+CS-6440,Intro to Health Informatics,5,15,3
+CS-6440,Intro to Health Informatics,2,10,3
+CS-6440,Intro to Health Informatics,4,8,3
+CS-6440,Intro to Health Informatics,1,2,1
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,3,2.5,2
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,4,5,1
+CS-6440,Intro to Health Informatics,4,5,3
+CS-6440,Intro to Health Informatics,4,25,3
+CS-6440,Intro to Health Informatics,3,2.5,1
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,1,7,3
+CS-6440,Intro to Health Informatics,NULL,5,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,2,2,1
+CS-6440,Intro to Health Informatics,3,10,4
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CS-6440,Intro to Health Informatics,5,15,3
+CS-6440,Intro to Health Informatics,3,10,2
+CS-6440,Intro to Health Informatics,3,6,2
+CS-6440,Intro to Health Informatics,3,8,2
+CS-6440,Intro to Health Informatics,3,16,4
+CS-6440,Intro to Health Informatics,3,4,2
+CS-6440,Intro to Health Informatics,4,9,2
+CS-6440,Intro to Health Informatics,4,10,3
+CS-6440,Intro to Health Informatics,2,8,1
+CS-6440,Intro to Health Informatics,3,10,1
+CS-6440,Intro to Health Informatics,4,5,1
+CS-6440,Intro to Health Informatics,4,10,3
+CS-6440,Intro to Health Informatics,NULL,3,3
+CS-6440,Intro to Health Informatics,NULL,2,2
+CS-6440,Intro to Health Informatics,2,3,1
+CS-6440,Intro to Health Informatics,1,6,2
+CS-6440,Intro to Health Informatics,1,1.5,1
+CS-6440,Intro to Health Informatics,1,3,1
+CS-6440,Intro to Health Informatics,3,8,2
+CS-6440,Intro to Health Informatics,5,12,2
+CS-6440,Intro to Health Informatics,4,5,2
+CS-6440,Intro to Health Informatics,NULL,NULL,2
+CSE-6220,Intro to High-Performance Computing,4,20,5
+CSE-6220,Intro to High-Performance Computing,5,30,5
+CSE-6220,Intro to High-Performance Computing,NULL,15,5
+CSE-6220,Intro to High-Performance Computing,4,20,4
+CSE-6220,Intro to High-Performance Computing,5,15,4
+CSE-6220,Intro to High-Performance Computing,NULL,10,4
+CSE-6220,Intro to High-Performance Computing,NULL,10,4
+CSE-6220,Intro to High-Performance Computing,5,15,5
+CSE-6220,Intro to High-Performance Computing,NULL,25,4
+CSE-6220,Intro to High-Performance Computing,NULL,20,4
+CSE-6220,Intro to High-Performance Computing,4,50,5
+CSE-6220,Intro to High-Performance Computing,5,24,4
+CSE-6220,Intro to High-Performance Computing,5,15,4
+CSE-6220,Intro to High-Performance Computing,NULL,30,5
+CSE-6220,Intro to High-Performance Computing,5,30,5
+CSE-6220,Intro to High-Performance Computing,5,15,4
+CSE-6220,Intro to High-Performance Computing,5,30,5
+CSE-6220,Intro to High-Performance Computing,5,20,4
+CSE-6220,Intro to High-Performance Computing,5,25,5
+CSE-6220,Intro to High-Performance Computing,5,30,5
+CSE-6220,Intro to High-Performance Computing,NULL,30,5
+CSE-6220,Intro to High-Performance Computing,2,20,4
+CSE-6220,Intro to High-Performance Computing,5,20,4
+CSE-6220,Intro to High-Performance Computing,5,23,4
+CSE-6220,Intro to High-Performance Computing,5,15,4
+CSE-6220,Intro to High-Performance Computing,5,20,5
+CSE-6220,Intro to High-Performance Computing,5,15,5
+CSE-6220,Intro to High-Performance Computing,5,22,4
+CSE-6220,Intro to High-Performance Computing,NULL,20,5
+CSE-6220,Intro to High-Performance Computing,4,25,5
+CSE-6220,Intro to High-Performance Computing,5,20,5
+CSE-6220,Intro to High-Performance Computing,5,22,5
+CSE-6220,Intro to High-Performance Computing,4,15,4
+CSE-6220,Intro to High-Performance Computing,5,24,5
+CSE-6220,Intro to High-Performance Computing,5,18,4
+CSE-6220,Intro to High-Performance Computing,NULL,20,5
+CSE-6220,Intro to High-Performance Computing,5,18,4
+CSE-6220,Intro to High-Performance Computing,4,20,5
+CSE-6220,Intro to High-Performance Computing,4,12,5
+CSE-6220,Intro to High-Performance Computing,5,12,3
+CSE-6220,Intro to High-Performance Computing,5,12,5
+CSE-6220,Intro to High-Performance Computing,5,16,4
+CSE-6220,Intro to High-Performance Computing,5,20,5
+CSE-6220,Intro to High-Performance Computing,5,10,4
+CSE-6220,Intro to High-Performance Computing,4,18,5
+CSE-6220,Intro to High-Performance Computing,5,15,5
+CSE-6220,Intro to High-Performance Computing,NULL,5,4
+CSE-6220,Intro to High-Performance Computing,5,20,5
+CSE-6220,Intro to High-Performance Computing,NULL,15,5
+CS-6035,Intro to Information Security,5,3,1
+CS-6035,Intro to Information Security,5,4,2
+CS-6035,Intro to Information Security,3,5,3
+CS-6035,Intro to Information Security,3,12,2
+CS-6035,Intro to Information Security,3,14,2
+CS-6035,Intro to Information Security,5,6,1
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,3,7,2
+CS-6035,Intro to Information Security,1,5,3
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,4,12,2
+CS-6035,Intro to Information Security,1,20,3
+CS-6035,Intro to Information Security,3,6,2
+CS-6035,Intro to Information Security,4,4,3
+CS-6035,Intro to Information Security,3,14,3
+CS-6035,Intro to Information Security,4,20,4
+CS-6035,Intro to Information Security,4,8,4
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,2,4,3
+CS-6035,Intro to Information Security,3,8,2
+CS-6035,Intro to Information Security,1,12,3
+CS-6035,Intro to Information Security,4,6,3
+CS-6035,Intro to Information Security,3,2,1
+CS-6035,Intro to Information Security,5,7,2
+CS-6035,Intro to Information Security,4,7,3
+CS-6035,Intro to Information Security,1,5,2
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,2,8,2
+CS-6035,Intro to Information Security,2,4,1
+CS-6035,Intro to Information Security,3,7,2
+CS-6035,Intro to Information Security,2,12,3
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,2,10,2
+CS-6035,Intro to Information Security,4,13,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,2,8,2
+CS-6035,Intro to Information Security,5,6,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,4,11,3
+CS-6035,Intro to Information Security,3,5,2
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,4,6,1
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,4,14,3
+CS-6035,Intro to Information Security,4,4,2
+CS-6035,Intro to Information Security,4,3,2
+CS-6035,Intro to Information Security,5,8,3
+CS-6035,Intro to Information Security,3,12,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,2,20,4
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,4,12,4
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,4,9,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,4,5,1
+CS-6035,Intro to Information Security,5,6,3
+CS-6035,Intro to Information Security,3,8,2
+CS-6035,Intro to Information Security,4,13,4
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,15,5
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,11,2
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,3,7,3
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,5,7,2
+CS-6035,Intro to Information Security,5,12,2
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,2,15,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,5,7,1
+CS-6035,Intro to Information Security,4,20,3
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,5,10,2
+CS-6035,Intro to Information Security,4,12,2
+CS-6035,Intro to Information Security,4,20,2
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,2,12,3
+CS-6035,Intro to Information Security,5,12,3
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,1,3,2
+CS-6035,Intro to Information Security,4,4,1
+CS-6035,Intro to Information Security,5,10,2
+CS-6035,Intro to Information Security,4,11,2
+CS-6035,Intro to Information Security,1,20,4
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,4,10,1
+CS-6035,Intro to Information Security,2,2,1
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,5,1
+CS-6035,Intro to Information Security,5,5,2
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,5,3,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,2,10,3
+CS-6035,Intro to Information Security,3,10,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,3,12,3
+CS-6035,Intro to Information Security,3,8,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,3,5,1
+CS-6035,Intro to Information Security,2,12,3
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,1,5,2
+CS-6035,Intro to Information Security,1,5,3
+CS-6035,Intro to Information Security,4,3,1
+CS-6035,Intro to Information Security,3,5,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,5,12,3
+CS-6035,Intro to Information Security,5,18,3
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,5,12,3
+CS-6035,Intro to Information Security,4,8.5,2
+CS-6035,Intro to Information Security,3,10,4
+CS-6035,Intro to Information Security,5,10,2
+CS-6035,Intro to Information Security,3,30,5
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,5,2,1
+CS-6035,Intro to Information Security,5,8,1
+CS-6035,Intro to Information Security,3,5,2
+CS-6035,Intro to Information Security,2,20,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,3,6,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,3,20,2
+CS-6035,Intro to Information Security,2,10,2
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,2,15,3
+CS-6035,Intro to Information Security,3,10,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,5,13.3,3
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,NULL,4,2
+CS-6035,Intro to Information Security,2,3,1
+CS-6035,Intro to Information Security,1,8,3
+CS-6035,Intro to Information Security,3,2,2
+CS-6035,Intro to Information Security,4,3,2
+CS-6035,Intro to Information Security,5,8,3
+CS-6035,Intro to Information Security,5,6,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,NULL,10,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,5,6,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,1,5,2
+CS-6035,Intro to Information Security,4,5,1
+CS-6035,Intro to Information Security,4,20,3
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,3,8,3
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,5,10,2
+CS-6035,Intro to Information Security,4,2,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,11,3
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,NULL,10,3
+CS-6035,Intro to Information Security,1,10,2
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,4,16,3
+CS-6035,Intro to Information Security,5,5,2
+CS-6035,Intro to Information Security,2,15,3
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,5,7,3
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,5,10,4
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,4,6,3
+CS-6035,Intro to Information Security,3,8,2
+CS-6035,Intro to Information Security,3,10,4
+CS-6035,Intro to Information Security,4,17,4
+CS-6035,Intro to Information Security,NULL,3,1
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,4,16,2
+CS-6035,Intro to Information Security,5,15,3
+CS-6035,Intro to Information Security,4,3,2
+CS-6035,Intro to Information Security,4,2,1
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,5,12,2
+CS-6035,Intro to Information Security,2,3,2
+CS-6035,Intro to Information Security,NULL,5,2
+CS-6035,Intro to Information Security,2,5,1
+CS-6035,Intro to Information Security,3,6,3
+CS-6035,Intro to Information Security,1,5,2
+CS-6035,Intro to Information Security,NULL,10,3
+CS-6035,Intro to Information Security,3,6,2
+CS-6035,Intro to Information Security,NULL,5,2
+CS-6035,Intro to Information Security,5,16,3
+CS-6035,Intro to Information Security,2,3,2
+CS-6035,Intro to Information Security,NULL,5,3
+CS-6035,Intro to Information Security,NULL,3,2
+CS-6035,Intro to Information Security,2,5,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,NULL,5,3
+CS-6035,Intro to Information Security,5,8,2
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,1,3,2
+CS-6035,Intro to Information Security,4,4,2
+CS-6035,Intro to Information Security,4,8,3
+CS-6035,Intro to Information Security,5,8,2
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,3,3,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,NULL,6,2
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,5,12.65,3
+CS-6035,Intro to Information Security,4,7,2
+CS-6035,Intro to Information Security,4,5,2
+CS-6035,Intro to Information Security,2,3,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,8,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,NULL,10,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,3,6,3
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,5,10,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,NULL,5,2
+CS-6035,Intro to Information Security,5,5,1
+CS-6035,Intro to Information Security,4,12,3
+CS-6035,Intro to Information Security,3,15,3
+CS-6035,Intro to Information Security,NULL,10,2
+CS-6035,Intro to Information Security,3,5,2
+CS-6035,Intro to Information Security,1,3,1
+CS-6035,Intro to Information Security,4,12,2
+CS-6035,Intro to Information Security,4,4,2
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,5,20,3
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,4,6,2
+CS-6035,Intro to Information Security,4,12,2
+CS-6035,Intro to Information Security,4,10,2
+CS-6035,Intro to Information Security,3,10,2
+CS-6035,Intro to Information Security,4,10,3
+CS-6035,Intro to Information Security,3,12,3
+CS-6035,Intro to Information Security,5,1,1
+CS-6035,Intro to Information Security,2,3,3
+CS-6035,Intro to Information Security,5,8,3
+CS-6035,Intro to Information Security,2,6,1
+CS-6035,Intro to Information Security,1,6,2
+CS-6035,Intro to Information Security,4,19,2
+CS-6035,Intro to Information Security,2,20,3
+CS-6035,Intro to Information Security,2,8,3
+CS-6035,Intro to Information Security,4,15,3
+CS-6035,Intro to Information Security,3,8,2
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,NULL,14,3
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,1,12,5
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,NULL,35,3
+CS-6200,Intro to Operating Systems,NULL,20,3
+CS-6200,Intro to Operating Systems,4,13,3
+CS-6200,Intro to Operating Systems,NULL,20,5
+CS-6200,Intro to Operating Systems,NULL,15,2
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,3,30,4
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,NULL,10,4
+CS-6200,Intro to Operating Systems,4,15,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,NULL,20,5
+CS-6200,Intro to Operating Systems,NULL,10,3
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,5,40,4
+CS-6200,Intro to Operating Systems,5,17,3
+CS-6200,Intro to Operating Systems,5,18,3
+CS-6200,Intro to Operating Systems,2,10,3
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,3,16,5
+CS-6200,Intro to Operating Systems,2,30,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,NULL,20,5
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,4,38,5
+CS-6200,Intro to Operating Systems,5,8,2
+CS-6200,Intro to Operating Systems,5,25,4
+CS-6200,Intro to Operating Systems,5,8,3
+CS-6200,Intro to Operating Systems,4,30,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,4,3,3
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,5,10,2
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,1,20,4
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,5,25,4
+CS-6200,Intro to Operating Systems,4,30,4
+CS-6200,Intro to Operating Systems,4,20,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,3,7,3
+CS-6200,Intro to Operating Systems,4,15,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,14,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,4,50,3
+CS-6200,Intro to Operating Systems,5,18,4
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,16,4
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,12,3
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,6,4
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,5,5,2
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,4,7,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,8,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,NULL,40,5
+CS-6200,Intro to Operating Systems,4,15,3
+CS-6200,Intro to Operating Systems,5,18,4
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,14,3
+CS-6200,Intro to Operating Systems,5,18,4
+CS-6200,Intro to Operating Systems,5,15,5
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,4,18,3
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,4,10,4
+CS-6200,Intro to Operating Systems,4,6,3
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,2,25,4
+CS-6200,Intro to Operating Systems,NULL,25,3
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,4,25,4
+CS-6200,Intro to Operating Systems,4,25,4
+CS-6200,Intro to Operating Systems,1,15,5
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,4,15,3
+CS-6200,Intro to Operating Systems,5,12,4
+CS-6200,Intro to Operating Systems,NULL,10,4
+CS-6200,Intro to Operating Systems,5,17,4
+CS-6200,Intro to Operating Systems,4,20,5
+CS-6200,Intro to Operating Systems,5,25,5
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,3,10,4
+CS-6200,Intro to Operating Systems,4,15,2
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,NULL,10,4
+CS-6200,Intro to Operating Systems,4,25,4
+CS-6200,Intro to Operating Systems,NULL,40,5
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,3,30,4
+CS-6200,Intro to Operating Systems,3,25,5
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,10,4
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,25,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,5,18,4
+CS-6200,Intro to Operating Systems,4,8,4
+CS-6200,Intro to Operating Systems,NULL,5,2
+CS-6200,Intro to Operating Systems,NULL,50,5
+CS-6200,Intro to Operating Systems,4,15,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,NULL,50,5
+CS-6200,Intro to Operating Systems,5,13,4
+CS-6200,Intro to Operating Systems,NULL,30,4
+CS-6200,Intro to Operating Systems,4,14,4
+CS-6200,Intro to Operating Systems,5,22,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,15,3
+CS-6200,Intro to Operating Systems,NULL,18,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,5,14,3
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,13.6,3
+CS-6200,Intro to Operating Systems,5,25,4
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,2,30,4
+CS-6200,Intro to Operating Systems,4,20,3
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,NULL,10,3
+CS-6200,Intro to Operating Systems,NULL,15,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,10,4
+CS-6200,Intro to Operating Systems,NULL,20,3
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,5,10,4
+CS-6200,Intro to Operating Systems,4,13,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,4,10,3
+CS-6200,Intro to Operating Systems,5,20,5
+CS-6200,Intro to Operating Systems,3,18,5
+CS-6200,Intro to Operating Systems,5,16,4
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,4,20,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,5,18,4
+CS-6200,Intro to Operating Systems,4,16,4
+CS-6200,Intro to Operating Systems,5,13,4
+CS-6200,Intro to Operating Systems,5,10,4
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,4,12,3
+CS-6200,Intro to Operating Systems,5,25,4
+CS-6200,Intro to Operating Systems,NULL,10,3
+CS-6200,Intro to Operating Systems,5,10,2
+CS-6200,Intro to Operating Systems,NULL,20,3
+CS-6200,Intro to Operating Systems,4,25,4
+CS-6200,Intro to Operating Systems,1,25,4
+CS-6200,Intro to Operating Systems,5,10,2
+CS-6200,Intro to Operating Systems,NULL,25,4
+CS-6200,Intro to Operating Systems,4,8,3
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,NULL,40,4
+CS-6200,Intro to Operating Systems,5,20,3
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,5,30,3
+CS-6200,Intro to Operating Systems,5,8,4
+CS-6200,Intro to Operating Systems,5,18,3
+CS-6200,Intro to Operating Systems,5,15,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,NULL,15,4
+CS-6200,Intro to Operating Systems,2,15,3
+CS-6200,Intro to Operating Systems,4,30,4
+CS-6200,Intro to Operating Systems,NULL,40,4
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,NULL,5,3
+CS-6200,Intro to Operating Systems,NULL,NULL,3
+CS-6200,Intro to Operating Systems,5,20,4
+CS-6200,Intro to Operating Systems,NULL,17,3
+CS-6200,Intro to Operating Systems,4,20,1
+CS-6200,Intro to Operating Systems,NULL,5,3
+CS-6200,Intro to Operating Systems,4,20,3
+CS-6200,Intro to Operating Systems,4,20,3
+CS-6200,Intro to Operating Systems,5,10,3
+CS-6200,Intro to Operating Systems,NULL,20,4
+CS-6200,Intro to Operating Systems,3,12,3
+CS-6200,Intro to Operating Systems,4,20,5
+CS-6200,Intro to Operating Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,12,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,6,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,30,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,17,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,16,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,14,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,12,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,20,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,5,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,5
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,18,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,23,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,8,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,8,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,9,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,25,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,16.5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,13,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,6,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,25,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,18,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,5,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,12,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,11,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,15,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,15,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,7,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,16,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,15,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,25,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,4,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,30,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,8,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,8,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,8,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,8,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,5,1
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,5
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,25,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,14,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,17,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,18,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,6,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,30,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,7,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,6,1
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,21,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,30,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,14,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,12,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,5,1
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,25,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,8,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,20,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,1,25,5
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,15,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,14,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,20,5
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,26,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,6,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,NULL,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,3,10,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,4,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,5,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,10,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,NULL,15,4
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,13,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,4,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,12,2
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,2,10,3
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,5,14,3
+CS-7641,Machine Learning,2,10,5
+CS-7641,Machine Learning,3,20,3
+CS-7641,Machine Learning,2,24,3
+CS-7641,Machine Learning,5,25,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,4,18,4
+CS-7641,Machine Learning,5,50,4
+CS-7641,Machine Learning,4,25,4
+CS-7641,Machine Learning,4,9,4
+CS-7641,Machine Learning,3,25,5
+CS-7641,Machine Learning,1,20,4
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,NULL,10,5
+CS-7641,Machine Learning,5,17,4
+CS-7641,Machine Learning,2,20,5
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,5,50,5
+CS-7641,Machine Learning,2,20,3
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,1,15,4
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,5,25,5
+CS-7641,Machine Learning,4,15,4
+CS-7641,Machine Learning,4,30,5
+CS-7641,Machine Learning,3,20,5
+CS-7641,Machine Learning,4,25,4
+CS-7641,Machine Learning,2,40,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,4,25,4
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,3,25,4
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,4,10,4
+CS-7641,Machine Learning,2,30,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,4,15,3
+CS-7641,Machine Learning,4,23,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,2,25,5
+CS-7641,Machine Learning,NULL,25,4
+CS-7641,Machine Learning,5,25,3
+CS-7641,Machine Learning,3,30,3
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,4,22,4
+CS-7641,Machine Learning,4,18,4
+CS-7641,Machine Learning,5,15,5
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,3,15,3
+CS-7641,Machine Learning,1,40,5
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,5,21,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,1,20,3
+CS-7641,Machine Learning,3,15,3
+CS-7641,Machine Learning,2,20,4
+CS-7641,Machine Learning,3,20,5
+CS-7641,Machine Learning,4,10,3
+CS-7641,Machine Learning,4,25,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,3,18,3
+CS-7641,Machine Learning,2,20,4
+CS-7641,Machine Learning,4,40,4
+CS-7641,Machine Learning,NULL,10,3
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,4,18,3
+CS-7641,Machine Learning,NULL,NULL,4
+CS-7641,Machine Learning,5,30,4
+CS-7641,Machine Learning,5,30,5
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,NULL,12,4
+CS-7641,Machine Learning,NULL,8,5
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,2,30,4
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,5,22,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,NULL,15,3
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,NULL,NULL,4
+CS-7641,Machine Learning,NULL,15,5
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,NULL,3
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,3,15,3
+CS-7641,Machine Learning,5,15,5
+CS-7641,Machine Learning,5,40,4
+CS-7641,Machine Learning,NULL,15,4
+CS-7641,Machine Learning,5,12,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,5,30,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,NULL,25,4
+CS-7641,Machine Learning,NULL,15,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,1,15,4
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,NULL,10,5
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,NULL,10,5
+CS-7641,Machine Learning,NULL,NULL,4
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,NULL,25,4
+CS-7641,Machine Learning,NULL,35,3
+CS-7641,Machine Learning,5,30,5
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,NULL,25,4
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,NULL,20,3
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,5,18,4
+CS-7641,Machine Learning,NULL,25,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,1,30,5
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,NULL,10,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,NULL,30,5
+CS-7641,Machine Learning,1,20,4
+CS-7641,Machine Learning,3,20,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,4,16,5
+CS-7641,Machine Learning,1,25,5
+CS-7641,Machine Learning,2,20,3
+CS-7641,Machine Learning,4,30,4
+CS-7641,Machine Learning,3,15,4
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,5,15,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,2,24,4
+CS-7641,Machine Learning,1,15,4
+CS-7641,Machine Learning,5,18,4
+CS-7641,Machine Learning,4,10,4
+CS-7641,Machine Learning,5,30,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,4,15,3
+CS-7641,Machine Learning,3,20,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,1,25,4
+CS-7641,Machine Learning,4,15,4
+CS-7641,Machine Learning,NULL,20,5
+CS-7641,Machine Learning,4,40,5
+CS-7641,Machine Learning,5,15,3
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,5,30,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,4,15,4
+CS-7641,Machine Learning,1,20,3
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,2,10,3
+CS-7641,Machine Learning,2,20,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,2,20,5
+CS-7641,Machine Learning,NULL,15,4
+CS-7641,Machine Learning,1,15,4
+CS-7641,Machine Learning,1,20,4
+CS-7641,Machine Learning,4,8,4
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,2,30,5
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,1,20,4
+CS-7641,Machine Learning,NULL,20,4
+CS-7641,Machine Learning,3,27.72,5
+CS-7641,Machine Learning,5,30,4
+CS-7641,Machine Learning,5,25,5
+CS-7641,Machine Learning,5,22,5
+CS-7641,Machine Learning,4,15,4
+CS-7641,Machine Learning,4,18,4
+CS-7641,Machine Learning,5,16,3
+CS-7641,Machine Learning,2,20,3
+CS-7641,Machine Learning,2,20,2
+CS-7641,Machine Learning,4,25,4
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,5,25,4
+CS-7641,Machine Learning,1,20,5
+CS-7641,Machine Learning,5,20,5
+CS-7641,Machine Learning,5,40,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,4,40,4
+CS-7641,Machine Learning,2,12,5
+CS-7641,Machine Learning,4,20,5
+CS-7641,Machine Learning,4,20,4
+CS-7641,Machine Learning,1,20,5
+CS-7641,Machine Learning,4,40,5
+CS-7641,Machine Learning,NULL,35,4
+CS-7641,Machine Learning,4,15,3
+CS-7641,Machine Learning,4,30,5
+CS-7641,Machine Learning,5,15,4
+CS-7641,Machine Learning,5,30,5
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,5,20,4
+CS-7641,Machine Learning,1,30,4
+CS-7641,Machine Learning,1,15,3
+CS-7641,Machine Learning,3,12,3
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,NULL,20,3
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,7,3
+CS-7646,Machine Learning for Trading,5,5,1
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,2,30,4
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,2,5,1
+CS-7646,Machine Learning for Trading,3,5,3
+CS-7646,Machine Learning for Trading,5,13,3
+CS-7646,Machine Learning for Trading,5,12,2
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,NULL,8,3
+CS-7646,Machine Learning for Trading,NULL,10,3
+CS-7646,Machine Learning for Trading,5,18,3
+CS-7646,Machine Learning for Trading,5,18,3
+CS-7646,Machine Learning for Trading,5,18,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,5,2
+CS-7646,Machine Learning for Trading,5,7.2,3
+CS-7646,Machine Learning for Trading,5,16,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,12,4
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,NULL,5,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,12,2
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,NULL,4,2
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,4,6,2
+CS-7646,Machine Learning for Trading,NULL,10,1
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,4,1
+CS-7646,Machine Learning for Trading,1,3,1
+CS-7646,Machine Learning for Trading,4,4,1
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,4,11,3
+CS-7646,Machine Learning for Trading,2,15,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,5,2
+CS-7646,Machine Learning for Trading,4,5,1
+CS-7646,Machine Learning for Trading,3,10,3
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,4,6,2
+CS-7646,Machine Learning for Trading,NULL,5,2
+CS-7646,Machine Learning for Trading,4,20,4
+CS-7646,Machine Learning for Trading,3,8,1
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,1,25,5
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,8,3
+CS-7646,Machine Learning for Trading,4,5,1
+CS-7646,Machine Learning for Trading,1,10,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,NULL,8,2
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,NULL,3,1
+CS-7646,Machine Learning for Trading,NULL,10,3
+CS-7646,Machine Learning for Trading,5,4,1
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,5,6,2
+CS-7646,Machine Learning for Trading,5,6,3
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,5,20,2
+CS-7646,Machine Learning for Trading,NULL,10,2
+CS-7646,Machine Learning for Trading,3,3,1
+CS-7646,Machine Learning for Trading,2,5,1
+CS-7646,Machine Learning for Trading,5,7,2
+CS-7646,Machine Learning for Trading,NULL,4,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,13,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,4,20,4
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,1,18,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,20,3
+CS-7646,Machine Learning for Trading,5,6,3
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,5,16,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,2,15,4
+CS-7646,Machine Learning for Trading,5,16,3
+CS-7646,Machine Learning for Trading,5,20,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,5,2
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,3,6,2
+CS-7646,Machine Learning for Trading,4,3,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,1,15,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,5,2
+CS-7646,Machine Learning for Trading,4,6,3
+CS-7646,Machine Learning for Trading,1,10,1
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,5,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,3,12,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,3,5,2
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,14,3
+CS-7646,Machine Learning for Trading,5,30,4
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,NULL,NULL,2
+CS-7646,Machine Learning for Trading,NULL,NULL,2
+CS-7646,Machine Learning for Trading,NULL,NULL,2
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,NULL,NULL,2
+CS-7646,Machine Learning for Trading,NULL,2,2
+CS-7646,Machine Learning for Trading,NULL,2,1
+CS-7646,Machine Learning for Trading,NULL,2,2
+CS-7646,Machine Learning for Trading,5,20,3
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,NULL,5,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,2,6,2
+CS-7646,Machine Learning for Trading,4,4,2
+CS-7646,Machine Learning for Trading,3,10,2
+CS-7646,Machine Learning for Trading,4,20,3
+CS-7646,Machine Learning for Trading,4,20,4
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,25,3
+CS-7646,Machine Learning for Trading,5,8,3
+CS-7646,Machine Learning for Trading,NULL,2,2
+CS-7646,Machine Learning for Trading,5,16,3
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,3,6,2
+CS-7646,Machine Learning for Trading,2,6,3
+CS-7646,Machine Learning for Trading,4,5,1
+CS-7646,Machine Learning for Trading,NULL,NULL,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,4,5,2
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,10,4
+CS-7646,Machine Learning for Trading,3,7,2
+CS-7646,Machine Learning for Trading,5,15,2
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,4,8,3
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,3,16,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,20,4
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,4,7,2
+CS-7646,Machine Learning for Trading,5,16,3
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,5,15.6,3
+CS-7646,Machine Learning for Trading,4,15,3
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,2,8,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,4,15,2
+CS-7646,Machine Learning for Trading,3,3,1
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,8,3
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,5,15,4
+CS-7646,Machine Learning for Trading,5,13,3
+CS-7646,Machine Learning for Trading,5,8,4
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,3,8,3
+CS-7646,Machine Learning for Trading,5,20,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,12,3
+CS-7646,Machine Learning for Trading,3,10,3
+CS-7646,Machine Learning for Trading,5,14,4
+CS-7646,Machine Learning for Trading,4,4,1
+CS-7646,Machine Learning for Trading,5,15,2
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,15,2
+CS-7646,Machine Learning for Trading,3,5,1
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,6,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,2,10,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,5,15,2
+CS-7646,Machine Learning for Trading,5,5,3
+CS-7646,Machine Learning for Trading,5,8,1
+CS-7646,Machine Learning for Trading,5,10,1
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,3,10,2
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,5,10,3
+CS-7646,Machine Learning for Trading,2,10,3
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,2,8,2
+CS-7646,Machine Learning for Trading,5,14,2
+CS-7646,Machine Learning for Trading,4,10,2
+CS-7646,Machine Learning for Trading,4,18,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,4,1
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,4,20,3
+CS-7646,Machine Learning for Trading,4,15,3
+CS-7646,Machine Learning for Trading,5,6,2
+CS-7646,Machine Learning for Trading,5,5,1
+CS-7646,Machine Learning for Trading,2,10,2
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,4,15,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,6,3
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,4,3,1
+CS-7646,Machine Learning for Trading,4,10,3
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,3,8,2
+CS-7646,Machine Learning for Trading,4,8,1
+CS-7646,Machine Learning for Trading,5,10,2
+CS-7646,Machine Learning for Trading,5,15,3
+CS-7646,Machine Learning for Trading,4,6,2
+CS-7646,Machine Learning for Trading,4,14,3
+CS-7646,Machine Learning for Trading,4,8,2
+CS-7646,Machine Learning for Trading,4,9,3
+CS-7646,Machine Learning for Trading,5,8,2
+CS-7646,Machine Learning for Trading,5,12,3
+CS-7646,Machine Learning for Trading,4,16,2
+CS-6262,Network Security,3,16,4
+CS-6262,Network Security,2,15,5
+CS-6262,Network Security,4,10,3
+CS-6262,Network Security,2,10,3
+CS-6262,Network Security,3,10,2
+CS-6262,Network Security,1,10,4
+CS-6262,Network Security,4,18,4
+CS-6262,Network Security,3,20,5
+CS-6262,Network Security,4,15,4
+CS-6262,Network Security,1,22,5
+CS-6262,Network Security,3,8,3
+CS-6262,Network Security,4,8,3
+CS-6262,Network Security,4,20,3
+CS-6262,Network Security,1,4,2
+CS-6262,Network Security,4,10,3
+CS-6262,Network Security,1,20,2
+CS-6262,Network Security,4,10,3
+CS-6262,Network Security,4,10,3
+CS-6262,Network Security,2,8,3
+CS-6262,Network Security,5,25,3
+CS-6262,Network Security,4,16,4
+CS-6262,Network Security,5,8,3
+CS-6262,Network Security,1,4,3
+CS-6262,Network Security,3,1,1
+CS-6262,Network Security,2,20,4
+CS-6262,Network Security,1,8,3
+CS-6262,Network Security,4,15,3
+CS-6262,Network Security,3,5,4
+CS-6262,Network Security,3,1,1
+CS-6262,Network Security,2,5,2
+CS-6262,Network Security,1,40,4
+CS-6262,Network Security,2,10,3
+CS-6262,Network Security,3,12,3
+CS-6262,Network Security,3,8,3
+CS-6262,Network Security,1,8,3
+CS-6262,Network Security,4,17,3
+CS-6262,Network Security,4,14,3
+CS-6262,Network Security,3,15,3
+CS-6262,Network Security,4,6,2
+CS-6262,Network Security,4,4,2
+CS-6262,Network Security,4,13,3
+CS-6262,Network Security,1,12,3
+CS-6262,Network Security,1,30,4
+CS-6262,Network Security,1,37,4
+CS-6262,Network Security,1,18,3
+CS-6262,Network Security,3,9,4
+CS-6262,Network Security,2,10,4
+CS-6262,Network Security,4,12,3
+CS-6262,Network Security,5,3,1
+CS-6262,Network Security,4,10,3
+CS-6262,Network Security,3,8,2
+CS-6262,Network Security,3,8,2
+CS-6262,Network Security,2,10,3
+CS-6262,Network Security,5,20,4
+CS-6262,Network Security,4,20,5
+CS-6262,Network Security,4,5,2
+CS-6262,Network Security,4,15,4
+CS-6262,Network Security,4,7,3
+CS-6262,Network Security,3,15,3
+CS-6262,Network Security,5,3,1
+CS-6262,Network Security,4,20,3
+CS-6262,Network Security,2,4,2
+CS-6262,Network Security,5,14,3
+CS-6262,Network Security,4,10,2
+CS-6262,Network Security,4,10,4
+CS-6262,Network Security,3,10,3
+CS-6262,Network Security,4,8,2
+CS-6262,Network Security,1,8,2
+CS-6262,Network Security,2,6,2
+CS-6262,Network Security,4,18,3
+CS-6262,Network Security,2,17,3
+CS-6262,Network Security,4,10,4
+CS-6262,Network Security,4,5,2
+CS-6262,Network Security,1,10,3
+CS-6262,Network Security,3,10,2
+CS-6262,Network Security,4,12,3
+CS-6262,Network Security,2,12,3
+CS-6262,Network Security,3,19.5,3
+CS-6262,Network Security,2,15,3
+CS-6262,Network Security,1,22,4
+CS-6262,Network Security,3,17,4
+CS-6262,Network Security,4,5,2
+CS-6262,Network Security,1,40,5
+CS-6262,Network Security,4,12,3
+CS-6262,Network Security,3,8,3
+CS-6262,Network Security,3,20,4
+CS-6262,Network Security,2,15,3
+CS-6262,Network Security,1,25,4
+CS-6262,Network Security,4,12,4
+CS-6262,Network Security,2,10,3
+ISYE-6414,Regression Analysis,2,8,3
+ISYE-6414,Regression Analysis,3,10,3
+ISYE-6414,Regression Analysis,1,7,2
+ISYE-6414,Regression Analysis,4,8,3
+ISYE-6414,Regression Analysis,5,7,5
+ISYE-6414,Regression Analysis,5,12,3
+ISYE-6414,Regression Analysis,4,8,3
+ISYE-6414,Regression Analysis,4,15,3
+ISYE-6414,Regression Analysis,2,7,3
+ISYE-6414,Regression Analysis,3,10,4
+ISYE-6414,Regression Analysis,2,20,4
+ISYE-6414,Regression Analysis,5,8,3
+ISYE-6414,Regression Analysis,3,10,3
+ISYE-6414,Regression Analysis,4,10,3
+ISYE-6414,Regression Analysis,4,4,3
+ISYE-6414,Regression Analysis,3,5,3
+ISYE-6414,Regression Analysis,1,5,3
+ISYE-6414,Regression Analysis,1,5,2
+ISYE-6414,Regression Analysis,3,4,3
+ISYE-6414,Regression Analysis,3,10,4
+ISYE-6414,Regression Analysis,1,7,2
+ISYE-6414,Regression Analysis,4,8,4
+ISYE-6414,Regression Analysis,3,7,3
+ISYE-6414,Regression Analysis,4,15,3
+ISYE-6414,Regression Analysis,4,7,3
+ISYE-6414,Regression Analysis,4,10,3
+ISYE-6414,Regression Analysis,3,12,4
+ISYE-6414,Regression Analysis,5,10,4
+ISYE-6414,Regression Analysis,3,8,3
+ISYE-6414,Regression Analysis,4,6,2
+ISYE-6414,Regression Analysis,4,5,2
+ISYE-6414,Regression Analysis,4,8,2
+ISYE-6414,Regression Analysis,4,5,3
+ISYE-6414,Regression Analysis,4,12,4
+ISYE-6414,Regression Analysis,1,10,3
+ISYE-6414,Regression Analysis,2,7,2
+ISYE-6414,Regression Analysis,2,10,3
+ISYE-6414,Regression Analysis,3,5,3
+ISYE-6414,Regression Analysis,2,6,3
+ISYE-6414,Regression Analysis,3,20,4
+ISYE-6414,Regression Analysis,4,7,2
+ISYE-6414,Regression Analysis,4,7,3
+ISYE-6414,Regression Analysis,4,10,3
+ISYE-6414,Regression Analysis,4,10,3
+ISYE-6414,Regression Analysis,1,12,4
+ISYE-6414,Regression Analysis,4,8,2
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,4,27,4
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,4,18,4
+CS-7642,Reinforcement Learning,5,25,5
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,30,4
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,3,20,4
+CS-7642,Reinforcement Learning,3,20,5
+CS-7642,Reinforcement Learning,4,30,5
+CS-7642,Reinforcement Learning,5,30,5
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,35,5
+CS-7642,Reinforcement Learning,3,30,5
+CS-7642,Reinforcement Learning,5,30,5
+CS-7642,Reinforcement Learning,3,20,5
+CS-7642,Reinforcement Learning,5,40,5
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,4,25,4
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,4,25,4
+CS-7642,Reinforcement Learning,3,20,5
+CS-7642,Reinforcement Learning,1,30,4
+CS-7642,Reinforcement Learning,2,40,4
+CS-7642,Reinforcement Learning,4,25,5
+CS-7642,Reinforcement Learning,5,25,5
+CS-7642,Reinforcement Learning,4,12,4
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,3,25,4
+CS-7642,Reinforcement Learning,5,25,5
+CS-7642,Reinforcement Learning,2,50,5
+CS-7642,Reinforcement Learning,5,25,5
+CS-7642,Reinforcement Learning,4,30,5
+CS-7642,Reinforcement Learning,3,10,3
+CS-7642,Reinforcement Learning,5,10,4
+CS-7642,Reinforcement Learning,4,21,4
+CS-7642,Reinforcement Learning,5,15,3
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,1,40,5
+CS-7642,Reinforcement Learning,1,17,4
+CS-7642,Reinforcement Learning,4,30,4
+CS-7642,Reinforcement Learning,4,20,5
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,5,15,3
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,4,15,4
+CS-7642,Reinforcement Learning,5,10,2
+CS-7642,Reinforcement Learning,2,25,5
+CS-7642,Reinforcement Learning,4,8,2
+CS-7642,Reinforcement Learning,4,35,4
+CS-7642,Reinforcement Learning,4,13,3
+CS-7642,Reinforcement Learning,4,10,2
+CS-7642,Reinforcement Learning,4,30,5
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,4,12,3
+CS-7642,Reinforcement Learning,4,25,4
+CS-7642,Reinforcement Learning,4,20,3
+CS-7642,Reinforcement Learning,4,10,3
+CS-7642,Reinforcement Learning,5,12,3
+CS-7642,Reinforcement Learning,4,15,4
+CS-7642,Reinforcement Learning,1,20,4
+CS-7642,Reinforcement Learning,2,25,5
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,5,10,3
+CS-7642,Reinforcement Learning,2,20,5
+CS-7642,Reinforcement Learning,4,18,4
+CS-7642,Reinforcement Learning,1,30,4
+CS-7642,Reinforcement Learning,5,30,5
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,5,40,5
+CS-7642,Reinforcement Learning,4,20,5
+CS-7642,Reinforcement Learning,4,25,4
+CS-7642,Reinforcement Learning,4,10,3
+CS-7642,Reinforcement Learning,3,10,4
+CS-7642,Reinforcement Learning,5,8,2
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,3,20,4
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,5,30,4
+CS-7642,Reinforcement Learning,NULL,15,4
+CS-7642,Reinforcement Learning,NULL,30,4
+CS-7642,Reinforcement Learning,4,30,4
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,5,23,5
+CS-7642,Reinforcement Learning,NULL,20,4
+CS-7642,Reinforcement Learning,2,20,4
+CS-7642,Reinforcement Learning,NULL,15,4
+CS-7642,Reinforcement Learning,NULL,10,4
+CS-7642,Reinforcement Learning,4,17,4
+CS-7642,Reinforcement Learning,NULL,15,4
+CS-7642,Reinforcement Learning,NULL,10,4
+CS-7642,Reinforcement Learning,NULL,10,4
+CS-7642,Reinforcement Learning,5,35,5
+CS-7642,Reinforcement Learning,3,18,4
+CS-7642,Reinforcement Learning,3,20,4
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,1,18,4
+CS-7642,Reinforcement Learning,1,40,5
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,4,20,4
+CS-7642,Reinforcement Learning,5,18,4
+CS-7642,Reinforcement Learning,1,20,4
+CS-7642,Reinforcement Learning,1,30,4
+CS-7642,Reinforcement Learning,3,30,5
+CS-7642,Reinforcement Learning,5,18,4
+CS-7642,Reinforcement Learning,2,20,4
+CS-7642,Reinforcement Learning,3,18,4
+CS-7642,Reinforcement Learning,3,25,4
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,2,25,5
+CS-7642,Reinforcement Learning,5,18,5
+CS-7642,Reinforcement Learning,5,15,4
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,4,20,5
+CS-7642,Reinforcement Learning,4,12,4
+CS-7642,Reinforcement Learning,2,15,4
+CS-7642,Reinforcement Learning,3,18,4
+CS-7642,Reinforcement Learning,4,30,5
+CS-7642,Reinforcement Learning,4,40,5
+CS-7642,Reinforcement Learning,1,40,5
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,18,4
+CS-7642,Reinforcement Learning,5,18,5
+CS-7642,Reinforcement Learning,4,15,4
+CS-7642,Reinforcement Learning,4,11,3
+CS-7642,Reinforcement Learning,1,4,2
+CS-7642,Reinforcement Learning,2,20,3
+CS-7642,Reinforcement Learning,5,40,5
+CS-7642,Reinforcement Learning,5,53,5
+CS-7642,Reinforcement Learning,5,20,4
+CS-7642,Reinforcement Learning,5,25,4
+CS-7642,Reinforcement Learning,5,21,4
+CS-7642,Reinforcement Learning,4,30,4
+CS-7638,Robotics: AI Techniques,5,16,3
+CS-7638,Robotics: AI Techniques,4,10,3
+CS-7638,Robotics: AI Techniques,4,8,3
+CS-7638,Robotics: AI Techniques,5,15,3
+CS-7638,Robotics: AI Techniques,5,13,3
+CS-7638,Robotics: AI Techniques,4,20,3
+CS-7638,Robotics: AI Techniques,4,12,3
+CS-7638,Robotics: AI Techniques,5,12,3
+CS-7638,Robotics: AI Techniques,5,15,3
+CS-7638,Robotics: AI Techniques,5,15,3
+CS-7638,Robotics: AI Techniques,4,25,5
+CS-7638,Robotics: AI Techniques,4,10,3
+CS-7638,Robotics: AI Techniques,4,12,2
+CS-7638,Robotics: AI Techniques,5,15,3
+CS-7638,Robotics: AI Techniques,5,12,3
+CS-7638,Robotics: AI Techniques,5,12,3
+CS-7638,Robotics: AI Techniques,5,10,3
+CS-7638,Robotics: AI Techniques,4,15,3
+CS-7638,Robotics: AI Techniques,5,15,3
+CS-7638,Robotics: AI Techniques,5,16,3
+CS-7638,Robotics: AI Techniques,5,40,4
+CS-7638,Robotics: AI Techniques,5,12,3
+CS-7638,Robotics: AI Techniques,5,15,4
+CS-7638,Robotics: AI Techniques,5,10,3
+CS-7638,Robotics: AI Techniques,4,5,2
+CS-7638,Robotics: AI Techniques,2,20,4
+CS-7638,Robotics: AI Techniques,5,11.5,3
+CS-7638,Robotics: AI Techniques,2,12,3
+CS-7638,Robotics: AI Techniques,4,12,3
+CS-7638,Robotics: AI Techniques,2,10,3
+CS-7638,Robotics: AI Techniques,4,18,3
+CS-7638,Robotics: AI Techniques,4,15,2
+CS-7638,Robotics: AI Techniques,4,8,3
+CS-7638,Robotics: AI Techniques,1,15,3
+CS-7638,Robotics: AI Techniques,5,5,4
+CS-7638,Robotics: AI Techniques,4,20,3
+CS-7638,Robotics: AI Techniques,2,5,1
+CS-7638,Robotics: AI Techniques,4,15,4
+CS-7638,Robotics: AI Techniques,3,15,4
+CS-7638,Robotics: AI Techniques,5,6,3
+CS-7638,Robotics: AI Techniques,5,20,4
+CS-7638,Robotics: AI Techniques,5,16,4
+CS-6238,Secure Computer Systems,2,20,4
+CS-6238,Secure Computer Systems,1,12,3
+CS-6238,Secure Computer Systems,4,18,3
+CS-6238,Secure Computer Systems,4,13,3
+CS-6238,Secure Computer Systems,1,5,2
+CS-6238,Secure Computer Systems,3,10,2
+CS-6238,Secure Computer Systems,1,10,3
+CS-6238,Secure Computer Systems,3,12,4
+CS-6238,Secure Computer Systems,1,10,3
+CS-6238,Secure Computer Systems,3,18,3
+ISYE-6644,Simulation,5,7,3
+ISYE-6644,Simulation,5,8,5
+ISYE-6644,Simulation,5,12,3
+ISYE-6644,Simulation,4,11,4
+ISYE-6644,Simulation,5,5,3
+ISYE-6644,Simulation,5,6,3
+ISYE-6644,Simulation,4,10,3
+ISYE-6644,Simulation,5,7,2
+ISYE-6644,Simulation,4,2,3
+ISYE-6644,Simulation,4,6,3
+ISYE-6644,Simulation,5,20,5
+ISYE-6644,Simulation,5,10,3
+ISYE-6644,Simulation,5,5,4
+ISYE-6644,Simulation,4,6.5,3
+ISYE-6644,Simulation,3,14,3
+ISYE-6644,Simulation,5,10,4
+ISYE-6644,Simulation,5,20,3
+ISYE-6644,Simulation,5,16,3
+ISYE-6644,Simulation,5,20,4
+ISYE-6644,Simulation,5,7.5,3
+ISYE-6644,Simulation,4,10,3
+ISYE-6644,Simulation,5,10,3
+ISYE-6644,Simulation,4,8,4
+ISYE-6644,Simulation,5,12,4
+ISYE-6644,Simulation,4,10,3
+ISYE-6644,Simulation,5,8,3
+ISYE-6644,Simulation,4,5,3
+ISYE-6644,Simulation,3,10,3
+ISYE-6644,Simulation,5,12,3
+ISYE-6644,Simulation,5,6,4
+CS-6340,Software Analysis & Test,4,7,2
+CS-6340,Software Analysis & Test,2,12,4
+CS-6340,Software Analysis & Test,4,3,1
+CS-6340,Software Analysis & Test,2,20,4
+CS-6340,Software Analysis & Test,3,15,4
+CS-6340,Software Analysis & Test,5,11,3
+CS-6340,Software Analysis & Test,5,5,2
+CS-6340,Software Analysis & Test,4,4,2
+CS-6340,Software Analysis & Test,4,18,4
+CS-6340,Software Analysis & Test,3,20,3
+CS-6340,Software Analysis & Test,4,15,4
+CS-6340,Software Analysis & Test,4,14,3
+CS-6340,Software Analysis & Test,4,12,2
+CS-6340,Software Analysis & Test,4,14,3
+CS-6340,Software Analysis & Test,4,12,3
+CS-6340,Software Analysis & Test,5,10,1
+CS-6340,Software Analysis & Test,2,8,2
+CS-6340,Software Analysis & Test,1,8,2
+CS-6340,Software Analysis & Test,1,2,2
+CS-6340,Software Analysis & Test,5,15,4
+CS-6340,Software Analysis & Test,4,15,3
+CS-6340,Software Analysis & Test,4,5,2
+CS-6340,Software Analysis & Test,4,4,2
+CS-6340,Software Analysis & Test,4,10,3
+CS-6340,Software Analysis & Test,4,25,5
+CS-6340,Software Analysis & Test,4,6,4
+CS-6340,Software Analysis & Test,5,10,3
+CS-6340,Software Analysis & Test,4,15,4
+CS-6340,Software Analysis & Test,4,18,4
+CS-6340,Software Analysis & Test,4,15,4
+CS-6340,Software Analysis & Test,4,10,3
+CS-6340,Software Analysis & Test,5,10,2
+CS-6340,Software Analysis & Test,5,6,2
+CS-6340,Software Analysis & Test,1,20,5
+CS-6340,Software Analysis & Test,2,25,4
+CS-6340,Software Analysis & Test,2,6,3
+CS-6340,Software Analysis & Test,1,10,5
+CS-6340,Software Analysis & Test,4,16,5
+CS-6340,Software Analysis & Test,3,20,4
+CS-6340,Software Analysis & Test,2,5,1
+CS-6340,Software Analysis & Test,1,10,5
+CS-6340,Software Analysis & Test,1,25,5
+CS-6340,Software Analysis & Test,1,10,3
+CS-6340,Software Analysis & Test,4,8,3
+CS-6340,Software Analysis & Test,4,6,1
+CS-6340,Software Analysis & Test,4,10,3
+CS-6340,Software Analysis & Test,2,10,3
+CS-6340,Software Analysis & Test,3,15,4
+CS-6340,Software Analysis & Test,1,20,4
+CS-6340,Software Analysis & Test,4,10,4
+CS-6340,Software Analysis & Test,5,15,4
+CS-6340,Software Analysis & Test,5,10,3
+CS-6340,Software Analysis & Test,4,20,4
+CS-6340,Software Analysis & Test,3,15,3
+CS-6340,Software Analysis & Test,1,25,4
+CS-6340,Software Analysis & Test,3,20,4
+CS-6340,Software Analysis & Test,3,35,4
+CS-6340,Software Analysis & Test,3,9,3
+CS-6340,Software Analysis & Test,4,10,3
+CS-6340,Software Analysis & Test,2,15,4
+CS-6340,Software Analysis & Test,2,15,3
+CS-6340,Software Analysis & Test,5,10,3
+CS-6340,Software Analysis & Test,1,20,5
+CS-6340,Software Analysis & Test,4,8,3
+CS-6340,Software Analysis & Test,1,12,5
+CS-6340,Software Analysis & Test,1,15,5
+CS-6340,Software Analysis & Test,5,15,4
+CS-6340,Software Analysis & Test,5,5,3
+CS-6340,Software Analysis & Test,4,6,3
+CS-6340,Software Analysis & Test,4,25,3
+CS-6340,Software Analysis & Test,5,10,2
+CS-6340,Software Analysis & Test,4,10,3
+CS-6340,Software Analysis & Test,2,5,3
+CS-6340,Software Analysis & Test,2,5,2
+CS-6340,Software Analysis & Test,5,15,3
+CS-6340,Software Analysis & Test,2,6,2
+CS-6340,Software Analysis & Test,3,20,3
+CS-6340,Software Analysis & Test,2,15,4
+CS-6340,Software Analysis & Test,4,8,3
+CS-6340,Software Analysis & Test,1,15,4
+CS-6340,Software Analysis & Test,2,15,3
+CS-6340,Software Analysis & Test,5,10,3
+CS-6340,Software Analysis & Test,2,35,5
+CS-6340,Software Analysis & Test,4,16,4
+CS-6340,Software Analysis & Test,2,16,4
+CS-6340,Software Analysis & Test,NULL,5,3
+CS-6340,Software Analysis & Test,3,10,2
+CS-6340,Software Analysis & Test,NULL,7,3
+CS-6340,Software Analysis & Test,4,15,3
+CS-6340,Software Analysis & Test,NULL,8,4
+CS-6340,Software Analysis & Test,5,6,3
+CS-6340,Software Analysis & Test,5,9,3
+CS-6340,Software Analysis & Test,NULL,5,3
+CS-6340,Software Analysis & Test,4,3,2
+CS-6340,Software Analysis & Test,5,15,3
+CS-6340,Software Analysis & Test,4,15,4
+CS-6340,Software Analysis & Test,2,18,5
+CS-6340,Software Analysis & Test,1,8,3
+CS-6340,Software Analysis & Test,2,15,4
+CS-6340,Software Analysis & Test,1,15,4
+CS-6340,Software Analysis & Test,1,20,4
+CS-6340,Software Analysis & Test,1,15,4
+CS-6340,Software Analysis & Test,4,12,4
+CS-6340,Software Analysis & Test,5,7,3
+CS-6340,Software Analysis & Test,4,10,4
+CS-6340,Software Analysis & Test,5,10,3
+CS-6340,Software Analysis & Test,3,12,4
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,NULL,15,4
+CS-6310,Software Architecture & Design,2,5,2
+CS-6310,Software Architecture & Design,NULL,20,5
+CS-6310,Software Architecture & Design,5,10,3
+CS-6310,Software Architecture & Design,5,15,3
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,4,9,3
+CS-6310,Software Architecture & Design,2,2,1
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,3,15,3
+CS-6310,Software Architecture & Design,3,5,2
+CS-6310,Software Architecture & Design,3,15,2
+CS-6310,Software Architecture & Design,NULL,15,3
+CS-6310,Software Architecture & Design,1,2,1
+CS-6310,Software Architecture & Design,3,7,3
+CS-6310,Software Architecture & Design,3,6,1
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,3,6,3
+CS-6310,Software Architecture & Design,5,15,4
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,2,4,2
+CS-6310,Software Architecture & Design,5,10,4
+CS-6310,Software Architecture & Design,5,20,3
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,4,20,3
+CS-6310,Software Architecture & Design,4,8,2
+CS-6310,Software Architecture & Design,4,8,2
+CS-6310,Software Architecture & Design,4,15,3
+CS-6310,Software Architecture & Design,4,6,3
+CS-6310,Software Architecture & Design,NULL,15,4
+CS-6310,Software Architecture & Design,4,20,3
+CS-6310,Software Architecture & Design,4,6,2
+CS-6310,Software Architecture & Design,4,15,3
+CS-6310,Software Architecture & Design,3,12,3
+CS-6310,Software Architecture & Design,3,NULL,2
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,4,20,3
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,4,5,2
+CS-6310,Software Architecture & Design,4,20,5
+CS-6310,Software Architecture & Design,3,4,2
+CS-6310,Software Architecture & Design,NULL,30,4
+CS-6310,Software Architecture & Design,3,15,1
+CS-6310,Software Architecture & Design,4,20,2
+CS-6310,Software Architecture & Design,2,20,4
+CS-6310,Software Architecture & Design,3,10,3
+CS-6310,Software Architecture & Design,5,9,2
+CS-6310,Software Architecture & Design,4,4,1
+CS-6310,Software Architecture & Design,NULL,15,4
+CS-6310,Software Architecture & Design,4,12,3
+CS-6310,Software Architecture & Design,NULL,10,3
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,3,24,3
+CS-6310,Software Architecture & Design,NULL,20,5
+CS-6310,Software Architecture & Design,3,5,1
+CS-6310,Software Architecture & Design,2,4,2
+CS-6310,Software Architecture & Design,3,10,2
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,NULL,5,4
+CS-6310,Software Architecture & Design,3,5,2
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,1,25,5
+CS-6310,Software Architecture & Design,1,16,3
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,3,7,2
+CS-6310,Software Architecture & Design,1,10,2
+CS-6310,Software Architecture & Design,NULL,10,3
+CS-6310,Software Architecture & Design,5,25,2
+CS-6310,Software Architecture & Design,NULL,15,3
+CS-6310,Software Architecture & Design,NULL,30,4
+CS-6310,Software Architecture & Design,1,6,2
+CS-6310,Software Architecture & Design,4,6,2
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,3,25,5
+CS-6310,Software Architecture & Design,4,12,3
+CS-6310,Software Architecture & Design,NULL,15,4
+CS-6310,Software Architecture & Design,4,10,2
+CS-6310,Software Architecture & Design,3,8,1
+CS-6310,Software Architecture & Design,3,5,1
+CS-6310,Software Architecture & Design,3,2,1
+CS-6310,Software Architecture & Design,2,8,2
+CS-6310,Software Architecture & Design,3,7,3
+CS-6310,Software Architecture & Design,3,7,2
+CS-6310,Software Architecture & Design,4,7,3
+CS-6310,Software Architecture & Design,1,10,3
+CS-6310,Software Architecture & Design,1,2,1
+CS-6310,Software Architecture & Design,2,5,2
+CS-6310,Software Architecture & Design,5,20,3
+CS-6310,Software Architecture & Design,4,6,3
+CS-6310,Software Architecture & Design,4,15,4
+CS-6310,Software Architecture & Design,3,10,2
+CS-6310,Software Architecture & Design,3,18,4
+CS-6310,Software Architecture & Design,3,20,2
+CS-6310,Software Architecture & Design,4,6,2
+CS-6310,Software Architecture & Design,3,15,4
+CS-6310,Software Architecture & Design,NULL,30,3
+CS-6310,Software Architecture & Design,3,10,3
+CS-6310,Software Architecture & Design,2,14,4
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,4,15,3
+CS-6310,Software Architecture & Design,4,10,1
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,4,11,3
+CS-6310,Software Architecture & Design,NULL,10,4
+CS-6310,Software Architecture & Design,3,5,1
+CS-6310,Software Architecture & Design,3,10,2
+CS-6310,Software Architecture & Design,5,8,2
+CS-6310,Software Architecture & Design,3,7,3
+CS-6310,Software Architecture & Design,4,15,2
+CS-6310,Software Architecture & Design,4,15,3
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,NULL,30,4
+CS-6310,Software Architecture & Design,3,7,3
+CS-6310,Software Architecture & Design,4,20,3
+CS-6310,Software Architecture & Design,4,20,4
+CS-6310,Software Architecture & Design,2,15,2
+CS-6310,Software Architecture & Design,NULL,30,5
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,NULL,30,5
+CS-6310,Software Architecture & Design,4,30,2
+CS-6310,Software Architecture & Design,4,10,3
+CS-6310,Software Architecture & Design,2,7,2
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,NULL,20,4
+CS-6310,Software Architecture & Design,2,4,2
+CS-6310,Software Architecture & Design,5,10,2
+CS-6310,Software Architecture & Design,5,8,3
+CS-6310,Software Architecture & Design,3,10,3
+CS-6310,Software Architecture & Design,4,5,1
+CS-6310,Software Architecture & Design,2,12,2
+CS-6310,Software Architecture & Design,3,15,3
+CS-6310,Software Architecture & Design,4,12,3
+CS-6310,Software Architecture & Design,5,13,3
+CS-6300,Software Development Process,3,5,2
+CS-6300,Software Development Process,NULL,2,2
+CS-6300,Software Development Process,NULL,3,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,NULL,3,2
+CS-6300,Software Development Process,NULL,3,2
+CS-6300,Software Development Process,NULL,NULL,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,NULL,2
+CS-6300,Software Development Process,NULL,2,2
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,NULL,NULL,3
+CS-6300,Software Development Process,NULL,NULL,3
+CS-6300,Software Development Process,NULL,20,2
+CS-6300,Software Development Process,NULL,10,2
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,5,10,2
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,NULL,20,3
+CS-6300,Software Development Process,NULL,NULL,3
+CS-6300,Software Development Process,NULL,NULL,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,4,8,1
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,NULL,2
+CS-6300,Software Development Process,NULL,10,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,3,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,NULL,3
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,1,8,1
+CS-6300,Software Development Process,NULL,20,2
+CS-6300,Software Development Process,4,15.9,3
+CS-6300,Software Development Process,NULL,3,2
+CS-6300,Software Development Process,NULL,8,4
+CS-6300,Software Development Process,NULL,20,4
+CS-6300,Software Development Process,NULL,20,4
+CS-6300,Software Development Process,NULL,15,2
+CS-6300,Software Development Process,NULL,2,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,5,2
+CS-6300,Software Development Process,NULL,8,2
+CS-6300,Software Development Process,NULL,2,1
+CS-6300,Software Development Process,NULL,NULL,1
+CS-6300,Software Development Process,NULL,NULL,1
+CS-6300,Software Development Process,4,20,3
+CS-6300,Software Development Process,3,4,1
+CS-6300,Software Development Process,4,14,2
+CS-6300,Software Development Process,2,10,2
+CS-6300,Software Development Process,5,15,3
+CS-6300,Software Development Process,3,9,2
+CS-6300,Software Development Process,4,7.5,3
+CS-6300,Software Development Process,3,7,3
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,5,15,3
+CS-6300,Software Development Process,3,15,2
+CS-6300,Software Development Process,5,5,2
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,3,8,2
+CS-6300,Software Development Process,3,5,2
+CS-6300,Software Development Process,4,8,3
+CS-6300,Software Development Process,5,6,3
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,2,5,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,3,3,1
+CS-6300,Software Development Process,3,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,4,8,1
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,3,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,5,6,1
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,4,20,4
+CS-6300,Software Development Process,4,6,2
+CS-6300,Software Development Process,5,5,2
+CS-6300,Software Development Process,NULL,10,2
+CS-6300,Software Development Process,NULL,10,2
+CS-6300,Software Development Process,5,12,3
+CS-6300,Software Development Process,3,7,1
+CS-6300,Software Development Process,5,10,2
+CS-6300,Software Development Process,4,10,1
+CS-6300,Software Development Process,3,5,3
+CS-6300,Software Development Process,NULL,8,3
+CS-6300,Software Development Process,2,4,1
+CS-6300,Software Development Process,NULL,15,2
+CS-6300,Software Development Process,5,25,3
+CS-6300,Software Development Process,2,8,2
+CS-6300,Software Development Process,NULL,15,3
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,4,8,1
+CS-6300,Software Development Process,NULL,7,2
+CS-6300,Software Development Process,2,10,3
+CS-6300,Software Development Process,NULL,2,2
+CS-6300,Software Development Process,NULL,6,3
+CS-6300,Software Development Process,4,16,3
+CS-6300,Software Development Process,2,5,1
+CS-6300,Software Development Process,3,3,1
+CS-6300,Software Development Process,NULL,8,3
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,NULL,20,2
+CS-6300,Software Development Process,NULL,15,3
+CS-6300,Software Development Process,3,10,2
+CS-6300,Software Development Process,NULL,15,3
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,3,8,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,4,4,2
+CS-6300,Software Development Process,2,6,2
+CS-6300,Software Development Process,4,6,3
+CS-6300,Software Development Process,4,7,2
+CS-6300,Software Development Process,5,12,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,5,10,4
+CS-6300,Software Development Process,1,4,1
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,4,6,1
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,5,12,3
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,4,7,2
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,5,8,3
+CS-6300,Software Development Process,3,8,2
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,4,4,2
+CS-6300,Software Development Process,4,6.5,2
+CS-6300,Software Development Process,5,8,2
+CS-6300,Software Development Process,3,15,3
+CS-6300,Software Development Process,5,5,2
+CS-6300,Software Development Process,4,20,2
+CS-6300,Software Development Process,2,20,3
+CS-6300,Software Development Process,4,9,3
+CS-6300,Software Development Process,4,6,2
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,4,15,2
+CS-6300,Software Development Process,4,14,2
+CS-6300,Software Development Process,5,4,1
+CS-6300,Software Development Process,5,15,3
+CS-6300,Software Development Process,3,3,1
+CS-6300,Software Development Process,3,5,3
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,5,2,2
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,2,25,4
+CS-6300,Software Development Process,4,16,3
+CS-6300,Software Development Process,3,10,2
+CS-6300,Software Development Process,4,10,4
+CS-6300,Software Development Process,4,6,3
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,3,5,2
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,5,10,2
+CS-6300,Software Development Process,4,10,3
+CS-6300,Software Development Process,4,8,1
+CS-6300,Software Development Process,4,7,2
+CS-6300,Software Development Process,1,10,2
+CS-6300,Software Development Process,3,12,2
+CS-6300,Software Development Process,4,4,2
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,4,4,2
+CS-6300,Software Development Process,1,8,2
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,5,8,2
+CS-6300,Software Development Process,1,10,2
+CS-6300,Software Development Process,5,10,2
+CS-6300,Software Development Process,4,14,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,2,8,2
+CS-6300,Software Development Process,3,5,1
+CS-6300,Software Development Process,3,5,3
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,5,3,1
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,4,9,2
+CS-6300,Software Development Process,1,5,2
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,1,10,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,5,15,2
+CS-6300,Software Development Process,3,5,1
+CS-6300,Software Development Process,5,15,2
+CS-6300,Software Development Process,1,6,2
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,4,10,4
+CS-6300,Software Development Process,1,15,3
+CS-6300,Software Development Process,1,15,3
+CS-6300,Software Development Process,4,10,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,1,15,2
+CS-6300,Software Development Process,3,8,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,5,12,3
+CS-6300,Software Development Process,5,12,2
+CS-6300,Software Development Process,3,8,2
+CS-6300,Software Development Process,4,6,2
+CS-6300,Software Development Process,4,9,3
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,5,10,2
+CS-6300,Software Development Process,3,4,1
+CS-6300,Software Development Process,5,12,4
+CS-6300,Software Development Process,1,5,3
+CS-6300,Software Development Process,4,12,3
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,4,20,4
+CS-6300,Software Development Process,1,10,2
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,4,5,2
+CS-6300,Software Development Process,4,4,2
+CS-6300,Software Development Process,5,10,3
+CS-6300,Software Development Process,4,15,2
+CS-6300,Software Development Process,4,6,2
+CS-6300,Software Development Process,1,8,2
+CS-6300,Software Development Process,2,10,2
+CS-6300,Software Development Process,3,4,2
+CS-6300,Software Development Process,3,10,3
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,4,8,2
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,NULL,NULL,3
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,NULL,8,3
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,NULL,10,2
+CS-6300,Software Development Process,NULL,5,3
+CS-6300,Software Development Process,2,6,2
+CS-6300,Software Development Process,3,6,2
+CS-6300,Software Development Process,NULL,10,3
+CS-6300,Software Development Process,4,15,3
+CS-6300,Software Development Process,NULL,5,3
+ISYE-6402,Time Series Analysis,4,10,4
+ISYE-6402,Time Series Analysis,1,12,5
+ISYE-6402,Time Series Analysis,4,8,4
+ISYE-6402,Time Series Analysis,1,5,4
+ISYE-6402,Time Series Analysis,1,8,4
+ISYE-6402,Time Series Analysis,2,8,4
+ISYE-6402,Time Series Analysis,1,10,4
+ISYE-6402,Time Series Analysis,1,18,5
+ISYE-6402,Time Series Analysis,1,15,5
+ISYE-6402,Time Series Analysis,4,11,5
+ISYE-6402,Time Series Analysis,1,40,5
