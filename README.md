@@ -2,6 +2,8 @@
 
 Welcome to the `Recommender Room`, or `Rec Room`, for short. The `Rec Room` is a platform that provides students with valuable, on-demand access to academic support services, traditionally offered only in-person, via its suite of recommender systems.
 
+![rec-room dashboard](./report/rec-room-dashboard.jpg)
+
 The `Rec Room` is a web application made as part of a project in the Development Track in CS 6460 - Education Technology at  Georgia Tech. The application was developed in  `Python 3.7` on Linux Mint 18 / Ubuntu 16.04 LTS and further tested on Ubuntu 18.04.3 and the `Chrome` browser.
 
 **Contents of this document**
@@ -239,7 +241,9 @@ The `Rec Room` was developed with the hopes of hosting a suite of Recommender Sy
     - The `recommend` function is what takes in the user input, as specified in the `Parameters` section of the `Recommender` (see the [User Guide] section for information about running recommendations from the GUI) page and returns a dict-like recommendation. 
     - The `render` function returns the HTML to be displayed in the `Parameters` section of the `Recommender` page, including but not limited to, all input boxes, range sliders,  select-options, multi-select boxes, etc. These HTML elements can be styled using `Bootstrap CSS` classes since the application already links the stylesheet internally (see [Bootstrap CSS documentation] for additional information).
     - The `visualize` function takes the output from `recommend` as input and will return a JSON structure defining configuration options that will be formatted and displayed in the `Results` section of the `Recommender` page. More specifically, the configuration options will parameterize a `Chart` JavaScript object that will render a plot or diagram in the `Results` section. The `Chart` object is instantiated using the `chart.js` library (see [Chart.js documentation] for additional information).
-    
+
+![rec-room recommenders](./report/rec-room-recommenders.jpg)
+
 As mentioned, the `Rec Room` ships with two Recommender Systems already available, the OMS Course RS and the US Colleges RS.
 - **OMS Course RS** outputs course recommendations based on 3 criteria: rating, difficulty, and workload. A user must select their preferred settings, and then choose courses from the list of OMS courses. A `scikit-learn` Logistic Regression classifier was trained to output the course recommendations. The data used by this RS was kindly provided by Mehmet Bajin, current maintainer for [OMS Central].
 - **US Colleges RS** outputs a university recommendation based on 3 criteria: gpa, gpa, and rank. A user must select their preferred settings, and then choose universities from the list of available universities. A `scikit-learn` Nearest Neighbor model was trained to output university recommendations. The data used by this RS was obtained from a [UCLA course] and aggregated with additional [University Ranking data].
