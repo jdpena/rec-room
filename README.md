@@ -115,6 +115,8 @@ I have provided two additional files, `env.yml` and `requirements.txt`, both loc
 
 As mentioned, the `Rec Room` is a web application. It was built using a Model-View-Controller software design pattern, meaning it has a frontend Graphical User Interface (GUI) that can be accessed by a browser and a backend Application Program Interface (API) which accepts `POST` and `GET` HTTP requests. You must have a browser available - preferably `Chrome` - to interact with the GUI. Flat files, CSVs, are used as pseudo-databases (see [Pseudo-Database] section).
 
+![rec-room architecture](./report/rec-room-architecture.jpg) 
+
 The instructions below will step you through the process of running the application. Please refer to the [API] section for more information on the URL endpoints available.
 
 #### 1. Running the Application
