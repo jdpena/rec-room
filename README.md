@@ -359,7 +359,7 @@ Outstanding issues that were beyond the scope of this current project are listed
 
 ## Contact
 
-Please contact Jaime Peña at jdpena@gatech.edu for inquiries, assistance running, or continuing development.
+Please contact Jaime Peña at jdpena@mit.edu for inquiries, assistance running, or continuing development.
 
 [Quickstart]: #quickstart
 [Installation]: #installation
